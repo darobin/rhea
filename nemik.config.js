@@ -7,7 +7,7 @@ export default async function (nemik) {
     .gdoc2html()
     .bibliography()
     .theme('supramundane', {
-      cover: 'rhea.png',
+      cover: 'rhea.jpg',
       date: true,
       author: 'Robin Berjon',
     })
