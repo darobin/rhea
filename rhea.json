@@ -1,6 +1,6 @@
 {
   "title": "Requirements for a Healthy Ecosystem in Advertising (RHEA)",
-  "revisionId": "ALBJ4LtPW17gJE1kk7oWOw1r2dW8AyD3yZBJg3P85xXLj-tR2fpieICcR-MYcw17lib7klPtlQgpgUWJrMm1dg",
+  "revisionId": "ALBJ4LswsGFe36eaI8qb2DgINqvCz2i5tMvc8RBJEsB06M3D49JnrDols41cyd087AyMZpoAz_z-1ADgfQ7W8A",
   "suggestionsViewMode": "SUGGESTIONS_INLINE",
   "documentId": "1H1hIbhaAKlgoA9dHbjXOmEddW07eAlCGZbxmWQZSZDQ",
   "tabs": [
@@ -46,14 +46,14 @@
             },
             {
               "startIndex": 60,
-              "endIndex": 123,
+              "endIndex": 127,
               "paragraph": {
                 "elements": [
                   {
                     "startIndex": 60,
-                    "endIndex": 123,
+                    "endIndex": 127,
                     "textRun": {
-                      "content": "Building next-generation, pro-democracy advertising technology\n",
+                      "content": "Building next-generation, pro-democracy advertising infrastructure\n",
                       "textStyle": {}
                     }
                   }
@@ -66,13 +66,13 @@
               }
             },
             {
-              "startIndex": 123,
-              "endIndex": 1163,
+              "startIndex": 127,
+              "endIndex": 1167,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 123,
-                    "endIndex": 1163,
+                    "startIndex": 127,
+                    "endIndex": 1167,
                     "textRun": {
                       "content": "Advertising is a critical input to much of the digital economy, not least of which media. In fact, it has proven essential to the point of being described as “the business model of the internet.” Unfortunately, however, advertising has not been governed with the care that such an important piece of infrastructure deserves. Advertising is unpopular with technologists who want to do good, activists and civil society organisations often simply propose to eliminate it or limit themselves to superficial proposals that don’t engage with the technology or economics (e.g. “just use contextual”), and regulators have found the advertising system highly opaque and complex to engage with. It is common that publishers and marketers would only partially understand the system they use, which in turn stokes fear of what may happen if anything were to change. The field is highly concentrated around a Google/Meta duopoly and fraught with a long list of ills, but a comprehensive vision for a stakeholder-centric alternative has yet to emerge. \n",
                       "textStyle": {}
@@ -86,13 +86,13 @@
               }
             },
             {
-              "startIndex": 1163,
-              "endIndex": 1355,
+              "startIndex": 1167,
+              "endIndex": 1359,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 1163,
-                    "endIndex": 1355,
+                    "startIndex": 1167,
+                    "endIndex": 1359,
                     "textRun": {
                       "content": "This document outlines what an alternative could be. It doesn’t claim to be complete and certainly not detailed, but it offers a path forward that can hopefully be iterated upon and deployed.\n",
                       "textStyle": {}
@@ -106,13 +106,13 @@
               }
             },
             {
-              "startIndex": 1355,
-              "endIndex": 1393,
+              "startIndex": 1359,
+              "endIndex": 1397,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 1355,
-                    "endIndex": 1393,
+                    "startIndex": 1359,
+                    "endIndex": 1397,
                     "textRun": {
                       "content": "An Ecosystem Of Multifaceted Problems\n",
                       "textStyle": {}
@@ -127,13 +127,13 @@
               }
             },
             {
-              "startIndex": 1393,
-              "endIndex": 1691,
+              "startIndex": 1397,
+              "endIndex": 1695,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 1393,
-                    "endIndex": 1691,
+                    "startIndex": 1397,
+                    "endIndex": 1695,
                     "textRun": {
                       "content": "There is extensive literature about issues in digital advertising, and summarising it is beyond the scope of this paper. Instead, we offer a list of the more salient problems in the space so as to inform both the urgent need for reform and the shape of the solution space we consider further down.\n",
                       "textStyle": {}
@@ -147,13 +147,13 @@
               }
             },
             {
-              "startIndex": 1691,
-              "endIndex": 1736,
+              "startIndex": 1695,
+              "endIndex": 1740,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 1691,
-                    "endIndex": 1736,
+                    "startIndex": 1695,
+                    "endIndex": 1740,
                     "textRun": {
                       "content": "Taxing The Media to Subsidise Disinformation\n",
                       "textStyle": {}
@@ -168,13 +168,13 @@
               }
             },
             {
-              "startIndex": 1736,
-              "endIndex": 1982,
+              "startIndex": 1740,
+              "endIndex": 1986,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 1736,
-                    "endIndex": 1982,
+                    "startIndex": 1740,
+                    "endIndex": 1986,
                     "textRun": {
                       "content": "Legacy digital advertising is a system that, at the scale of the entire internet, taxes high-quality contexts (often the media) and redistributes that money to slop farms and disinformation operators, while advertising intermediaries take a cut.\n",
                       "textStyle": {}
@@ -188,13 +188,13 @@
               }
             },
             {
-              "startIndex": 1982,
-              "endIndex": 2289,
+              "startIndex": 1986,
+              "endIndex": 2293,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 1982,
-                    "endIndex": 2289,
+                    "startIndex": 1986,
+                    "endIndex": 2293,
                     "textRun": {
                       "content": "To understand how that works, it is important to understand that today’s digital advertising shares data in such a way that the same person will be recognised by intermediaries across completely unrelated contexts. Crucially, this means that a person can be observed in one context and targeted in another.\n",
                       "textStyle": {}
@@ -208,13 +208,13 @@
               }
             },
             {
-              "startIndex": 2289,
-              "endIndex": 3066,
+              "startIndex": 2293,
+              "endIndex": 3070,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 2289,
-                    "endIndex": 3066,
+                    "startIndex": 2293,
+                    "endIndex": 3070,
                     "textRun": {
                       "content": "Not all contexts are equal. Quality publishers (of all sizes) develop specific audiences over time and through hard work. These audiences are valuable for advertisers because they correspond to a meaningful group of people that can correlate well with brand goals or a given purchase intent. Slop farms and disinformation networks, on the other hand, do not produce valuable, well-developed audiences. Instead, they try to drive traffic up through any means available. In addition to the low quality of the context they offer, they also have amorphous audiences without clear advertising value. When contexts are isolated (and also when advertisers have better control over where their advertising ends up), it is more challenging for slop and disinformation to be profitable.\n",
                       "textStyle": {}
@@ -228,21 +228,21 @@
               }
             },
             {
-              "startIndex": 3066,
-              "endIndex": 3672,
+              "startIndex": 3070,
+              "endIndex": 3676,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 3066,
-                    "endIndex": 3443,
+                    "startIndex": 3070,
+                    "endIndex": 3447,
                     "textRun": {
                       "content": "This all changes when people can be targeted across contexts. A given person can be observed as being part of a high-value audience and later targeted in a low-value context. This both decreases the valuation of the quality context — since it is getting fewer, lower bids for its own audience — and increases the revenue that flows to slop and disinformation, what is known as ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 3443,
-                    "endIndex": 3469,
+                    "startIndex": 3447,
+                    "endIndex": 3473,
                     "textRun": {
                       "content": "Made For Advertising (MFA)",
                       "textStyle": {
@@ -251,8 +251,8 @@
                     }
                   },
                   {
-                    "startIndex": 3469,
-                    "endIndex": 3672,
+                    "startIndex": 3473,
+                    "endIndex": 3676,
                     "textRun": {
                       "content": " sites. It is a distributional arrangement that takes money from hard-working media to subsidise disinformation. This is detrimental to the media, to democracy, and to the information ecosystem overall.\n",
                       "textStyle": {}
@@ -266,13 +266,13 @@
               }
             },
             {
-              "startIndex": 3672,
-              "endIndex": 4121,
+              "startIndex": 3676,
+              "endIndex": 4125,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 3672,
-                    "endIndex": 4121,
+                    "startIndex": 3676,
+                    "endIndex": 4125,
                     "textRun": {
                       "content": "A few additional details add some colour. First, slop is profitable on volume (of which there is a lot) and also provides an outlet for lower-quality ads. There is an equilibrium point that blends a given proportion of quality and slop contexts at which an advertising marketplace such as Google’s is maximally profitable. Since the marketplace controls data distribution and prices, they are in a position to ensure this equilibrium is maintained.\n",
                       "textStyle": {}
@@ -286,13 +286,13 @@
               }
             },
             {
-              "startIndex": 4121,
-              "endIndex": 4359,
+              "startIndex": 4125,
+              "endIndex": 4363,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 4121,
-                    "endIndex": 4359,
+                    "startIndex": 4125,
+                    "endIndex": 4363,
                     "textRun": {
                       "content": "Second, it’s tempting to believe that marketers may benefit from lower prices thanks to this but it’s not obvious that they do — they often have poor visibility into the contexts in which their advertising reaches their intended clients.\n",
                       "textStyle": {}
@@ -312,13 +312,13 @@
               }
             },
             {
-              "startIndex": 4359,
-              "endIndex": 4584,
+              "startIndex": 4363,
+              "endIndex": 4588,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 4359,
-                    "endIndex": 4584,
+                    "startIndex": 4363,
+                    "endIndex": 4588,
                     "textRun": {
                       "content": "And finally, it’s important to keep in mind that what policy documents from Google or Meta describe as “publishers” is a large undifferentiated group that almost always includes active disinformation networks and slop farms.\n",
                       "textStyle": {}
@@ -338,13 +338,13 @@
               }
             },
             {
-              "startIndex": 4584,
-              "endIndex": 4744,
+              "startIndex": 4588,
+              "endIndex": 4748,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 4584,
-                    "endIndex": 4744,
+                    "startIndex": 4588,
+                    "endIndex": 4748,
                     "textRun": {
                       "content": "A pro-democracy solution must put an end to this subsidy system, both to make quality publishers more profitable and disinformation a less attractive business.\n",
                       "textStyle": {}
@@ -358,13 +358,13 @@
               }
             },
             {
-              "startIndex": 4744,
-              "endIndex": 4752,
+              "startIndex": 4748,
+              "endIndex": 4756,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 4744,
-                    "endIndex": 4752,
+                    "startIndex": 4748,
+                    "endIndex": 4756,
                     "textRun": {
                       "content": "Privacy\n",
                       "textStyle": {}
@@ -379,15 +379,15 @@
               }
             },
             {
-              "startIndex": 4752,
-              "endIndex": 4755,
+              "startIndex": 4756,
+              "endIndex": 5488,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 4752,
-                    "endIndex": 4755,
+                    "startIndex": 4756,
+                    "endIndex": 5488,
                     "textRun": {
-                      "content": "tk\n",
+                      "content": "Issues of surveillance in digital advertising are well established. The loading of one single ad typically involves broadcasting someone’s interaction with a given page or system to hundreds of additional parties, and after the ad has been loaded yet more parties are contacted. All of these actors obtain identifiers that enable them to track people’s behaviour across their entire online presence. Both publishers and marketers are typically unable to provide a reliable list of who has seen any given person’s data, and are even less able to account for processing purposes. Regulatory interventions have produced very little impact and consent-based approaches often inconvenience people without affecting data collectors much.\n",
                       "textStyle": {}
                     }
                   }
@@ -399,148 +399,135 @@
               }
             },
             {
-              "startIndex": 4755,
-              "endIndex": 4763,
+              "startIndex": 5488,
+              "endIndex": 5882,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 4755,
-                    "endIndex": 4763,
+                    "startIndex": 5488,
+                    "endIndex": 5882,
                     "textRun": {
-                      "content": "privacy\n",
+                      "content": "There is at best only limited evidence to support the idea that this data collection and processing is needed. Not one single reproducible study has been produced, results point in different directions depending on method and data set, and many studies are conflicted (or don’t declare conflicts), fail to test meaningful counterfactuals, and some commonly-cited ones are preposterously wrong.\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.klhx7ic4put3",
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 4763,
-              "endIndex": 4826,
+              "startIndex": 5882,
+              "endIndex": 6882,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 4763,
-                    "endIndex": 4826,
+                    "startIndex": 5882,
+                    "endIndex": 6438,
                     "textRun": {
-                      "content": "limited evidence to support that the data processing is needed\n",
+                      "content": "There is, however, an advantage to surveilling people in many contexts: it’s an effective way to predict that a given person is about to purchase a specific product (or carry out a similar action), show them an ad right before they buy it, and claim the conversion. This is worth unpacking. Marketers are keen to measure the effectiveness of their campaigns by attributing conversions — a specific action taken by a person, often a sale but not necessarily — to whoever showed that person an ad that “triggered” this conversion. But deciding what ad might ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 6438,
+                    "endIndex": 6443,
+                    "textRun": {
+                      "content": "cause",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 6443,
+                    "endIndex": 6553,
+                    "textRun": {
+                      "content": " which given person at what given time in which specific context to buy something is inordinately hard. It is ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 6553,
+                    "endIndex": 6558,
+                    "textRun": {
+                      "content": "a lot",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 6558,
+                    "endIndex": 6882,
+                    "textRun": {
+                      "content": " easier to detect that a given person is about to make a purchase no matter what — especially if you have data about what they search for through a search engine, their entire browsing history through your browser, their location through your mapping application and a mobile OS, and access to what they are emailing about.\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "indentFirstLine": {
-                    "magnitude": 54,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 72,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.klhx7ic4put3",
-                  "nestingLevel": 1,
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 4826,
-              "endIndex": 4893,
+              "startIndex": 6882,
+              "endIndex": 7532,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 4826,
-                    "endIndex": 4893,
+                    "startIndex": 6882,
+                    "endIndex": 7002,
                     "textRun": {
-                      "content": "often used to predict a sale that would have happened anyway (HBR)\n",
+                      "content": "Showing an ad for a product that someone is about to buy anyway is a net loss for the advertiser: that is literally the ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 7002,
+                    "endIndex": 7006,
+                    "textRun": {
+                      "content": "last",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 7006,
+                    "endIndex": 7251,
+                    "textRun": {
+                      "content": " person who should be seeing that ad. But the advertiser doesn’t know that, and it makes it possible to claim the conversion, which means greater advertising dominance and more future spend. There is evidence that this practice is taking place (",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 7251,
+                    "endIndex": 7532,
+                    "textRun": {
+                      "content": "[[hbr-targeting]]) and no study has eliminated the concern. The massive data leak that is digital advertising is therefore not known to be better for advertisers and, as deployed, might be worse for them. We already know from the previous section that it does not help publishers.\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "indentFirstLine": {
-                    "magnitude": 54,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 72,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.klhx7ic4put3",
-                  "nestingLevel": 1,
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 4893,
-              "endIndex": 4991,
+              "startIndex": 7532,
+              "endIndex": 7538,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 4893,
-                    "endIndex": 4991,
-                    "textRun": {
-                      "content": "the data advantage is most likely about faking lift than it is about creating genuine conversions\n",
-                      "textStyle": {}
-                    }
-                  }
-                ],
-                "paragraphStyle": {
-                  "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "indentFirstLine": {
-                    "magnitude": 54,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 72,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.klhx7ic4put3",
-                  "nestingLevel": 1,
-                  "textStyle": {}
-                }
-              }
-            },
-            {
-              "startIndex": 4991,
-              "endIndex": 4997,
-              "paragraph": {
-                "elements": [
-                  {
-                    "startIndex": 4991,
-                    "endIndex": 4997,
+                    "startIndex": 7532,
+                    "endIndex": 7538,
                     "textRun": {
                       "content": "Fraud\n",
                       "textStyle": {}
@@ -555,15 +542,15 @@
               }
             },
             {
-              "startIndex": 4997,
-              "endIndex": 5000,
+              "startIndex": 7538,
+              "endIndex": 8009,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 4997,
-                    "endIndex": 5000,
+                    "startIndex": 7538,
+                    "endIndex": 8009,
                     "textRun": {
-                      "content": "tk\n",
+                      "content": "In addition to intermediary practices that are detrimental to people, publishers, and marketers, the digital advertising environment is riddled with fraud. A report from the World Federation of Advertisers speaks for itself ([[wfa-ad-fraud]]). They predict ad fraud to be worth USD $50bn in 2025 at the conservative end of the spectrum (and up to almost three times that), potentially making it second only to the cocaine and opiates market as a form of organised crime.\n",
                       "textStyle": {}
                     }
                   }
@@ -575,13 +562,53 @@
               }
             },
             {
-              "startIndex": 5000,
-              "endIndex": 5009,
+              "startIndex": 8009,
+              "endIndex": 8343,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5000,
-                    "endIndex": 5009,
+                    "startIndex": 8009,
+                    "endIndex": 8343,
+                    "textRun": {
+                      "content": "Interestingly, the WFA estimates that whenever ad fraud is committed, less than half of the money goes to the fraudster, with the rest flowing to “legitimate” intermediary actors. One doesn’t need to be cynical to note that the revenue amounts and the widespread nature of fraud do not incentivise intermediaries to crack down on it.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 8343,
+              "endIndex": 8741,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 8343,
+                    "endIndex": 8741,
+                    "textRun": {
+                      "content": "To make matters more interesting, the suggested cure for these problems can often make the problem worse, for instance when Invalid Traffic (IVT) or brand safety vendors (who are supposed to keep ads from appearing in wrong, including fraudulent, contexts) systematically defund climate reporting or use their tooling to index publishers’ content and compete against them for contextual targeting.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 8741,
+              "endIndex": 8750,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 8741,
+                    "endIndex": 8750,
                     "textRun": {
                       "content": "Security\n",
                       "textStyle": {}
@@ -596,15 +623,15 @@
               }
             },
             {
-              "startIndex": 5009,
-              "endIndex": 5012,
+              "startIndex": 8750,
+              "endIndex": 9203,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5009,
-                    "endIndex": 5012,
+                    "startIndex": 8750,
+                    "endIndex": 9203,
                     "textRun": {
-                      "content": "tk\n",
+                      "content": "The technical practices of adtech and martech are also intrinsically insecure. The entire edifice is built on top of unverified third-party code injection. When (not if) a marketing vendor is compromised, the attacker becomes able to run code on often tens of thousands of websites as if they were the website operator, allowing them to interact with backend APIs or to capture data entered by users, up to and including username/password combinations.\n",
                       "textStyle": {}
                     }
                   }
@@ -616,13 +643,73 @@
               }
             },
             {
-              "startIndex": 5012,
-              "endIndex": 5022,
+              "startIndex": 9203,
+              "endIndex": 9519,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5012,
-                    "endIndex": 5022,
+                    "startIndex": 9203,
+                    "endIndex": 9519,
+                    "textRun": {
+                      "content": "This is a direct consequence of the open-ended promiscuity of the adtech stack, as empowered by browser vendors. It is, in a very concrete sense, strictly impossible for a publisher to abide by their legal obligations to be diligent with cybersecurity if they also wish to display advertising from today’s industry.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 9519,
+              "endIndex": 9714,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 9519,
+                    "endIndex": 9714,
+                    "textRun": {
+                      "content": "This additionally makes data breaches impossible to audit after the fact. In many cases, there is simply no way to know which third parties had code injected into a page as a breach was ongoing.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 9714,
+              "endIndex": 10024,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 9714,
+                    "endIndex": 10024,
+                    "textRun": {
+                      "content": "Whenever a security bug is uncovered in a browser, advertising provides an excellent delivery mechanism for it. And because code is injected dynamically, it is possible for an attacker to inject malicious code for a time, attain a given objective, and then remove the malicious code without leaving any trace.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 10024,
+              "endIndex": 10034,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 10024,
+                    "endIndex": 10034,
                     "textRun": {
                       "content": "Espionage\n",
                       "textStyle": {}
@@ -637,15 +724,15 @@
               }
             },
             {
-              "startIndex": 5022,
-              "endIndex": 5025,
+              "startIndex": 10034,
+              "endIndex": 10459,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5022,
-                    "endIndex": 5025,
+                    "startIndex": 10034,
+                    "endIndex": 10459,
                     "textRun": {
-                      "content": "tk\n",
+                      "content": "It is tempting to lump all issues downstream of data collection under privacy, but when you combine the scale of the surveillance, the sensitive nature of the data including all online activity and geolocation, and a technical architecture that entirely obfuscates who is listening you obtain a system with societal and geopolitical concerns that exceed privacy issues typically more centred on furthering individual agency.\n",
                       "textStyle": {}
                     }
                   }
@@ -657,13 +744,91 @@
               }
             },
             {
-              "startIndex": 5025,
-              "endIndex": 5033,
+              "startIndex": 10459,
+              "endIndex": 11053,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5025,
-                    "endIndex": 5033,
+                    "startIndex": 10459,
+                    "endIndex": 10920,
+                    "textRun": {
+                      "content": "Indeed, it is possible to buy information off the shelf about military and intelligence workers who attend brothels and visit nuclear vaults ([[wired-nuclear-brothels]]) and thanks to the wide sharing of identifiers between data brokers the U.S. government can create a one-stop-shop for sensitive personal data provided by the private sector ([[spy-one-stop-shop]]). This confirms earlier work from The New York Times in which reporters, with access to only a ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 10920,
+                    "endIndex": 10924,
+                    "textRun": {
+                      "content": "tiny",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 10924,
+                    "endIndex": 11053,
+                    "textRun": {
+                      "content": " subset of the data that brokers have were able to track people to nuclear plants, church, family planning ([[nyt-last-night]]).\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 11053,
+              "endIndex": 11439,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 11053,
+                    "endIndex": 11439,
+                    "textRun": {
+                      "content": "Nothing about this data limits its use to the espionage of nation-states, it is perfectly applicable to corporate espionage as well. Listing all the people who work in a given building during the day and leave digital trails that expose them to blackmail is trivial. As is knowing what employees are reading about on the internet, what they are buying, or where they are travelling to.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 11439,
+              "endIndex": 11551,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 11439,
+                    "endIndex": 11551,
+                    "textRun": {
+                      "content": "While not specific to advertising, this issue is almost entirely driven by advertising-related data collection.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 11551,
+              "endIndex": 11559,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 11551,
+                    "endIndex": 11559,
                     "textRun": {
                       "content": "Opacity\n",
                       "textStyle": {}
@@ -678,15 +843,15 @@
               }
             },
             {
-              "startIndex": 5033,
-              "endIndex": 5036,
+              "startIndex": 11559,
+              "endIndex": 11961,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5033,
-                    "endIndex": 5036,
+                    "startIndex": 11559,
+                    "endIndex": 11961,
                     "textRun": {
-                      "content": "tk\n",
+                      "content": "The digital advertising environment is so opaque that very little evidence-based decision-making is possible. Marketers track campaign performance as best they can and make the most informed decisions that they are able to (e.g. using mixed-media modelling) but by and large they lack the ability to sufficiently understand which levers are really effective and where their campaigns are really shown.\n",
                       "textStyle": {}
                     }
                   }
@@ -698,254 +863,79 @@
               }
             },
             {
-              "startIndex": 5036,
-              "endIndex": 5120,
+              "startIndex": 11961,
+              "endIndex": 12362,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5036,
-                    "endIndex": 5120,
+                    "startIndex": 11961,
+                    "endIndex": 12054,
                     "textRun": {
-                      "content": "very little academic research worth considering, in some cases preposterously wrong\n",
+                      "content": "The biggest impact from this is risk aversion. Actors will have an ad strategy that delivers ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 12054,
+                    "endIndex": 12063,
+                    "textRun": {
+                      "content": "something",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 12063,
+                    "endIndex": 12362,
+                    "textRun": {
+                      "content": " and any major change feels like it could bring everything down. It is so difficult to meaningfully attribute causality — even if experienced practitioners know how to make localised improvements — that it is impossible to assess changes without tests and very difficult to create meaningful tests.\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.klhx7ic4put3",
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 5120,
-              "endIndex": 5181,
+              "startIndex": 12362,
+              "endIndex": 12764,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5120,
-                    "endIndex": 5181,
+                    "startIndex": 12362,
+                    "endIndex": 12763,
                     "textRun": {
-                      "content": "so opaque that no evidence-based decision-making is possible\n",
+                      "content": "Advertisers are often in the dark about where their ads were placed. Publishers are often in the dark about which impression drove which income, and completely in the dark about most ads they carry or how much the buyer paid for them. Calculating the adtech tax is at best challenging and some of the better attempts at tracing money from buyers to sellers failed to account for very significant sums.",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 12763,
+                    "endIndex": 12764,
+                    "textRun": {
+                      "content": "\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "indentFirstLine": {
-                    "magnitude": 54,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 72,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.klhx7ic4put3",
-                  "nestingLevel": 1,
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 5181,
-              "endIndex": 5325,
+              "startIndex": 12764,
+              "endIndex": 12793,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5181,
-                    "endIndex": 5325,
-                    "textRun": {
-                      "content": "the general climate of opacity makes it impossible for actors to make informed decisions as market participants, either as buyers or as sellers\n",
-                      "textStyle": {}
-                    }
-                  }
-                ],
-                "paragraphStyle": {
-                  "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "indentFirstLine": {
-                    "magnitude": 54,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 72,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.klhx7ic4put3",
-                  "nestingLevel": 1,
-                  "textStyle": {}
-                }
-              }
-            },
-            {
-              "startIndex": 5325,
-              "endIndex": 5331,
-              "paragraph": {
-                "elements": [
-                  {
-                    "startIndex": 5325,
-                    "endIndex": 5331,
-                    "textRun": {
-                      "content": "price\n",
-                      "textStyle": {}
-                    }
-                  }
-                ],
-                "paragraphStyle": {
-                  "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.klhx7ic4put3",
-                  "textStyle": {
-                    "underline": false
-                  }
-                }
-              }
-            },
-            {
-              "startIndex": 5331,
-              "endIndex": 5350,
-              "paragraph": {
-                "elements": [
-                  {
-                    "startIndex": 5331,
-                    "endIndex": 5350,
-                    "textRun": {
-                      "content": "advertiser privacy\n",
-                      "textStyle": {}
-                    }
-                  }
-                ],
-                "paragraphStyle": {
-                  "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.klhx7ic4put3",
-                  "textStyle": {
-                    "underline": false
-                  }
-                }
-              }
-            },
-            {
-              "startIndex": 5350,
-              "endIndex": 5359,
-              "paragraph": {
-                "elements": [
-                  {
-                    "startIndex": 5350,
-                    "endIndex": 5359,
-                    "textRun": {
-                      "content": "taxation\n",
-                      "textStyle": {}
-                    }
-                  }
-                ],
-                "paragraphStyle": {
-                  "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.klhx7ic4put3",
-                  "textStyle": {
-                    "underline": false
-                  }
-                }
-              }
-            },
-            {
-              "startIndex": 5359,
-              "endIndex": 5378,
-              "paragraph": {
-                "elements": [
-                  {
-                    "startIndex": 5359,
-                    "endIndex": 5378,
-                    "textRun": {
-                      "content": "money traceability\n",
-                      "textStyle": {}
-                    }
-                  }
-                ],
-                "paragraphStyle": {
-                  "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.klhx7ic4put3",
-                  "textStyle": {
-                    "underline": false
-                  }
-                }
-              }
-            },
-            {
-              "startIndex": 5378,
-              "endIndex": 5407,
-              "paragraph": {
-                "elements": [
-                  {
-                    "startIndex": 5378,
-                    "endIndex": 5407,
+                    "startIndex": 12764,
+                    "endIndex": 12793,
                     "textRun": {
                       "content": "Concentration and Governance\n",
                       "textStyle": {}
@@ -960,15 +950,33 @@
               }
             },
             {
-              "startIndex": 5407,
-              "endIndex": 5410,
+              "startIndex": 12793,
+              "endIndex": 13348,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5407,
-                    "endIndex": 5410,
+                    "startIndex": 12793,
+                    "endIndex": 12933,
                     "textRun": {
-                      "content": "tk\n",
+                      "content": "There is little need to expand on problems of concentration in the advertising market now that Google has been convicted as a monopolist in ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 12933,
+                    "endIndex": 12937,
+                    "textRun": {
+                      "content": "both",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 12937,
+                    "endIndex": 13348,
+                    "textRun": {
+                      "content": " digital advertising in general and search advertising. The overall digital advertising market has a large number of small actors because there are plenty of services — many of them of dubious value — that can be overlaid atop the core money-makers, but there is no doubt as to who dominates the market and makes the rules. Even Meta, the other arm of the duopoly, takes second place to Google’s global empire.\n",
                       "textStyle": {}
                     }
                   }
@@ -980,81 +988,151 @@
               }
             },
             {
-              "startIndex": 5410,
-              "endIndex": 5488,
+              "startIndex": 13348,
+              "endIndex": 13496,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5410,
-                    "endIndex": 5488,
+                    "startIndex": 13348,
+                    "endIndex": 13496,
                     "textRun": {
-                      "content": "the excessive weight of search & the browser funding system (put this at end)\n",
+                      "content": "While this situation is well documented, it is worth underlining a couple of specificities that should guide efforts to fix the advertising market.\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.klhx7ic4put3",
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 5488,
-              "endIndex": 5508,
+              "startIndex": 13496,
+              "endIndex": 13938,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5488,
-                    "endIndex": 5508,
+                    "startIndex": 13496,
+                    "endIndex": 13547,
                     "textRun": {
-                      "content": "marketplace capture\n",
+                      "content": "First, as explained at length by Dina Srinivasan, “",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 13547,
+                    "endIndex": 13904,
+                    "textRun": {
+                      "content": "Google dominates advertising markets by engaging in conduct that lawmakers prohibit in other electronic trading markets: Google’s exchange shares superior trading information and speed with the Google-owned intermediaries, Google steers buy and sell orders to its exchange and websites (Search & YouTube), and Google abuses its access to inside information.",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 13904,
+                    "endIndex": 13938,
+                    "textRun": {
+                      "content": "”  ([[why-google-dominates-ads]])\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.klhx7ic4put3",
-                  "textStyle": {
-                    "underline": false
-                  }
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 5508,
-              "endIndex": 5523,
+              "startIndex": 13938,
+              "endIndex": 14547,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5508,
-                    "endIndex": 5523,
+                    "startIndex": 13938,
+                    "endIndex": 14547,
+                    "textRun": {
+                      "content": "That is possible because, unlike other electronic markets (and, in fact, markets in general) advertising trading markets are largely unregulated or operate under unenforced regulation. This is possible in part because the digital advertising industry was granted the leeway to self-regulate for 25 years (which it largely did not do), and in part because Google controls and sets the rules for the marketplaces, data ingress points (browsers and operating system), and largest market participants. Google is the actor with the most power and the most to lose from sharing governance over advertising markets.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 14547,
+              "endIndex": 14745,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 14547,
+                    "endIndex": 14745,
+                    "textRun": {
+                      "content": "A second consideration is that it isn’t possible to completely separate the already-complex digital advertising system from related considerations involving browsers, operating systems, and search.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 14745,
+              "endIndex": 15281,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 14745,
+                    "endIndex": 15281,
+                    "textRun": {
+                      "content": "Part of the issue has to do with privacy. For one, Google Chrome is not only the only remaining significant browser to offer no privacy protection but it also deploys an impressive array of deceptive patterns to trick its users into disclosing their entire browsing history to Google — something which Google then uses to optimise its search engine, an advertising business. Google isn’t the only one to blame: Apple also invented mobile ad IDs so that people would be tracked in apps and markets privacy but defaults to Google Search.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 15281,
+              "endIndex": 16204,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 15281,
+                    "endIndex": 16204,
+                    "textRun": {
+                      "content": "But, more importantly, the manner in which Google’s search business maintains its dominance has a direct impact on the value of advertising across the digital sphere, defunding other actors. In a nutshell, money that is spent on search advertising isn’t spent elsewhere in the advertising system. But, as established in the U.S. Google Search case, Google’s monopoly in search allows it to charge supracompetitive prices in search, and the centrality of search means buyers cannot easily switch to spending elsewhere. This means that Google Search is depreciating ad prices for the rest of the digital sphere. In turn, that search monopoly is enforced by browser vendors and mobile operating systems, who get a cut of that revenue in exchange for the service. The system operates as a de facto cartel, making money by artificially driving up the value of Google Search ads and defunding ad revenue for the rest of the web.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 16204,
+              "endIndex": 16219,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 16204,
+                    "endIndex": 16219,
                     "textRun": {
                       "content": "Sustainability\n",
                       "textStyle": {}
@@ -1069,15 +1147,15 @@
               }
             },
             {
-              "startIndex": 5523,
-              "endIndex": 5526,
+              "startIndex": 16219,
+              "endIndex": 16465,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5523,
-                    "endIndex": 5526,
+                    "startIndex": 16219,
+                    "endIndex": 16465,
                     "textRun": {
-                      "content": "tk\n",
+                      "content": "The real-time nature of ad bidding requires having every ad request processed by hundreds of parties. This is highly inefficient. The vast amounts of data being collected, stored, access, and processed for this system also incur energetic costs.\n",
                       "textStyle": {}
                     }
                   }
@@ -1089,48 +1167,73 @@
               }
             },
             {
-              "startIndex": 5526,
-              "endIndex": 5585,
+              "startIndex": 16465,
+              "endIndex": 16664,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5526,
-                    "endIndex": 5585,
+                    "startIndex": 16465,
+                    "endIndex": 16664,
                     "textRun": {
-                      "content": "energy costs (for fraud, but also for oversized creatives)\n",
+                      "content": "Additionally, ad creatives are often exceedingly heavy (in bytes), which uses up bandwidth and processing power. Since they are typically seen thousands if not millions of times, the effect adds up.\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.klhx7ic4put3",
-                  "textStyle": {
-                    "underline": false
-                  }
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 5585,
-              "endIndex": 5628,
+              "startIndex": 16664,
+              "endIndex": 16742,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5585,
-                    "endIndex": 5628,
+                    "startIndex": 16664,
+                    "endIndex": 16742,
+                    "textRun": {
+                      "content": "What’s more, some types of ad fraud can be particularly processing-intensive.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 16742,
+              "endIndex": 16904,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 16742,
+                    "endIndex": 16904,
+                    "textRun": {
+                      "content": "Overall, while sustainability considerations in advertising have rarely been foregrounded, there is meaningful room for improvement along this dimension as well.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 16904,
+              "endIndex": 16947,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 16904,
+                    "endIndex": 16947,
                     "textRun": {
                       "content": "Our Goals: Who To Improve Advertising For?\n",
                       "textStyle": {}
@@ -1145,13 +1248,13 @@
               }
             },
             {
-              "startIndex": 5628,
-              "endIndex": 5631,
+              "startIndex": 16947,
+              "endIndex": 16950,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5628,
-                    "endIndex": 5631,
+                    "startIndex": 16947,
+                    "endIndex": 16950,
                     "textRun": {
                       "content": "tk\n",
                       "textStyle": {}
@@ -1165,13 +1268,13 @@
               }
             },
             {
-              "startIndex": 5631,
-              "endIndex": 5708,
+              "startIndex": 16950,
+              "endIndex": 17027,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5631,
-                    "endIndex": 5708,
+                    "startIndex": 16950,
+                    "endIndex": 17027,
                     "textRun": {
                       "content": "Better for publishers: describe the subsidy system and how we need to end it\n",
                       "textStyle": {}
@@ -1202,13 +1305,53 @@
               }
             },
             {
-              "startIndex": 5708,
-              "endIndex": 5789,
+              "startIndex": 17027,
+              "endIndex": 17070,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5708,
-                    "endIndex": 5789,
+                    "startIndex": 17027,
+                    "endIndex": 17070,
+                    "textRun": {
+                      "content": "for each go through all the intro problems\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spacingMode": "COLLAPSE_LISTS",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "magnitude": 54,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 72,
+                    "unit": "PT"
+                  }
+                },
+                "bullet": {
+                  "listId": "kix.oma3nnnjrxfj",
+                  "nestingLevel": 1,
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 17070,
+              "endIndex": 17151,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 17070,
+                    "endIndex": 17151,
                     "textRun": {
                       "content": "Better for advertisers: traceability problems, lots of marketing options are bad\n",
                       "textStyle": {}
@@ -1239,13 +1382,13 @@
               }
             },
             {
-              "startIndex": 5789,
-              "endIndex": 5825,
+              "startIndex": 17151,
+              "endIndex": 17187,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5789,
-                    "endIndex": 5825,
+                    "startIndex": 17151,
+                    "endIndex": 17187,
                     "textRun": {
                       "content": "Better for people: credible privacy\n",
                       "textStyle": {}
@@ -1276,15 +1419,15 @@
               }
             },
             {
-              "startIndex": 5825,
-              "endIndex": 5901,
+              "startIndex": 17187,
+              "endIndex": 17207,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5825,
-                    "endIndex": 5901,
+                    "startIndex": 17187,
+                    "endIndex": 17207,
                     "textRun": {
-                      "content": "Governed ad safety (link to defunding climate reporting + stealing content)\n",
+                      "content": "Governed ad safety \n",
                       "textStyle": {}
                     }
                   }
@@ -1313,13 +1456,13 @@
               }
             },
             {
-              "startIndex": 5901,
-              "endIndex": 5911,
+              "startIndex": 17207,
+              "endIndex": 17217,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5901,
-                    "endIndex": 5911,
+                    "startIndex": 17207,
+                    "endIndex": 17217,
                     "textRun": {
                       "content": "from RHEA\n",
                       "textStyle": {}
@@ -1350,13 +1493,13 @@
               }
             },
             {
-              "startIndex": 5911,
-              "endIndex": 5912,
+              "startIndex": 17217,
+              "endIndex": 17218,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5911,
-                    "endIndex": 5912,
+                    "startIndex": 17217,
+                    "endIndex": 17218,
                     "textRun": {
                       "content": "\n",
                       "textStyle": {}
@@ -1374,13 +1517,13 @@
               }
             },
             {
-              "startIndex": 5912,
-              "endIndex": 5920,
+              "startIndex": 17218,
+              "endIndex": 17226,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5912,
-                    "endIndex": 5920,
+                    "startIndex": 17218,
+                    "endIndex": 17226,
                     "textRun": {
                       "content": "Privacy\n",
                       "textStyle": {}
@@ -1399,13 +1542,13 @@
               }
             },
             {
-              "startIndex": 5920,
-              "endIndex": 5923,
+              "startIndex": 17226,
+              "endIndex": 17229,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5920,
-                    "endIndex": 5923,
+                    "startIndex": 17226,
+                    "endIndex": 17229,
                     "textRun": {
                       "content": "tk\n",
                       "textStyle": {}
@@ -1419,13 +1562,13 @@
               }
             },
             {
-              "startIndex": 5923,
-              "endIndex": 5976,
+              "startIndex": 17229,
+              "endIndex": 17282,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5923,
-                    "endIndex": 5976,
+                    "startIndex": 17229,
+                    "endIndex": 17282,
                     "textRun": {
                       "content": "Exemptions + technical guarantees for the processing\n",
                       "textStyle": {}
@@ -1456,13 +1599,13 @@
               }
             },
             {
-              "startIndex": 5976,
-              "endIndex": 6029,
+              "startIndex": 17282,
+              "endIndex": 17335,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 5976,
-                    "endIndex": 6029,
+                    "startIndex": 17282,
+                    "endIndex": 17335,
                     "textRun": {
                       "content": "Explain that this is intended to help publishers too\n",
                       "textStyle": {}
@@ -1495,13 +1638,13 @@
               }
             },
             {
-              "startIndex": 6029,
-              "endIndex": 6129,
+              "startIndex": 17335,
+              "endIndex": 17435,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6029,
-                    "endIndex": 6129,
+                    "startIndex": 17335,
+                    "endIndex": 17435,
                     "textRun": {
                       "content": "Single controller operations (apart perhaps from some very limited technical services like serving)\n",
                       "textStyle": {}
@@ -1532,13 +1675,13 @@
               }
             },
             {
-              "startIndex": 6129,
-              "endIndex": 6143,
+              "startIndex": 17435,
+              "endIndex": 17449,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6129,
-                    "endIndex": 6143,
+                    "startIndex": 17435,
+                    "endIndex": 17449,
                     "textRun": {
                       "content": "Article 40/41\n",
                       "textStyle": {}
@@ -1569,13 +1712,13 @@
               }
             },
             {
-              "startIndex": 6143,
-              "endIndex": 6234,
+              "startIndex": 17449,
+              "endIndex": 17540,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6143,
-                    "endIndex": 6234,
+                    "startIndex": 17449,
+                    "endIndex": 17540,
                     "textRun": {
                       "content": "Could consider using the Data Act and data exchanges (?) to support some form of targeting\n",
                       "textStyle": {}
@@ -1606,13 +1749,13 @@
               }
             },
             {
-              "startIndex": 6234,
-              "endIndex": 6290,
+              "startIndex": 17540,
+              "endIndex": 17596,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6234,
-                    "endIndex": 6290,
+                    "startIndex": 17540,
+                    "endIndex": 17596,
                     "textRun": {
                       "content": "Use sortition-based privacy (see Asia, also Max von G.)\n",
                       "textStyle": {}
@@ -1644,13 +1787,13 @@
               }
             },
             {
-              "startIndex": 6290,
-              "endIndex": 6302,
+              "startIndex": 17596,
+              "endIndex": 17608,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6290,
-                    "endIndex": 6302,
+                    "startIndex": 17596,
+                    "endIndex": 17608,
                     "textRun": {
                       "content": "Marketplace\n",
                       "textStyle": {}
@@ -1669,13 +1812,13 @@
               }
             },
             {
-              "startIndex": 6302,
-              "endIndex": 6305,
+              "startIndex": 17608,
+              "endIndex": 17611,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6302,
-                    "endIndex": 6305,
+                    "startIndex": 17608,
+                    "endIndex": 17611,
                     "textRun": {
                       "content": "tk\n",
                       "textStyle": {}
@@ -1689,13 +1832,13 @@
               }
             },
             {
-              "startIndex": 6305,
-              "endIndex": 6332,
+              "startIndex": 17611,
+              "endIndex": 17638,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6305,
-                    "endIndex": 6332,
+                    "startIndex": 17611,
+                    "endIndex": 17638,
                     "textRun": {
                       "content": "Beckn specialised for this\n",
                       "textStyle": {}
@@ -1726,21 +1869,21 @@
               }
             },
             {
-              "startIndex": 6332,
-              "endIndex": 6377,
+              "startIndex": 17638,
+              "endIndex": 17683,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6332,
-                    "endIndex": 6359,
+                    "startIndex": 17638,
+                    "endIndex": 17665,
                     "textRun": {
                       "content": "SDAs — why this makes them ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 6359,
-                    "endIndex": 6367,
+                    "startIndex": 17665,
+                    "endIndex": 17673,
                     "textRun": {
                       "content": "actually",
                       "textStyle": {
@@ -1749,8 +1892,8 @@
                     }
                   },
                   {
-                    "startIndex": 6367,
-                    "endIndex": 6377,
+                    "startIndex": 17673,
+                    "endIndex": 17683,
                     "textRun": {
                       "content": " possible\n",
                       "textStyle": {}
@@ -1781,13 +1924,13 @@
               }
             },
             {
-              "startIndex": 6377,
-              "endIndex": 6386,
+              "startIndex": 17683,
+              "endIndex": 17692,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6377,
-                    "endIndex": 6386,
+                    "startIndex": 17683,
+                    "endIndex": 17692,
                     "textRun": {
                       "content": "Some geo\n",
                       "textStyle": {}
@@ -1818,13 +1961,13 @@
               }
             },
             {
-              "startIndex": 6386,
-              "endIndex": 6390,
+              "startIndex": 17692,
+              "endIndex": 17696,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6386,
-                    "endIndex": 6390,
+                    "startIndex": 17692,
+                    "endIndex": 17696,
                     "textRun": {
                       "content": "PPA\n",
                       "textStyle": {}
@@ -1855,13 +1998,13 @@
               }
             },
             {
-              "startIndex": 6390,
-              "endIndex": 6407,
+              "startIndex": 17696,
+              "endIndex": 17713,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6390,
-                    "endIndex": 6407,
+                    "startIndex": 17696,
+                    "endIndex": 17713,
                     "textRun": {
                       "content": "Fraud prevention\n",
                       "textStyle": {}
@@ -1892,13 +2035,13 @@
               }
             },
             {
-              "startIndex": 6407,
-              "endIndex": 6424,
+              "startIndex": 17713,
+              "endIndex": 17730,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6407,
-                    "endIndex": 6424,
+                    "startIndex": 17713,
+                    "endIndex": 17730,
                     "textRun": {
                       "content": "KYC requirements\n",
                       "textStyle": {}
@@ -1929,13 +2072,13 @@
               }
             },
             {
-              "startIndex": 6424,
-              "endIndex": 6506,
+              "startIndex": 17730,
+              "endIndex": 17812,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6424,
-                    "endIndex": 6506,
+                    "startIndex": 17730,
+                    "endIndex": 17812,
                     "textRun": {
                       "content": "Money: can this use a digital currency and protocol that supports splitting well?\n",
                       "textStyle": {}
@@ -1966,13 +2109,13 @@
               }
             },
             {
-              "startIndex": 6506,
-              "endIndex": 6507,
+              "startIndex": 17812,
+              "endIndex": 17813,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6506,
-                    "endIndex": 6507,
+                    "startIndex": 17812,
+                    "endIndex": 17813,
                     "textRun": {
                       "content": "\n",
                       "textStyle": {
@@ -1996,13 +2139,13 @@
               }
             },
             {
-              "startIndex": 6507,
-              "endIndex": 6517,
+              "startIndex": 17813,
+              "endIndex": 17823,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6507,
-                    "endIndex": 6517,
+                    "startIndex": 17813,
+                    "endIndex": 17823,
                     "textRun": {
                       "content": "Creatives\n",
                       "textStyle": {}
@@ -2021,13 +2164,13 @@
               }
             },
             {
-              "startIndex": 6517,
-              "endIndex": 6520,
+              "startIndex": 17823,
+              "endIndex": 17826,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6517,
-                    "endIndex": 6520,
+                    "startIndex": 17823,
+                    "endIndex": 17826,
                     "textRun": {
                       "content": "tk\n",
                       "textStyle": {}
@@ -2041,13 +2184,13 @@
               }
             },
             {
-              "startIndex": 6520,
-              "endIndex": 6593,
+              "startIndex": 17826,
+              "endIndex": 17899,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6520,
-                    "endIndex": 6593,
+                    "startIndex": 17826,
+                    "endIndex": 17899,
                     "textRun": {
                       "content": "Locked down, but that's okay because purchases are made in small batches\n",
                       "textStyle": {}
@@ -2078,13 +2221,13 @@
               }
             },
             {
-              "startIndex": 6593,
-              "endIndex": 6719,
+              "startIndex": 17899,
+              "endIndex": 18025,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6593,
-                    "endIndex": 6719,
+                    "startIndex": 17899,
+                    "endIndex": 18025,
                     "textRun": {
                       "content": "Content-addressed and all content is available at purchase time (this allows extra charges for creative size to be addressed)\n",
                       "textStyle": {}
@@ -2115,13 +2258,13 @@
               }
             },
             {
-              "startIndex": 6719,
-              "endIndex": 6720,
+              "startIndex": 18025,
+              "endIndex": 18026,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6719,
-                    "endIndex": 6720,
+                    "startIndex": 18025,
+                    "endIndex": 18026,
                     "textRun": {
                       "content": "\n",
                       "textStyle": {}
@@ -2139,13 +2282,13 @@
               }
             },
             {
-              "startIndex": 6720,
-              "endIndex": 6731,
+              "startIndex": 18026,
+              "endIndex": 18037,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6720,
-                    "endIndex": 6731,
+                    "startIndex": 18026,
+                    "endIndex": 18037,
                     "textRun": {
                       "content": "Governance\n",
                       "textStyle": {}
@@ -2164,13 +2307,13 @@
               }
             },
             {
-              "startIndex": 6731,
-              "endIndex": 6734,
+              "startIndex": 18037,
+              "endIndex": 18040,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6731,
-                    "endIndex": 6734,
+                    "startIndex": 18037,
+                    "endIndex": 18040,
                     "textRun": {
                       "content": "tk\n",
                       "textStyle": {}
@@ -2184,13 +2327,13 @@
               }
             },
             {
-              "startIndex": 6734,
-              "endIndex": 6757,
+              "startIndex": 18040,
+              "endIndex": 18063,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6734,
-                    "endIndex": 6757,
+                    "startIndex": 18040,
+                    "endIndex": 18063,
                     "textRun": {
                       "content": "Bring back some GARUDA\n",
                       "textStyle": {}
@@ -2221,13 +2364,13 @@
               }
             },
             {
-              "startIndex": 6757,
-              "endIndex": 6802,
+              "startIndex": 18063,
+              "endIndex": 18108,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6757,
-                    "endIndex": 6802,
+                    "startIndex": 18063,
+                    "endIndex": 18108,
                     "textRun": {
                       "content": "I don't think that we want browsers involved\n",
                       "textStyle": {}
@@ -2258,13 +2401,13 @@
               }
             },
             {
-              "startIndex": 6802,
-              "endIndex": 6918,
+              "startIndex": 18108,
+              "endIndex": 18224,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 6802,
-                    "endIndex": 6918,
+                    "startIndex": 18108,
+                    "endIndex": 18224,
                     "textRun": {
                       "content": "Split the components of the architecture so that we can have different governance for different elements — AT-style\n",
                       "textStyle": {}

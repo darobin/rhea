@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width">
     <title>Requirements for a Healthy Ecosystem in Advertising (RHEA)</title>
     <meta name="document-id" content="1H1hIbhaAKlgoA9dHbjXOmEddW07eAlCGZbxmWQZSZDQ">
-    <meta name="revision-id" content="ALBJ4LtPW17gJE1kk7oWOw1r2dW8AyD3yZBJg3P85xXLj-tR2fpieICcR-MYcw17lib7klPtlQgpgUWJrMm1dg">
+    <meta name="revision-id" content="ALBJ4LswsGFe36eaI8qb2DgINqvCz2i5tMvc8RBJEsB06M3D49JnrDols41cyd087AyMZpoAz_z-1ADgfQ7W8A">
     <link rel="stylesheet" href=".nemik/css/supramundane.css">
     <style>
         @page :first {
@@ -19,11 +19,11 @@
     <header>
         <p class="title">Requirements for a Healthy Ecosystem in Advertising (RHEA)
         </p>
-        <p class="subtitle">Building next-generation, pro-democracy advertising technology
+        <p class="subtitle">Building next-generation, pro-democracy advertising infrastructure
         </p>
         <div class="meta">
             <div class="author">Robin Berjon</div>
-            <div class="date">2025-08-08</div>
+            <div class="date">2025-08-11</div>
         </div>
         <div class="imprimatur" style="--color: #000; --zoom: 1"><img src=".nemik/img/asterism.png" alt="abstract shape">
             <div>supramundane <em>agency</em>.</div>
@@ -64,77 +64,86 @@
             <section>
                 <h2 id="h.j5lebqi9e8lw">Privacy
                 </h2>
-                <p>tk
+                <p>Issues of surveillance in digital advertising are well established. The loading of one single ad typically involves broadcasting someone’s interaction with a given page or system to hundreds of additional parties, and after the ad has been loaded yet more parties are contacted. All of these actors obtain identifiers that enable them to track people’s behaviour across their entire online presence. Both publishers and marketers are typically unable to provide a reliable list of who has seen any given person’s data, and are even less able to account for processing purposes. Regulatory interventions have produced very little impact and consent-based approaches often inconvenience people without affecting data collectors much.
                 </p>
-                <ul>
-                    <li>privacy
-                        <ul>
-                            <li>limited evidence to support that the data processing is needed
-                            </li>
-                            <li>often used to predict a sale that would have happened anyway (HBR)
-                            </li>
-                            <li>the data advantage is most likely about faking lift than it is about creating genuine conversions
-                            </li>
-                        </ul>
-                    </li>
-                    <li>very little academic research worth considering, in some cases preposterously wrong
-                        <ul>
-                            <li>so opaque that no evidence-based decision-making is possible
-                            </li>
-                            <li>the general climate of opacity makes it impossible for actors to make informed decisions as market participants, either as buyers or as sellers
-                            </li>
-                        </ul>
-                    </li>
-                    <li>price
-                    </li>
-                    <li>advertiser privacy
-                    </li>
-                    <li>taxation
-                    </li>
-                    <li>money traceability
-                    </li>
-                    <li>the excessive weight of search &amp; the browser funding system (put this at end)
-                    </li>
-                    <li>marketplace capture
-                    </li>
-                    <li>energy costs (for fraud, but also for oversized creatives)
-                    </li>
-                </ul>
+                <p>There is at best only limited evidence to support the idea that this data collection and processing is needed. Not one single reproducible study has been produced, results point in different directions depending on method and data set, and many studies are conflicted (or don’t declare conflicts), fail to test meaningful counterfactuals, and some commonly-cited ones are preposterously wrong.
+                </p>
+                <p>There is, however, an advantage to surveilling people in many contexts: it’s an effective way to predict that a given person is about to purchase a specific product (or carry out a similar action), show them an ad right before they buy it, and claim the conversion. This is worth unpacking. Marketers are keen to measure the effectiveness of their campaigns by attributing conversions — a specific action taken by a person, often a sale but not necessarily — to whoever showed that person an ad that “triggered” this conversion. But deciding what ad might <em>cause</em> which given person at what given time in which specific context to buy something is inordinately hard. It is <em>a lot</em> easier to detect that a given person is about to make a purchase no matter what — especially if you have data about what they search for through a search engine, their entire browsing history through your browser, their location through your mapping application and a mobile OS, and access to what they are emailing about.
+                </p>
+                <p>Showing an ad for a product that someone is about to buy anyway is a net loss for the advertiser: that is literally the <em>last</em> person who should be seeing that ad. But the advertiser doesn’t know that, and it makes it possible to claim the conversion, which means greater advertising dominance and more future spend. There is evidence that this practice is taking place ([<cite><a class="bibref" href="#bib-hbr-targeting">hbr-targeting</a></cite>]) and no study has eliminated the concern. The massive data leak that is digital advertising is therefore not known to be better for advertisers and, as deployed, might be worse for them. We already know from the previous section that it does not help publishers.
+                </p>
             </section>
             <section>
                 <h2 id="h.1vylzo3xsc1q">Fraud
                 </h2>
-                <p>tk
+                <p>In addition to intermediary practices that are detrimental to people, publishers, and marketers, the digital advertising environment is riddled with fraud. A report from the World Federation of Advertisers speaks for itself ([<cite><a class="bibref" href="#bib-wfa-ad-fraud">wfa-ad-fraud</a></cite>]). They predict ad fraud to be worth USD $50bn in 2025 at the conservative end of the spectrum (and up to almost three times that), potentially making it second only to the cocaine and opiates market as a form of organised crime.
+                </p>
+                <p>Interestingly, the WFA estimates that whenever ad fraud is committed, less than half of the money goes to the fraudster, with the rest flowing to “legitimate” intermediary actors. One doesn’t need to be cynical to note that the revenue amounts and the widespread nature of fraud do not incentivise intermediaries to crack down on it.
+                </p>
+                <p>To make matters more interesting, the suggested cure for these problems can often make the problem worse, for instance when Invalid Traffic (IVT) or brand safety vendors (who are supposed to keep ads from appearing in wrong, including fraudulent, contexts) systematically defund climate reporting or use their tooling to index publishers’ content and compete against them for contextual targeting.
                 </p>
             </section>
             <section>
                 <h2 id="h.55es37yt1xpq">Security
                 </h2>
-                <p>tk
+                <p>The technical practices of adtech and martech are also intrinsically insecure. The entire edifice is built on top of unverified third-party code injection. When (not if) a marketing vendor is compromised, the attacker becomes able to run code on often tens of thousands of websites as if they were the website operator, allowing them to interact with backend APIs or to capture data entered by users, up to and including username/password combinations.
+                </p>
+                <p>This is a direct consequence of the open-ended promiscuity of the adtech stack, as empowered by browser vendors. It is, in a very concrete sense, strictly impossible for a publisher to abide by their legal obligations to be diligent with cybersecurity if they also wish to display advertising from today’s industry.
+                </p>
+                <p>This additionally makes data breaches impossible to audit after the fact. In many cases, there is simply no way to know which third parties had code injected into a page as a breach was ongoing.
+                </p>
+                <p>Whenever a security bug is uncovered in a browser, advertising provides an excellent delivery mechanism for it. And because code is injected dynamically, it is possible for an attacker to inject malicious code for a time, attain a given objective, and then remove the malicious code without leaving any trace.
                 </p>
             </section>
             <section>
                 <h2 id="h.z9wnbl4ml2yl">Espionage
                 </h2>
-                <p>tk
+                <p>It is tempting to lump all issues downstream of data collection under privacy, but when you combine the scale of the surveillance, the sensitive nature of the data including all online activity and geolocation, and a technical architecture that entirely obfuscates who is listening you obtain a system with societal and geopolitical concerns that exceed privacy issues typically more centred on furthering individual agency.
+                </p>
+                <p>Indeed, it is possible to buy information off the shelf about military and intelligence workers who attend brothels and visit nuclear vaults ([<cite><a class="bibref" href="#bib-wired-nuclear-brothels">wired-nuclear-brothels</a></cite>]) and thanks to the wide sharing of identifiers between data brokers the U.S. government can create a one-stop-shop for sensitive personal data provided by the private sector ([<cite><a class="bibref" href="#bib-spy-one-stop-shop">spy-one-stop-shop</a></cite>]). This confirms earlier work from The New York Times in which reporters, with access to only a <em>tiny</em> subset of the data that brokers have were able to track people to nuclear plants, church, family planning ([<cite><a class="bibref" href="#bib-nyt-last-night">nyt-last-night</a></cite>]).
+                </p>
+                <p>Nothing about this data limits its use to the espionage of nation-states, it is perfectly applicable to corporate espionage as well. Listing all the people who work in a given building during the day and leave digital trails that expose them to blackmail is trivial. As is knowing what employees are reading about on the internet, what they are buying, or where they are travelling to.
+                </p>
+                <p>While not specific to advertising, this issue is almost entirely driven by advertising-related data collection.
                 </p>
             </section>
             <section>
                 <h2 id="h.vmwsqif56crf">Opacity
                 </h2>
-                <p>tk
+                <p>The digital advertising environment is so opaque that very little evidence-based decision-making is possible. Marketers track campaign performance as best they can and make the most informed decisions that they are able to (e.g. using mixed-media modelling) but by and large they lack the ability to sufficiently understand which levers are really effective and where their campaigns are really shown.
                 </p>
+                <p>The biggest impact from this is risk aversion. Actors will have an ad strategy that delivers <em>something</em> and any major change feels like it could bring everything down. It is so difficult to meaningfully attribute causality — even if experienced practitioners know how to make localised improvements — that it is impossible to assess changes without tests and very difficult to create meaningful tests.
+                </p>
+                <p>Advertisers are often in the dark about where their ads were placed. Publishers are often in the dark about which impression drove which income, and completely in the dark about most ads they carry or how much the buyer paid for them. Calculating the adtech tax is at best challenging and some of the better attempts at tracing money from buyers to sellers failed to account for very significant sums.</p>
             </section>
             <section>
                 <h2 id="h.1xsvivlp9lbp">Concentration and Governance
                 </h2>
-                <p>tk
+                <p>There is little need to expand on problems of concentration in the advertising market now that Google has been convicted as a monopolist in <em>both</em> digital advertising in general and search advertising. The overall digital advertising market has a large number of small actors because there are plenty of services — many of them of dubious value — that can be overlaid atop the core money-makers, but there is no doubt as to who dominates the market and makes the rules. Even Meta, the other arm of the duopoly, takes second place to Google’s global empire.
+                </p>
+                <p>While this situation is well documented, it is worth underlining a couple of specificities that should guide efforts to fix the advertising market.
+                </p>
+                <p>First, as explained at length by Dina Srinivasan, “<em>Google dominates advertising markets by engaging in conduct that lawmakers prohibit in other electronic trading markets: Google’s exchange shares superior trading information and speed with the Google-owned intermediaries, Google steers buy and sell orders to its exchange and websites (Search &amp; YouTube), and Google abuses its access to inside information.</em>” ([<cite><a class="bibref" href="#bib-why-google-dominates-ads">why-google-dominates-ads</a></cite>])
+                </p>
+                <p>That is possible because, unlike other electronic markets (and, in fact, markets in general) advertising trading markets are largely unregulated or operate under unenforced regulation. This is possible in part because the digital advertising industry was granted the leeway to self-regulate for 25 years (which it largely did not do), and in part because Google controls and sets the rules for the marketplaces, data ingress points (browsers and operating system), and largest market participants. Google is the actor with the most power and the most to lose from sharing governance over advertising markets.
+                </p>
+                <p>A second consideration is that it isn’t possible to completely separate the already-complex digital advertising system from related considerations involving browsers, operating systems, and search.
+                </p>
+                <p>Part of the issue has to do with privacy. For one, Google Chrome is not only the only remaining significant browser to offer no privacy protection but it also deploys an impressive array of deceptive patterns to trick its users into disclosing their entire browsing history to Google — something which Google then uses to optimise its search engine, an advertising business. Google isn’t the only one to blame: Apple also invented mobile ad IDs so that people would be tracked in apps and markets privacy but defaults to Google Search.
+                </p>
+                <p>But, more importantly, the manner in which Google’s search business maintains its dominance has a direct impact on the value of advertising across the digital sphere, defunding other actors. In a nutshell, money that is spent on search advertising isn’t spent elsewhere in the advertising system. But, as established in the U.S. Google Search case, Google’s monopoly in search allows it to charge supracompetitive prices in search, and the centrality of search means buyers cannot easily switch to spending elsewhere. This means that Google Search is depreciating ad prices for the rest of the digital sphere. In turn, that search monopoly is enforced by browser vendors and mobile operating systems, who get a cut of that revenue in exchange for the service. The system operates as a de facto cartel, making money by artificially driving up the value of Google Search ads and defunding ad revenue for the rest of the web.
                 </p>
             </section>
             <section>
                 <h2 id="h.o67x2v4e1lox">Sustainability
                 </h2>
-                <p>tk
+                <p>The real-time nature of ad bidding requires having every ad request processed by hundreds of parties. This is highly inefficient. The vast amounts of data being collected, stored, access, and processed for this system also incur energetic costs.
+                </p>
+                <p>Additionally, ad creatives are often exceedingly heavy (in bytes), which uses up bandwidth and processing power. Since they are typically seen thousands if not millions of times, the effect adds up.
+                </p>
+                <p>What’s more, some types of ad fraud can be particularly processing-intensive.
+                </p>
+                <p>Overall, while sustainability considerations in advertising have rarely been foregrounded, there is meaningful room for improvement along this dimension as well.
                 </p>
             </section>
         </section>
@@ -145,12 +154,16 @@
             </p>
             <ul>
                 <li><input type="checkbox"> Better for publishers: describe the subsidy system and how we need to end it
+                    <ul>
+                        <li><input type="checkbox"> for each go through all the intro problems
+                        </li>
+                    </ul>
                 </li>
                 <li><input type="checkbox"> Better for advertisers: traceability problems, lots of marketing options are bad
                 </li>
                 <li><input type="checkbox"> Better for people: credible privacy
                 </li>
-                <li><input type="checkbox"> Governed ad safety (link to defunding climate reporting + stealing content)
+                <li><input type="checkbox"> Governed ad safety
                 </li>
                 <li><input type="checkbox"> from RHEA
                 </li>
@@ -217,6 +230,23 @@
             </h1>
             <p>tk
             </p>
+        </section>
+        <section id="references" class="special-section">
+            <h1>References</h1>
+            <dl class="bibliography">
+                <dt id="bib-hbr-targeting">[hbr-targeting]</dt>
+                <dd><a href="https://hbr.org/2021/12/does-personalized-advertising-work-as-well-as-tech-companies-claim"><cite>Does Personalized Advertising Work as Well as Tech Companies Claim?</cite></a>. Bart de Langhe; Stefano Puntoni. 2021-12-16. <a href="https://hbr.org/2021/12/does-personalized-advertising-work-as-well-as-tech-companies-claim">https://hbr.org/2021/12/does-personalized-advertising-work-as-well-as-tech-companies-claim</a></dd>
+                <dt id="bib-nyt-last-night">[nyt-last-night]</dt>
+                <dd><a href="https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html"><cite>Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret</cite></a>. Jennifer Valentino De Vries, Natasha Singer, Michael H. Keller And Aaron Krolik. 2018-12-10. <a href="https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html">https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html</a></dd>
+                <dt id="bib-spy-one-stop-shop">[spy-one-stop-shop]</dt>
+                <dd><a href="https://theintercept.com/2025/05/22/intel-agencies-buying-data-portal-privacy/"><cite>U.S. Spy Agencies Are Getting a One-Stop Shop to Buy Your Most Sensitive Personal Data</cite></a>. Sam Biddle. 2025-05-22. <a href="https://theintercept.com/2025/05/22/intel-agencies-buying-data-portal-privacy/">https://theintercept.com/2025/05/22/intel-agencies-buying-data-portal-privacy/</a></dd>
+                <dt id="bib-wfa-ad-fraud">[wfa-ad-fraud]</dt>
+                <dd><a href="https://swa-asa.ch/wAssets/docs/publikationen/de/branchenempfehlungen-swa/WFACompendiumofAdFraudKnowledge.pdf"><cite>Compendium of ad fraud knowledge for media investors</cite></a>. World Federation of Advertisers; The Advertising Fraud Council. 2016. <a href="https://swa-asa.ch/wAssets/docs/publikationen/de/branchenempfehlungen-swa/WFACompendiumofAdFraudKnowledge.pdf">https://swa-asa.ch/wAssets/docs/publikationen/de/branchenempfehlungen-swa/WFACompendiumofAdFraudKnowledge.pdf</a></dd>
+                <dt id="bib-why-google-dominates-ads">[why-google-dominates-ads]</dt>
+                <dd><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3500919"><cite>Why Google Dominates Advertising Markets</cite></a>. Dina Srinivasan. 2019-12-09. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3500919">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3500919</a></dd>
+                <dt id="bib-wired-nuclear-brothels">[wired-nuclear-brothels]</dt>
+                <dd><a href="https://www.wired.com/story/phone-data-us-soldiers-spies-nuclear-germany/"><cite>Anyone Can Buy Data Tracking US Soldiers and Spies to Nuclear Vaults and Brothels in Germany</cite></a>. Dhruv Mehrotra; Dell Cameron. 2024-11-19. <a href="https://www.wired.com/story/phone-data-us-soldiers-spies-nuclear-germany/">https://www.wired.com/story/phone-data-us-soldiers-spies-nuclear-germany/</a></dd>
+            </dl>
         </section>
     </main>
 </body>
