@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width">
     <title>Requirements for a Healthy Ecosystem in Advertising (RHEA)</title>
     <meta name="document-id" content="1H1hIbhaAKlgoA9dHbjXOmEddW07eAlCGZbxmWQZSZDQ">
-    <meta name="revision-id" content="ALBJ4LswsGFe36eaI8qb2DgINqvCz2i5tMvc8RBJEsB06M3D49JnrDols41cyd087AyMZpoAz_z-1ADgfQ7W8A">
+    <meta name="revision-id" content="ALBJ4LtP8b0pOasLxJa3aXuJzhKcnOSCFD7B6d2ZRPlYB04lS4mPuzWLLWKjx-Dd8vYG5Jbh7_claa6LJYuhSg">
     <link rel="stylesheet" href=".nemik/css/supramundane.css">
     <style>
         @page :first {
@@ -23,7 +23,7 @@
         </p>
         <div class="meta">
             <div class="author">Robin Berjon</div>
-            <div class="date">2025-08-11</div>
+            <div class="date">2025-08-12</div>
         </div>
         <div class="imprimatur" style="--color: #000; --zoom: 1"><img src=".nemik/img/asterism.png" alt="abstract shape">
             <div>supramundane <em>agency</em>.</div>
@@ -148,39 +148,66 @@
             </section>
         </section>
         <section>
-            <h1 id="h.s9ct0orbywr0">Our Goals: Who To Improve Advertising For?
+            <h1 id="h.s9ct0orbywr0">Who To Improve Advertising For?
+            </h1>
+            <p>Today’s legacy system puts advertising intermediaries at the centre, with marketers a very distant second, then publishers, and finally people. This proposal inverts that order entirely.
+            </p>
+            <p><strong>Better for people</strong>. No one likes advertising, but under this systems the entire advertising environment will be far safer, with much higher privacy, and much more stringent security. Ads will allow use fewer resources and will better support publishers. It will be possible to use the internet without an ad blocker. This new system also comes with protections for children and vulnerable people built in.
+            </p>
+            <p><strong>Better for publishers</strong>. Quality publishers will no longer have to give away their hard work in order to subsidise slop farms and disinformation providers. With a more equitable market, their revenue will go up. It will also be safer to operate a site or app, and those will offer a faster, more pleasant user experience. You will make money for knowing your audience.
+            </p>
+            <p><strong>Better for advertisers</strong>. This system makes it easier to stamp out fraud and offers traceability for all spend. It helps shake bad actors out of the market — and let’s face it, we all know that many marketing options that we have to use are bad products from untrustworthy actors. It offers more credible financial reporting on spend.
+            </p>
+            <p><strong>Better for legitimate adtech actors</strong>. Legitimate adtech actors face the unpleasant task of having to promote themselves in an industry in which flat-out lying and fraudulent behaviour goes unpunished and where the rules are set by tech monopolies in their own exclusive interest. By eliminating much of the cruft and the fraud, we can make it easier for good actors to operate and innovate.
+            </p>
+            <p><strong>Better for democracy</strong>. With improved privacy, less espionage of our people and our businesses, cheaper enforcement of data regulation, increased protection against interference campaigns, easier auditing of political advertising, stronger protections for children and vulnerable people, improved revenue streams for the media, the benefits to democracy are not hard to find.
+            </p>
+        </section>
+        <section>
+            <h1 id="h.44abkfhgc4f3">Privacy
+            </h1>
+            <p>The approach to privacy advocated here is principled but it does not match the ideal of privacy advocated by many CSOs. Rather, it offers a messy compromise of the kind that we should expect in a democracy. (<em>Note: this section focuses on the GDPR because the first order of business for this project is Europe, but much of the thinking can be extended elsewhere and implemented via other legal mechanisms.</em>)
+            </p>
+            <p>This kind of contested consensus is precisely what strong data governance frameworks like the GDPR should be used to. Contrary to popular but incorrect opinion, nothing in the GDPR requires that people should consent to nearly every processing in nearly every context using an uninformative, agency-reducing popup. The alternative to consent is also not a blanket nuclear option in which practically all data processing beyond serving content is obliterated. The regulation, ill-applied as it is, is mercifully more powerful than its caricature.
+            </p>
+            <p>The central organising principle of RHEA’s approach to privacy is <em>sole controllership</em>, which is to say that to the extent possible whenever a person interacts with an entity they only have to deal with one data controller in charge of determining the means and purposes of data processing. Note that this does <em>not</em> entail that said means and purposes are lawful or aligned with the expectations of the data subject. It only means that that there is a single point of accountability.
+            </p>
+            <p>This helps multiple constituencies:
+            </p>
+            <ul>
+                <li><strong>For people</strong>, it means that their data does not get processed outside of the context in which it was collected and it gives them a unique point of contact for issues. It eliminates the current universal data leak of the RTB system and severely limits the amount of processing of their data. Also: it should be possible to eliminate most consent banners.
+                </li>
+                <li><strong>For publishers</strong>, it protects their audiences such that advertising technology providers can no longer use publisher data to compete against publishers and sell targeting services to enrich slop farms.
+                </li>
+                <li><strong>For advertisers</strong>, while it initially restricts some targeting and reporting capabilities, these can progressively be supported again with adequate data protection. In time, this will create an ecosystem that is far less fraudulent, much more auditable (particularly for publicly-traded companies that meaningfully audit their marketing spend), and far more transparent. This will open the door to better decision-making leading to improved performance.
+                </li>
+            </ul>
+            <p>Supporting this approach requires multiple steps working together.
+            </p>
+            <p>First, a number of processing exemptions must be made to ePrivacy/GDPR consent requirements, comparable (and possibly identical) to those established by the CNIL ([<cite><a class="bibref" href="#bib-cnil-exemptions">cnil-exemptions</a></cite>]). This makes it possible to help eliminate many consent banners for baseline, single-controller processing. Relying on consent for this kind of processing is detrimental because it makes some of the safer, more conservative, least invasive data processing look exactly like the most dangerous and invasive kind.
+            </p>
+            <p>Second, publishers are required to support the Global Privacy Control (GPC, [<cite><a class="bibref" href="#bib-gpc">gpc</a></cite>]). This is a GDPR-compatible signal that indicates that the user is exercising their data rights to enforce single-controllership by withdrawing their consent to all data processing involving other controllers and objecting to all sharing of data to other controllers made under legitimate interest. The GPC is already available in multiple browsers.
+            </p>
+            <p>Third, targeting capabilities are driven by Seller-Defined Audiences (SDAs), which is to say that they are developed, supported, and maintained by the publishers (sellers) rather than by third parties. Note that nothing prevents a seller from carrying out invasive profiling (other than lawfulness) but they are uniquely responsible with respect to their users.
+            </p>
+            <p>Systems to use SDAs already exist today but publishers have very little incentive to ever use them. The problem is that developing audience segments is costly but the current RTB ad systems means that the fact that a given person is part of a given segment is broadcast to every party that is listening to the RTB bidstream. In practice, under the current system, publishers are forced to offer the hard work of developing segments with every intermediary in the advertising industry, for free, knowing that they will then use that data to compete with the seller in other spaces. Single controllership and the fact that ad requests are not being broadcast (see <em>Marketplace</em> below) make SDAs worth investing in for publishers.
+            </p>
+            <p>Note of course that this document assumes that contextual targeting is available at all times. Experience from contextual actors shows
+            </p>
+            <p>Fourth, since not all privacy requirements can be enforced through technical means, all participants are bound by the terms of an Article 40/41 Code of Conduct. This could be the legal mechanism supporting the exemptions or the GPC requirement, for instance. This provides the grounds for the sort of trade-off that we are seeking: the Code of Conduct can offer some lenient rules for some aspects of data protection but in a balanced exchange for auditing and enforcement capabilities mandated under Article 41. Aspects that could be governed under the Code include how ad servers must respect data protection and targeting requirements set by the institution and purchased in the marketplace (both described below) or how some constrained geolocation information can be provided in order to geofence campaigns.
+            </p>
+            <p>Fifth, in order to support smaller publishers, we could consider some limited kinds of audience sharing built around data exchanges under the Data Act. Any kind of sharing is potentially problematic so any such project would need strong independent validation.
+            </p>
+            <p>Sixth, purpose-specific technical capabilities (e.g. attribution, fraud prevention, frequency or recency capping, retargeting) will be governed by the marketplace and institution (see below). Powerful, privacy-preserving methods have been proposed for some of these but their practical, cost-effective deployment may be some time away. In order not to let the perfect be the enemy of the good, the RHEA system will afford these capabilities in initially implementations (constrained, controlled, and governed) that may be less privacy-protecting, but will gradually shift to better implementations.
+            </p>
+            <p>Finally, in order not to put all decisions relating to privacy in the hands of an institution that could become captured by financial interests (given that it is, after all, centred on making money), the institution will be required to rely on systems that allow privacy decisions to be delegated to mini-publics via sortition (Lin Kyi, Asia Biega, Paul Gölz forthcoming) or on user experiences designed to support more informed decision-making in the cases when consent is necessary ([<cite><a class="bibref" href="#bib-consenter">consenter</a></cite>]).</p>
+        </section>
+        <section>
+            <h1 id="h.19rek041524t">Marketplace
             </h1>
             <p>tk
             </p>
             <ul>
-                <li><input type="checkbox"> Better for publishers: describe the subsidy system and how we need to end it
-                    <ul>
-                        <li><input type="checkbox"> for each go through all the intro problems
-                        </li>
-                    </ul>
-                </li>
-                <li><input type="checkbox"> Better for advertisers: traceability problems, lots of marketing options are bad
-                </li>
-                <li><input type="checkbox"> Better for people: credible privacy
-                </li>
-                <li><input type="checkbox"> Governed ad safety
-                </li>
-                <li><input type="checkbox"> from RHEA
-                </li>
-                <li><input type="checkbox"> Exemptions + technical guarantees for the processing
-                </li>
-                <li><input type="checkbox"> Explain that this is intended to help publishers too
-                </li>
-                <li><input type="checkbox"> Single controller operations (apart perhaps from some very limited technical services like serving)
-                </li>
-                <li><input type="checkbox"> Article 40/41
-                </li>
-                <li><input type="checkbox"> Could consider using the Data Act and data exchanges (?) to support some form of targeting
-                    <ul>
-                        <li><input type="checkbox"> Use sortition-based privacy (see Asia, also Max von G.)
-                        </li>
-                    </ul>
-                </li>
                 <li><input type="checkbox"> Beckn specialised for this
                 </li>
                 <li><input type="checkbox"> SDAs — why this makes them <em>actually</em> possible
@@ -195,45 +222,155 @@
                 </li>
                 <li><input type="checkbox"> Money: can this use a digital currency and protocol that supports splitting well?
                 </li>
-                <li><input type="checkbox"> Locked down, but that's okay because purchases are made in small batches
-                </li>
-                <li><input type="checkbox"> Content-addressed and all content is available at purchase time (this allows extra charges for creative size to be addressed)
-                </li>
-                <li><input type="checkbox"> Bring back some GARUDA
-                </li>
-                <li><input type="checkbox"> I don't think that we want browsers involved
-                </li>
-                <li><input type="checkbox"> Split the components of the architecture so that we can have different governance for different elements — AT-style
+                <li><input type="checkbox"> Signed origin delivery (the server attests that a given impression was on its own server)
                 </li>
             </ul>
         </section>
         <section>
-            <h1 id="h.44abkfhgc4f3">Privacy
-            </h1>
-            <p>tk
-            </p>
-        </section>
-        <section>
-            <h1 id="h.19rek041524t">Marketplace
-            </h1>
-            <p>tk
-            </p>
-        </section>
-        <section>
             <h1 id="h.cx0wr1w8oqbx">Creatives
             </h1>
-            <p>tk
+            <p>An underappreciated problem in digital advertising is the role of creatives, the trade name for those bundles of markup, code, and images that render as ads. Because of how open-ended creatives are and of how insecure their implementation is — they primarily work by injecting code from arbitrary sources that can change at will or upon compromise — they render auditing near-impossible, are a major malware vector, are a privacy free-for-all, and obfuscate attempts at tracing the origin of given attacks. Because there is very little in the way of incentives to build them efficiently, they also tend to be highly wasteful in bytes and code execution, which hurts both user experience and publisher revenue, and is wasteful of energy.
+            </p>
+            <p>Under RHEA creatives use a different system that is compatible with existing web technologies but much safer.
+            </p>
+            <p>First, creatives are locked down in terms of what they can access from the network. They can <em>only</em> load resources from their origin ad server (which must comply with a number of privacy and security requirements). This means that they cannot load unexpected code or exfiltrate data other than through pre-determined and controlled channels.
+            </p>
+            <p>Second, all of their dependencies are loaded in a content-addressed manner (which is to say that they are located by a cryptographic hash of their content) and the root manifest that lists these dependencies is itself transmitted with a hash. This has multiple benefits. One is that the user agent (e.g. browser) is able to verify when loading an ad that it is getting untampered content. This makes it impossible to modify a dependency while a campaign is in flight in order to replace it with malicious code. Another is that during post-mortem auditing, it is possible to know with certainty all the content that was involved in rendering an impression. This also makes it easier to scan content prior to setting up an ad campaign to ensure that it is safe and adheres to policy. (Note that content-addressed loading can lead to some privacy attacks but 1) that is still a substantial gain over what exists today and 2) there isn’t much to do with that data since it can’t be exfiltrated.)
+            </p>
+            <p>Creatives as a content-addressable tree also renders the work of accountability by third parties easier. It is possible for researchers or journalists to recognise the same creative loading in multiple places and to be able to reproducibly analyse its behaviour. This can help, for instance, with ad driven foreign interference campaigns.
+            </p>
+            <p>Third, creatives are attested, which is to say that the content is cryptographically signed by the buyer. This makes it possible to trace them to their originator. This information can be used to ensure that only legitimate political actors buy political ads (which can be surfaced and reported for instance in the browser) or to support the auditing of better-business practices.
+            </p>
+            <p>Fourth, the content-addressed manifest offers a convenient place to capture metadata about the creative. This can be used for instance for regulatory purposes such as requiring that all political ads be flagged or that ads indicate their age appropriateness. Ads for sensitive topics such as gambling or alcohol could be required to be flagged as such in their metadata so that the user agent is able to filter them out.
+            </p>
+            <p>Finally, because the full dependency tree that produces a creative must be provided at the time that the purchase is executed, this makes it possible to enforce policies about creative size, either to reject them or to charge more for more resource-intensive creatives.
+            </p>
+            <p>Buyers often want to adapt campaigns in flight (e.g. to respond to better lift from a variant). We support this by encouraging buying in small batches such that campaigns can be updated over time as more impressions are gradually purchased.
+            </p>
+            <p>All of these changes can be implemented using existing web technologies but in some cases they would benefit from more direct support from user agents. This provides a path forward: we can implement this system immediately and gradually make it more efficient by moving support for it into user agents.
             </p>
         </section>
         <section>
             <h1 id="h.7te6okbdfgmf">Governance
             </h1>
+            <p>Today’s internet governance apparatus handles many low-level technology standards from IP to HTML, but as our digital sphere has grown to encompass most human activities, internet governance has failed to grow with it and comes up short on two aspects. First, in scope: most digital governance needs sit well above low-level tech but they are hardly addressed at all, primarily left to tech monopolies. For advertising, this role could have been taken on by the IAB, but it is primarily focused on lobbying for the industry as well as heavily Google-dominated. Second, in enforcement: the enforcement mechanism used by internet standards is competition in the market — if you don’t implement the standard well, you will lose to competitors. Because market-backed enforcement feels automatic or even magical, the internet governance community has largely failed to think about effective enforcement or the reckon with what would happen to standards as the primary markets they operate in ceased to be contested.
+            </p>
+            <p>As a result, there is no existing governance structure able to take on governing digital advertising infrastructure and very little in the way of models to imitate, despite it being obvious that leaving the system to its own devices has failed. This was particularly obvious during the slow-motion wreckage of the Privacy Sandbox proposal. We need institutions that are able to govern the <em>runtime</em> operation of transnational digital infrastructures.
+            </p>
+            <p>A useful approach to governance consists in splitting the problem into smaller ones that can be governed by simpler, more manageable entities. This is done by separating out responsibilities and creating protocols such that different components with different roles can interact with one another. This approach applies here, but because the marketplace that intermediates ad buyers and sellers has such central power, this document focuses primarily on outlining a governance model for that family of entities.
+            </p>
+            <section>
+                <h2 id="h.16x5wod78gg1">The Garuda Institution
+                </h2>
+                <p>Garuda stands for “Governance of Ad Requests by a Union of Diverse Actors,” named after the deity <a href="https://en.wikipedia.org/wiki/Garuda">Garuda</a>. The institution has several responsibilities:
+                </p>
+                <p><strong>Shepherding the technical standards that define the marketplace and related infrastructure</strong>. Garuda convenes technical discussion around marketplace standards as well as related ones such as attribution. It also manages the integration of the advertising ecosystem into wider technical communities that operate with similar infrastructure (e.g. the Beckn Protocol). It carries out the work in writing standards, finding consensus, and developing test suites, to ensure that the marketplace is interoperable, royalty-free, and production-grade. It also manages the core principles that drive the work and serve as a constitutional foundation to the governance.
+                </p>
+                <p><strong>Managing the open source implementation and maintenance of the marketplace</strong>. The marketplace software will be developed in an open source manner, but changes made to the code will need to be aligned with the objectives of the institution, which will need to be reflected in the change review process. Further, there is no expectation that software development will be entirely carried out by the community; rather the institution should provision sufficient resources to underwrite the marketplace's development.
+                </p>
+                <p><strong>Organising the worldwide network of marketplaces</strong>. The institution will operate a network of marketplaces with high-performance SLAs and an arrangement that enables easy auditing. This will entail delegating to local operators while ensuring that the network as a whole remains trustworthy. The institution will seek a balance between locally-devolved power so that advertising can operate the way that local jurisdictions expect it to and global interoperability so that the planetary network operates seamlessly and is able to uphold a number of core principles.
+                </p>
+                <p><strong>Ensuring the general health of the advertising ecosystem</strong>. By providing a common space where stakeholders must reach some form of consensus in order for the system to operate, the institution is taking on some responsibility for the health of the broader digital advertising ecosystem.
+                </p>
+            </section>
+            <section>
+                <h2 id="h.swmt2nj7jqar">Governance Outline
+                </h2>
+                <p>This section provides only an outline of the governance model for the Garuda institution so as to give a general sense for it.
+                </p>
+                <p>The Garuda institution is comprised of two primary bodies: the Governance Board and the Legal Entity.
+                </p>
+                <p>The Governance Board is tasked with the oversight of the institution and the slow-moving aspects of governance. All Board deliberations are public with rare, motivated exceptions. Board terms are limited. It concerns itself primarily with the fundamentals:
+                </p>
+                <ul>
+                    <li>Oversight of the Executive Director’s work.
+                    </li>
+                    <li>Standard and implementation process.
+                    </li>
+                    <li>Core principles of the institution.
+                    </li>
+                    <li>What can be decided by local operators (subsidiarity) versus what must be upheld at the planetary level.
+                    </li>
+                </ul>
+                <p>The Legal Entity takes care of day-to-day operations. It is responsible for maintaining, deploying, and operating the network and marketplace at requisite Service Level Agreements (SLAs) and at reasonable cost, as well as of research into future technology that Garuda could use, with organising the various groups that will bring stakeholders together to help evolve Garuda over time, and with the elaboration of policy positions which Garuda will cooperate with regulators on. It is run by the Executive Director. The Board selects (by consensus) an Executive Director every three years or whenever the post becomes vacant.
+                </p>
+                <p>There are three primary constituencies: user agents (e.g. browsers, operating systems, generally systems that control the conditions of ad rendering), sellers (often known as publishers), and buyers. For each of them, there are inclusion criteria designed to prevent gaming the system by spawning multiple entities. Votes are not necessarily prorated by volume, or if they are then a discount must be applied to avoid skewing too heavily in favour of larger actors. Governance Board seats are apportioned to constituencies. (The Board may then extend itself by inviting additional members.) No company can have more than one representative, even if it participates in different constituencies.
+                </p>
+                <p>The institution is financed through a very small tax on advertising. Multiple models are possible: a flat fee per bid, a percentage of effective CPM transacted, or a flat fee per unit time that one is buying or selling on the marketplace are all possible. The amount and type of the tax is determined by the Board.
+                </p>
+                <p>Part of the tax should further be set aside to provide financial support to stakeholders who cannot afford to pay someone to spend time in Board discussions, so as to ensure that participants from companies of all sizes, and from all backgrounds the world around can participate with equity. Another fund can be set up to support user agents that agree to abide by a given covenant (e.g. for privacy) so as to support the implementation of high-quality client software that is aligned with the needs of its users.
+                </p>
+            </section>
+            <section>
+                <h2 id="h.p30bkxnksnko">Subsidiarity
+                </h2>
+                <p>One challenge which this document only addresses briefly is that of the interplay between a planetary system — that must be interoperable and that should adhere to a minimal set of principles so as to be predictable in its operation — and the need for locally-anchored governance, reflective of local preferences and jurisdictions.
+                </p>
+                <p>It is important to support both and not just global interoperability because the latter, operating alone, eliminates the agency that people are afforded through their local governance arrangements. We can only have democratic technology if it is designed and governed to be responsive to local jurisdiction.
+                </p>
+                <p>There is a corollary to that choice: it also means that wherever the local regime is undemocratic we must accept that, for the most part, the local deployment of the digital infrastructure will also be undemocratic. This is because when globally interoperably digital infrastructure has the power to impose certain values, then it has the power to impose unethical, dangerous, or detrimental values. With subsidiarity — the arrangement according to which decisions that can be made locally are — we may lose democratic governance in some places but we gain democratic potential everywhere. We have to accept that liberation must be locally-led and not imposed from the outside.
+                </p>
+                <p>A globally interoperable network that delegates infrastructural operations to entities in local jurisdictions has strong benefits in decreasing the cost of compliance and increasing the ease of regulatory enforcement. If, for instance, you know that your advertising infrastructure is GDPR-compliant then you can limit yourself to worrying only about your own data processing. Simultaneously, regulators have a partner with which to develop viable, sustainable enforcement. This means that that you liberate more energies for innovation while having credible regulation at the same time — an eat-your-cake-and-have-it-too arrangement.
+                </p>
+            </section>
+        </section>
+        <section>
+            <h1 id="h.ntyucmqosibd">Public Policy
+            </h1>
+            <p>The RHEA system is not built on particularly-recent innovations in technology or governance, and even when a given component hasn’t existed for a long time it wouldn’t have prevented the emergence of this arrangement earlier. So, if this system has so many promising properties, why doesn’t it exist already?
+            </p>
+            <p>Several aspects have conspired to make it challenging:
+            </p>
+            <ul>
+                <li><strong>Convening</strong>. Making this system works requires convening support from a range of actors who have no convenor in which they can all meet.
+                </li>
+                <li><strong>Monopolies</strong>. States have largely abandoned the governance of the digital space to tech monopolies, and they have no interest in making it work in ways that align with democracy and public interest.
+                </li>
+                <li><strong>Scale</strong>. Advertising systems live or die on scale. Deploying an entirely new advertising system needs access to significant scale on both the buy and sell sides in order to stand a chance.
+                </li>
+                <li><strong>Regulatory environment</strong>. The regulatory environment, including in Europe, does nothing to improve digital advertising and in many cases worsens the situation.
+                </li>
+            </ul>
+            <p>Many of these advantages materialise when this infrastructure is the only or the dominant infrastructure. How do we get there? Or at least how are we honest about the steps?
+            </p>
             <p>tk
+            </p>
+            <ul>
+                <li>the benefits that we offer must become a floor for enforcement, we’re the tide lifting all boats and drowning all bad actors
+                </li>
+                <li>break: break up incumbents
+                </li>
+                <li>enforce: once the alternative is available, signal intent to crack down on RTB really hard as well as on cross-context bullshit
+                    <ul>
+                        <li>don’t reopen the GDPR — we can fix a lot of it within the framework
+                        </li>
+                    </ul>
+                </li>
+                <li>DFA: fiduciary agents for much stronger privacy
+                </li>
+                <li>DMA: use to structure compliance
+                </li>
+            </ul>
+        </section>
+        <section class="special-section appendix">
+            <h1 id="h.7rjhv7ikgl6r">Acknowledgements
+            </h1>
+            <p>In earlier iterations, Aram Zucker-Scharff, Max Gendler, Mihir Kshirsagar, and Reuben Binns provided much invaluable feedback. Many thanks to Juan Ortiz Freuler for organising a discussion session around Garuda at the Berkman Klein Center for Internet &amp; Society before it was even public, as well as to Levin Kim, Crystal Lee, Sahar Massachi, Tom Zick as convenors of the <em>Ethical Tech</em> and <em>Big Tech Governance</em> groups, and the attendees of the session for a spirited and constructive discussion.
+            </p>
+            <p>Heartfelt thanks as well to <em>The New York Times</em> for supporting earlier versions of this work. While there, Allison Murphy, Sasha Heroy, Jackie Lee, and Danielle Racioppi very, <em>very</em> patiently explained to me how advertising and marketing work.
+            </p>
+            <p>Finally, my deep thanks to Vera Franz and Cori Crider for long discussion and convening the group that this document is for.
             </p>
         </section>
         <section id="references" class="special-section">
             <h1>References</h1>
             <dl class="bibliography">
+                <dt id="bib-cnil-exemptions">[cnil-exemptions]</dt>
+                <dd><a href="https://www.cnil.fr/sites/default/files/atoms/files/lignes_directrices_de_la_cnil_sur_les_cookies_et_autres_traceurs.pdf"><cite>Délibération n° 2020-091 du 17 septembre 2020 portant adoption de lignes directrices relatives à l’application de l'article 82 de la loi du 6 janvier 1978 modifiée aux opérations de lecture et écriture dans le terminal d’un utilisateur (notamment aux «cookies et autres traceurs») et abrogeant la délibération n° 2019-093 du 4 juillet 2019</cite></a>. CNIL. 2020-09-17. <a href="https://www.cnil.fr/sites/default/files/atoms/files/lignes_directrices_de_la_cnil_sur_les_cookies_et_autres_traceurs.pdf">https://www.cnil.fr/sites/default/files/atoms/files/lignes_directrices_de_la_cnil_sur_les_cookies_et_autres_traceurs.pdf</a></dd>
+                <dt id="bib-consenter">[consenter]</dt>
+                <dd><a href="https://www.consenter.eu/"><cite>Consenter</cite></a>. Max von Grafenstein. <a href="https://www.consenter.eu/">https://www.consenter.eu/</a></dd>
+                <dt id="bib-gpc">[gpc]</dt>
+                <dd><a href="https://globalprivacycontrol.org/"><cite>Global Privacy Control (GPC)</cite></a>. <a href="https://globalprivacycontrol.org/">https://globalprivacycontrol.org/</a></dd>
                 <dt id="bib-hbr-targeting">[hbr-targeting]</dt>
                 <dd><a href="https://hbr.org/2021/12/does-personalized-advertising-work-as-well-as-tech-companies-claim"><cite>Does Personalized Advertising Work as Well as Tech Companies Claim?</cite></a>. Bart de Langhe; Stefano Puntoni. 2021-12-16. <a href="https://hbr.org/2021/12/does-personalized-advertising-work-as-well-as-tech-companies-claim">https://hbr.org/2021/12/does-personalized-advertising-work-as-well-as-tech-companies-claim</a></dd>
                 <dt id="bib-nyt-last-night">[nyt-last-night]</dt>

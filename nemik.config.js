@@ -10,6 +10,7 @@ export default async function (nemik) {
       cover: 'rhea.jpg',
       date: true,
       author: 'Robin Berjon',
+      appendices: ['Acknowledgements'],
     })
     .wordCount(7_000)
     .pdf('rhea.pdf')

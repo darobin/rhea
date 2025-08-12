@@ -1,6 +1,6 @@
 {
   "title": "Requirements for a Healthy Ecosystem in Advertising (RHEA)",
-  "revisionId": "ALBJ4LswsGFe36eaI8qb2DgINqvCz2i5tMvc8RBJEsB06M3D49JnrDols41cyd087AyMZpoAz_z-1ADgfQ7W8A",
+  "revisionId": "ALBJ4LtP8b0pOasLxJa3aXuJzhKcnOSCFD7B6d2ZRPlYB04lS4mPuzWLLWKjx-Dd8vYG5Jbh7_claa6LJYuhSg",
   "suggestionsViewMode": "SUGGESTIONS_INLINE",
   "documentId": "1H1hIbhaAKlgoA9dHbjXOmEddW07eAlCGZbxmWQZSZDQ",
   "tabs": [
@@ -1228,14 +1228,14 @@
             },
             {
               "startIndex": 16904,
-              "endIndex": 16947,
+              "endIndex": 16936,
               "paragraph": {
                 "elements": [
                   {
                     "startIndex": 16904,
-                    "endIndex": 16947,
+                    "endIndex": 16936,
                     "textRun": {
-                      "content": "Our Goals: Who To Improve Advertising For?\n",
+                      "content": "Who To Improve Advertising For?\n",
                       "textStyle": {}
                     }
                   }
@@ -1248,15 +1248,15 @@
               }
             },
             {
-              "startIndex": 16947,
-              "endIndex": 16950,
+              "startIndex": 16936,
+              "endIndex": 17123,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 16947,
-                    "endIndex": 16950,
+                    "startIndex": 16936,
+                    "endIndex": 17123,
                     "textRun": {
-                      "content": "tk\n",
+                      "content": "Today’s legacy system puts advertising intermediaries at the centre, with marketers a very distant second, then publishers, and finally people. This proposal inverts that order entirely.\n",
                       "textStyle": {}
                     }
                   }
@@ -1268,15 +1268,55 @@
               }
             },
             {
-              "startIndex": 16950,
-              "endIndex": 17027,
+              "startIndex": 17123,
+              "endIndex": 17528,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 16950,
-                    "endIndex": 17027,
+                    "startIndex": 17123,
+                    "endIndex": 17140,
                     "textRun": {
-                      "content": "Better for publishers: describe the subsidy system and how we need to end it\n",
+                      "content": "Better for people",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 17140,
+                    "endIndex": 17528,
+                    "textRun": {
+                      "content": ". No one likes advertising, but under this systems the entire advertising environment will be far safer, with much higher privacy, and much more stringent security. Ads will allow use fewer resources and will better support publishers. It will be possible to use the internet without an ad blocker. This new system also comes with protections for children and vulnerable people built in.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 17528,
+              "endIndex": 17895,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 17528,
+                    "endIndex": 17549,
+                    "textRun": {
+                      "content": "Better for publishers",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 17549,
+                    "endIndex": 17895,
+                    "textRun": {
+                      "content": ". Quality publishers will no longer have to give away their hard work in order to subsidise slop farms and disinformation providers. With a more equitable market, their revenue will go up. It will also be safer to operate a site or app, and those will offer a faster, more pleasant user experience. You will make money for knowing your audience.\n",
                       "textStyle": {}
                     }
                   }
@@ -1284,36 +1324,39 @@
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
                   "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
                   "spaceBelow": {
                     "magnitude": 12,
                     "unit": "PT"
                   },
                   "indentFirstLine": {
-                    "magnitude": 18,
                     "unit": "PT"
                   },
                   "indentStart": {
-                    "magnitude": 36,
                     "unit": "PT"
                   }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
                 }
               }
             },
             {
-              "startIndex": 17027,
-              "endIndex": 17070,
+              "startIndex": 17895,
+              "endIndex": 18228,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17027,
-                    "endIndex": 17070,
+                    "startIndex": 17895,
+                    "endIndex": 17917,
                     "textRun": {
-                      "content": "for each go through all the intro problems\n",
+                      "content": "Better for advertisers",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 17917,
+                    "endIndex": 18228,
+                    "textRun": {
+                      "content": ". This system makes it easier to stamp out fraud and offers traceability for all spend. It helps shake bad actors out of the market — and let’s face it, we all know that many marketing options that we have to use are bad products from untrustworthy actors. It offers more credible financial reporting on spend.\n",
                       "textStyle": {}
                     }
                   }
@@ -1321,39 +1364,39 @@
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
                   "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
                   "spaceBelow": {
                     "magnitude": 12,
                     "unit": "PT"
                   },
                   "indentFirstLine": {
-                    "magnitude": 54,
                     "unit": "PT"
                   },
                   "indentStart": {
-                    "magnitude": 72,
                     "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "nestingLevel": 1,
-                  "textStyle": {
-                    "underline": false
                   }
                 }
               }
             },
             {
-              "startIndex": 17070,
-              "endIndex": 17151,
+              "startIndex": 18228,
+              "endIndex": 18618,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17070,
-                    "endIndex": 17151,
+                    "startIndex": 18228,
+                    "endIndex": 18263,
                     "textRun": {
-                      "content": "Better for advertisers: traceability problems, lots of marketing options are bad\n",
+                      "content": "Better for legitimate adtech actors",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 18263,
+                    "endIndex": 18618,
+                    "textRun": {
+                      "content": ". Legitimate adtech actors face the unpleasant task of having to promote themselves in an industry in which flat-out lying and fraudulent behaviour goes unpunished and where the rules are set by tech monopolies in their own exclusive interest. By eliminating much of the cruft and the fraud, we can make it easier for good actors to operate and innovate.\n",
                       "textStyle": {}
                     }
                   }
@@ -1361,36 +1404,39 @@
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
                   "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
                   "spaceBelow": {
                     "magnitude": 12,
                     "unit": "PT"
                   },
                   "indentFirstLine": {
-                    "magnitude": 18,
                     "unit": "PT"
                   },
                   "indentStart": {
-                    "magnitude": 36,
                     "unit": "PT"
                   }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
                 }
               }
             },
             {
-              "startIndex": 17151,
-              "endIndex": 17187,
+              "startIndex": 18618,
+              "endIndex": 18992,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17151,
-                    "endIndex": 17187,
+                    "startIndex": 18618,
+                    "endIndex": 18638,
                     "textRun": {
-                      "content": "Better for people: credible privacy\n",
+                      "content": "Better for democracy",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 18638,
+                    "endIndex": 18992,
+                    "textRun": {
+                      "content": ". With improved privacy, less espionage of our people and our businesses, cheaper enforcement of data regulation, increased protection against interference campaigns, easier auditing of political advertising, stronger protections for children and vulnerable people, improved revenue streams for the media, the benefits to democracy are not hard to find.\n",
                       "textStyle": {}
                     }
                   }
@@ -1398,132 +1444,27 @@
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
                   "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
                   "spaceBelow": {
                     "magnitude": 12,
                     "unit": "PT"
                   },
                   "indentFirstLine": {
-                    "magnitude": 18,
                     "unit": "PT"
                   },
                   "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
-                }
-              }
-            },
-            {
-              "startIndex": 17187,
-              "endIndex": 17207,
-              "paragraph": {
-                "elements": [
-                  {
-                    "startIndex": 17187,
-                    "endIndex": 17207,
-                    "textRun": {
-                      "content": "Governed ad safety \n",
-                      "textStyle": {}
-                    }
-                  }
-                ],
-                "paragraphStyle": {
-                  "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
-                }
-              }
-            },
-            {
-              "startIndex": 17207,
-              "endIndex": 17217,
-              "paragraph": {
-                "elements": [
-                  {
-                    "startIndex": 17207,
-                    "endIndex": 17217,
-                    "textRun": {
-                      "content": "from RHEA\n",
-                      "textStyle": {}
-                    }
-                  }
-                ],
-                "paragraphStyle": {
-                  "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
-                }
-              }
-            },
-            {
-              "startIndex": 17217,
-              "endIndex": 17218,
-              "paragraph": {
-                "elements": [
-                  {
-                    "startIndex": 17217,
-                    "endIndex": 17218,
-                    "textRun": {
-                      "content": "\n",
-                      "textStyle": {}
-                    }
-                  }
-                ],
-                "paragraphStyle": {
-                  "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spaceBelow": {
-                    "magnitude": 12,
                     "unit": "PT"
                   }
                 }
               }
             },
             {
-              "startIndex": 17218,
-              "endIndex": 17226,
+              "startIndex": 18992,
+              "endIndex": 19000,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17218,
-                    "endIndex": 17226,
+                    "startIndex": 18992,
+                    "endIndex": 19000,
                     "textRun": {
                       "content": "Privacy\n",
                       "textStyle": {}
@@ -1542,15 +1483,33 @@
               }
             },
             {
-              "startIndex": 17226,
-              "endIndex": 17229,
+              "startIndex": 19000,
+              "endIndex": 19407,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17226,
-                    "endIndex": 17229,
+                    "startIndex": 19000,
+                    "endIndex": 19208,
                     "textRun": {
-                      "content": "tk\n",
+                      "content": "The approach to privacy advocated here is principled but it does not match the ideal of privacy advocated by many CSOs. Rather, it offers a messy compromise of the kind that we should expect in a democracy. (",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 19208,
+                    "endIndex": 19405,
+                    "textRun": {
+                      "content": "Note: this section focuses on the GDPR because the first order of business for this project is Europe, but much of the thinking can be extended elsewhere and implemented via other legal mechanisms.",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 19405,
+                    "endIndex": 19407,
+                    "textRun": {
+                      "content": ")\n",
                       "textStyle": {}
                     }
                   }
@@ -1562,52 +1521,121 @@
               }
             },
             {
-              "startIndex": 17229,
-              "endIndex": 17282,
+              "startIndex": 19407,
+              "endIndex": 19953,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17229,
-                    "endIndex": 17282,
+                    "startIndex": 19407,
+                    "endIndex": 19953,
                     "textRun": {
-                      "content": "Exemptions + technical guarantees for the processing\n",
+                      "content": "This kind of contested consensus is precisely what strong data governance frameworks like the GDPR should be used to. Contrary to popular but incorrect opinion, nothing in the GDPR requires that people should consent to nearly every processing in nearly every context using an uninformative, agency-reducing popup. The alternative to consent is also not a blanket nuclear option in which practically all data processing beyond serving content is obliterated. The regulation, ill-applied as it is, is mercifully more powerful than its caricature.\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 17282,
-              "endIndex": 17335,
+              "startIndex": 19953,
+              "endIndex": 20435,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17282,
-                    "endIndex": 17335,
+                    "startIndex": 19953,
+                    "endIndex": 20019,
                     "textRun": {
-                      "content": "Explain that this is intended to help publishers too\n",
+                      "content": "The central organising principle of RHEA’s approach to privacy is ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 20019,
+                    "endIndex": 20038,
+                    "textRun": {
+                      "content": "sole controllership",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 20038,
+                    "endIndex": 20263,
+                    "textRun": {
+                      "content": ", which is to say that to the extent possible whenever a person interacts with an entity they only have to deal with one data controller in charge of determining the means and purposes of data processing. Note that this does ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 20263,
+                    "endIndex": 20266,
+                    "textRun": {
+                      "content": "not",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 20266,
+                    "endIndex": 20435,
+                    "textRun": {
+                      "content": " entail that said means and purposes are lawful or aligned with the expectations of the data subject. It only means that that there is a single point of accountability.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 20435,
+              "endIndex": 20471,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 20435,
+                    "endIndex": 20471,
+                    "textRun": {
+                      "content": "This helps multiple constituencies:\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 20471,
+              "endIndex": 20823,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 20471,
+                    "endIndex": 20481,
+                    "textRun": {
+                      "content": "For people",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 20481,
+                    "endIndex": 20823,
+                    "textRun": {
+                      "content": ", it means that their data does not get processed outside of the context in which it was collected and it gives them a unique point of contact for issues. It eliminates the current universal data leak of the RTB system and severely limits the amount of processing of their data. Also: it should be possible to eliminate most consent banners.\n",
                       "textStyle": {}
                     }
                   }
@@ -1616,10 +1644,6 @@
                   "namedStyleType": "NORMAL_TEXT",
                   "direction": "LEFT_TO_RIGHT",
                   "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
                   "indentFirstLine": {
                     "magnitude": 18,
                     "unit": "PT"
@@ -1630,7 +1654,7 @@
                   }
                 },
                 "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
+                  "listId": "kix.8duri9bjmrjv",
                   "textStyle": {
                     "underline": false
                   }
@@ -1638,15 +1662,25 @@
               }
             },
             {
-              "startIndex": 17335,
-              "endIndex": 17435,
+              "startIndex": 20823,
+              "endIndex": 21023,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17335,
-                    "endIndex": 17435,
+                    "startIndex": 20823,
+                    "endIndex": 20837,
                     "textRun": {
-                      "content": "Single controller operations (apart perhaps from some very limited technical services like serving)\n",
+                      "content": "For publishers",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 20837,
+                    "endIndex": 21023,
+                    "textRun": {
+                      "content": ", it protects their audiences such that advertising technology providers can no longer use publisher data to compete against publishers and sell targeting services to enrich slop farms.\n",
                       "textStyle": {}
                     }
                   }
@@ -1655,10 +1689,6 @@
                   "namedStyleType": "NORMAL_TEXT",
                   "direction": "LEFT_TO_RIGHT",
                   "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
                   "indentFirstLine": {
                     "magnitude": 18,
                     "unit": "PT"
@@ -1669,21 +1699,33 @@
                   }
                 },
                 "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
+                  "listId": "kix.8duri9bjmrjv",
+                  "textStyle": {
+                    "underline": false
+                  }
                 }
               }
             },
             {
-              "startIndex": 17435,
-              "endIndex": 17449,
+              "startIndex": 21023,
+              "endIndex": 21475,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17435,
-                    "endIndex": 17449,
+                    "startIndex": 21023,
+                    "endIndex": 21038,
                     "textRun": {
-                      "content": "Article 40/41\n",
+                      "content": "For advertisers",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 21038,
+                    "endIndex": 21475,
+                    "textRun": {
+                      "content": ", while it initially restricts some targeting and reporting capabilities, these can progressively be supported again with adequate data protection. In time, this will create an ecosystem that is far less fraudulent, much more auditable (particularly for publicly-traded companies that meaningfully audit their marketing spend), and far more transparent. This will open the door to better decision-making leading to improved performance.\n",
                       "textStyle": {}
                     }
                   }
@@ -1692,10 +1734,6 @@
                   "namedStyleType": "NORMAL_TEXT",
                   "direction": "LEFT_TO_RIGHT",
                   "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
                   "indentFirstLine": {
                     "magnitude": 18,
                     "unit": "PT"
@@ -1706,94 +1744,247 @@
                   }
                 },
                 "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
+                  "listId": "kix.8duri9bjmrjv",
+                  "textStyle": {
+                    "underline": false
+                  }
                 }
               }
             },
             {
-              "startIndex": 17449,
-              "endIndex": 17540,
+              "startIndex": 21475,
+              "endIndex": 21542,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17449,
-                    "endIndex": 17540,
+                    "startIndex": 21475,
+                    "endIndex": 21542,
                     "textRun": {
-                      "content": "Could consider using the Data Act and data exchanges (?) to support some form of targeting\n",
+                      "content": "Supporting this approach requires multiple steps working together.\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 17540,
-              "endIndex": 17596,
+              "startIndex": 21542,
+              "endIndex": 22037,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17540,
-                    "endIndex": 17596,
+                    "startIndex": 21542,
+                    "endIndex": 22037,
                     "textRun": {
-                      "content": "Use sortition-based privacy (see Asia, also Max von G.)\n",
+                      "content": "First, a number of processing exemptions must be made to ePrivacy/GDPR consent requirements, comparable (and possibly identical) to those established by the CNIL ([[cnil-exemptions]]). This makes it possible to help eliminate many consent banners for baseline, single-controller processing. Relying on consent for this kind of processing is detrimental because it makes some of the safer, more conservative, least invasive data processing look exactly like the most dangerous and invasive kind.\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
-                  "indentFirstLine": {
-                    "magnitude": 54,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 72,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "nestingLevel": 1,
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 17596,
-              "endIndex": 17608,
+              "startIndex": 22037,
+              "endIndex": 22471,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17596,
-                    "endIndex": 17608,
+                    "startIndex": 22037,
+                    "endIndex": 22471,
+                    "textRun": {
+                      "content": "Second, publishers are required to support the Global Privacy Control (GPC, [[gpc]]). This is a GDPR-compatible signal that indicates that the user is exercising their data rights to enforce single-controllership by withdrawing their consent to all data processing involving other controllers and objecting to all sharing of data to other controllers made under legitimate interest. The GPC is already available in multiple browsers.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 22471,
+              "endIndex": 22833,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 22471,
+                    "endIndex": 22833,
+                    "textRun": {
+                      "content": "Third, targeting capabilities are driven by Seller-Defined Audiences (SDAs), which is to say that they are developed, supported, and maintained by the publishers (sellers) rather than by third parties. Note that nothing prevents a seller from carrying out invasive profiling (other than lawfulness) but they are uniquely responsible with respect to their users.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 22833,
+              "endIndex": 23559,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 22833,
+                    "endIndex": 23495,
+                    "textRun": {
+                      "content": "Systems to use SDAs already exist today but publishers have very little incentive to ever use them. The problem is that developing audience segments is costly but the current RTB ad systems means that the fact that a given person is part of a given segment is broadcast to every party that is listening to the RTB bidstream. In practice, under the current system, publishers are forced to offer the hard work of developing segments with every intermediary in the advertising industry, for free, knowing that they will then use that data to compete with the seller in other spaces. Single controllership and the fact that ad requests are not being broadcast (see ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 23495,
+                    "endIndex": 23506,
+                    "textRun": {
+                      "content": "Marketplace",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 23506,
+                    "endIndex": 23559,
+                    "textRun": {
+                      "content": " below) make SDAs worth investing in for publishers.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 23559,
+              "endIndex": 23695,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 23559,
+                    "endIndex": 23695,
+                    "textRun": {
+                      "content": "Note of course that this document assumes that contextual targeting is available at all times. Experience from contextual actors shows \n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 23695,
+              "endIndex": 24508,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 23695,
+                    "endIndex": 24508,
+                    "textRun": {
+                      "content": "Fourth, since not all privacy requirements can be enforced through technical means, all participants are bound by the terms of an Article 40/41 Code of Conduct. This could be the legal mechanism supporting the exemptions or the GPC requirement, for instance. This provides the grounds for the sort of trade-off that we are seeking: the Code of Conduct can offer some lenient rules for some aspects of data protection but in a balanced exchange for auditing and enforcement capabilities mandated under Article 41. Aspects that could be governed under the Code include how ad servers must respect data protection and targeting requirements set by the institution and purchased in the marketplace (both described below) or how some constrained geolocation information can be provided in order to geofence campaigns.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 24508,
+              "endIndex": 24769,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 24508,
+                    "endIndex": 24769,
+                    "textRun": {
+                      "content": "Fifth, in order to support smaller publishers, we could consider some limited kinds of audience sharing built around data exchanges under the Data Act. Any kind of sharing is potentially problematic so any such project would need strong independent validation.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 24769,
+              "endIndex": 25368,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 24769,
+                    "endIndex": 25368,
+                    "textRun": {
+                      "content": "Sixth, purpose-specific technical capabilities (e.g. attribution, fraud prevention, frequency or recency capping, retargeting) will be governed by the marketplace and institution (see below). Powerful, privacy-preserving methods have been proposed for some of these but their practical, cost-effective deployment may be some time away. In order not to let the perfect be the enemy of the good, the RHEA system will afford these capabilities in initially implementations (constrained, controlled, and governed) that may be less privacy-protecting, but will gradually shift to better implementations.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 25368,
+              "endIndex": 25869,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 25368,
+                    "endIndex": 25868,
+                    "textRun": {
+                      "content": "Finally, in order not to put all decisions relating to privacy in the hands of an institution that could become captured by financial interests (given that it is, after all, centred on making money), the institution will be required to rely on systems that allow privacy decisions to be delegated to mini-publics via sortition (Lin Kyi, Asia Biega, Paul Gölz forthcoming) or on user experiences designed to support more informed decision-making in the cases when consent is necessary ([[consenter]]).",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 25868,
+                    "endIndex": 25869,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 25869,
+              "endIndex": 25881,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 25869,
+                    "endIndex": 25881,
                     "textRun": {
                       "content": "Marketplace\n",
                       "textStyle": {}
@@ -1812,13 +2003,13 @@
               }
             },
             {
-              "startIndex": 17608,
-              "endIndex": 17611,
+              "startIndex": 25881,
+              "endIndex": 25884,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17608,
-                    "endIndex": 17611,
+                    "startIndex": 25881,
+                    "endIndex": 25884,
                     "textRun": {
                       "content": "tk\n",
                       "textStyle": {}
@@ -1832,13 +2023,13 @@
               }
             },
             {
-              "startIndex": 17611,
-              "endIndex": 17638,
+              "startIndex": 25884,
+              "endIndex": 25911,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17611,
-                    "endIndex": 17638,
+                    "startIndex": 25884,
+                    "endIndex": 25911,
                     "textRun": {
                       "content": "Beckn specialised for this\n",
                       "textStyle": {}
@@ -1869,21 +2060,21 @@
               }
             },
             {
-              "startIndex": 17638,
-              "endIndex": 17683,
+              "startIndex": 25911,
+              "endIndex": 25956,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17638,
-                    "endIndex": 17665,
+                    "startIndex": 25911,
+                    "endIndex": 25938,
                     "textRun": {
                       "content": "SDAs — why this makes them ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 17665,
-                    "endIndex": 17673,
+                    "startIndex": 25938,
+                    "endIndex": 25946,
                     "textRun": {
                       "content": "actually",
                       "textStyle": {
@@ -1892,8 +2083,8 @@
                     }
                   },
                   {
-                    "startIndex": 17673,
-                    "endIndex": 17683,
+                    "startIndex": 25946,
+                    "endIndex": 25956,
                     "textRun": {
                       "content": " possible\n",
                       "textStyle": {}
@@ -1924,13 +2115,13 @@
               }
             },
             {
-              "startIndex": 17683,
-              "endIndex": 17692,
+              "startIndex": 25956,
+              "endIndex": 25965,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17683,
-                    "endIndex": 17692,
+                    "startIndex": 25956,
+                    "endIndex": 25965,
                     "textRun": {
                       "content": "Some geo\n",
                       "textStyle": {}
@@ -1961,13 +2152,13 @@
               }
             },
             {
-              "startIndex": 17692,
-              "endIndex": 17696,
+              "startIndex": 25965,
+              "endIndex": 25969,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17692,
-                    "endIndex": 17696,
+                    "startIndex": 25965,
+                    "endIndex": 25969,
                     "textRun": {
                       "content": "PPA\n",
                       "textStyle": {}
@@ -1998,13 +2189,13 @@
               }
             },
             {
-              "startIndex": 17696,
-              "endIndex": 17713,
+              "startIndex": 25969,
+              "endIndex": 25986,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17696,
-                    "endIndex": 17713,
+                    "startIndex": 25969,
+                    "endIndex": 25986,
                     "textRun": {
                       "content": "Fraud prevention\n",
                       "textStyle": {}
@@ -2035,13 +2226,13 @@
               }
             },
             {
-              "startIndex": 17713,
-              "endIndex": 17730,
+              "startIndex": 25986,
+              "endIndex": 26003,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17713,
-                    "endIndex": 17730,
+                    "startIndex": 25986,
+                    "endIndex": 26003,
                     "textRun": {
                       "content": "KYC requirements\n",
                       "textStyle": {}
@@ -2072,13 +2263,13 @@
               }
             },
             {
-              "startIndex": 17730,
-              "endIndex": 17812,
+              "startIndex": 26003,
+              "endIndex": 26085,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17730,
-                    "endIndex": 17812,
+                    "startIndex": 26003,
+                    "endIndex": 26085,
                     "textRun": {
                       "content": "Money: can this use a digital currency and protocol that supports splitting well?\n",
                       "textStyle": {}
@@ -2109,13 +2300,52 @@
               }
             },
             {
-              "startIndex": 17812,
-              "endIndex": 17813,
+              "startIndex": 26085,
+              "endIndex": 26175,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17812,
-                    "endIndex": 17813,
+                    "startIndex": 26085,
+                    "endIndex": 26175,
+                    "textRun": {
+                      "content": "Signed origin delivery (the server attests that a given impression was on its own server)\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spacingMode": "COLLAPSE_LISTS",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  }
+                },
+                "bullet": {
+                  "listId": "kix.oma3nnnjrxfj",
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 26175,
+              "endIndex": 26176,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 26175,
+                    "endIndex": 26176,
                     "textRun": {
                       "content": "\n",
                       "textStyle": {
@@ -2139,13 +2369,13 @@
               }
             },
             {
-              "startIndex": 17813,
-              "endIndex": 17823,
+              "startIndex": 26176,
+              "endIndex": 26186,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17813,
-                    "endIndex": 17823,
+                    "startIndex": 26176,
+                    "endIndex": 26186,
                     "textRun": {
                       "content": "Creatives\n",
                       "textStyle": {}
@@ -2164,15 +2394,15 @@
               }
             },
             {
-              "startIndex": 17823,
-              "endIndex": 17826,
+              "startIndex": 26186,
+              "endIndex": 26923,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17823,
-                    "endIndex": 17826,
+                    "startIndex": 26186,
+                    "endIndex": 26923,
                     "textRun": {
-                      "content": "tk\n",
+                      "content": "An underappreciated problem in digital advertising is the role of creatives, the trade name for those bundles of markup, code, and images that render as ads. Because of how open-ended creatives are and of how insecure their implementation is — they primarily work by injecting code from arbitrary sources that can change at will or upon compromise — they render auditing near-impossible, are a major malware vector, are a privacy free-for-all, and obfuscate attempts at tracing the origin of given attacks. Because there is very little in the way of incentives to build them efficiently, they also tend to be highly wasteful in bytes and code execution, which hurts both user experience and publisher revenue, and is wasteful of energy.\n",
                       "textStyle": {}
                     }
                   }
@@ -2184,15 +2414,193 @@
               }
             },
             {
-              "startIndex": 17826,
-              "endIndex": 17899,
+              "startIndex": 26923,
+              "endIndex": 27033,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 17826,
-                    "endIndex": 17899,
+                    "startIndex": 26923,
+                    "endIndex": 27033,
                     "textRun": {
-                      "content": "Locked down, but that's okay because purchases are made in small batches\n",
+                      "content": "Under RHEA creatives use a different system that is compatible with existing web technologies but much safer.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 27033,
+              "endIndex": 27373,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 27033,
+                    "endIndex": 27126,
+                    "textRun": {
+                      "content": "First, creatives are locked down in terms of what they can access from the network. They can ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 27126,
+                    "endIndex": 27130,
+                    "textRun": {
+                      "content": "only",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 27130,
+                    "endIndex": 27373,
+                    "textRun": {
+                      "content": " load resources from their origin ad server (which must comply with a number of privacy and security requirements). This means that they cannot load unexpected code or exfiltrate data other than through pre-determined and controlled channels.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 27373,
+              "endIndex": 28365,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 27373,
+                    "endIndex": 28365,
+                    "textRun": {
+                      "content": "Second, all of their dependencies are loaded in a content-addressed manner (which is to say that they are located by a cryptographic hash of their content) and the root manifest that lists these dependencies is itself transmitted with a hash. This has multiple benefits. One is that the user agent (e.g. browser) is able to verify when loading an ad that it is getting untampered content. This makes it impossible to modify a dependency while a campaign is in flight in order to replace it with malicious code. Another is that during post-mortem auditing, it is possible to know with certainty all the content that was involved in rendering an impression. This also makes it easier to scan content prior to setting up an ad campaign to ensure that it is safe and adheres to policy. (Note that content-addressed loading can lead to some privacy attacks but 1) that is still a substantial gain over what exists today and 2) there isn’t much to do with that data since it can’t be exfiltrated.)\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 28365,
+              "endIndex": 28704,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 28365,
+                    "endIndex": 28704,
+                    "textRun": {
+                      "content": "Creatives as a content-addressable tree also renders the work of accountability by third parties easier. It is possible for researchers or journalists to recognise the same creative loading in multiple places and to be able to reproducibly analyse its behaviour. This can help, for instance, with ad driven foreign interference campaigns.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 28704,
+              "endIndex": 29085,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 28704,
+                    "endIndex": 29085,
+                    "textRun": {
+                      "content": "Third, creatives are attested, which is to say that the content is cryptographically signed by the buyer. This makes it possible to trace them to their originator. This information can be used to ensure that only legitimate political actors buy political ads (which can be surfaced and reported for instance in the browser) or to support the auditing of better-business practices.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 29085,
+              "endIndex": 29506,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 29085,
+                    "endIndex": 29506,
+                    "textRun": {
+                      "content": "Fourth, the content-addressed manifest offers a convenient place to capture metadata about the creative. This can be used for instance for regulatory purposes such as requiring that all political ads be flagged or that ads indicate their age appropriateness. Ads for sensitive topics such as gambling or alcohol could be required to be flagged as such in their metadata so that the user agent is able to filter them out.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 29506,
+              "endIndex": 29776,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 29506,
+                    "endIndex": 29776,
+                    "textRun": {
+                      "content": "Finally, because the full dependency tree that produces a creative must be provided at the time that the purchase is executed, this makes it possible to enforce policies about creative size, either to reject them or to charge more for more resource-intensive creatives.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 29776,
+              "endIndex": 30017,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 29776,
+                    "endIndex": 30017,
+                    "textRun": {
+                      "content": "Buyers often want to adapt campaigns in flight (e.g. to respond to better lift from a variant). We support this by encouraging buying in small batches such that campaigns can be updated over time as more impressions are gradually purchased.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 30017,
+              "endIndex": 30320,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 30017,
+                    "endIndex": 30320,
+                    "textRun": {
+                      "content": "All of these changes can be implemented using existing web technologies but in some cases they would benefit from more direct support from user agents. This provides a path forward: we can implement this system immediately and gradually make it more efficient by moving support for it into user agents.\n",
                       "textStyle": {}
                     }
                   }
@@ -2200,80 +2608,6 @@
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
                   "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
-                }
-              }
-            },
-            {
-              "startIndex": 17899,
-              "endIndex": 18025,
-              "paragraph": {
-                "elements": [
-                  {
-                    "startIndex": 17899,
-                    "endIndex": 18025,
-                    "textRun": {
-                      "content": "Content-addressed and all content is available at purchase time (this allows extra charges for creative size to be addressed)\n",
-                      "textStyle": {}
-                    }
-                  }
-                ],
-                "paragraphStyle": {
-                  "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
-                }
-              }
-            },
-            {
-              "startIndex": 18025,
-              "endIndex": 18026,
-              "paragraph": {
-                "elements": [
-                  {
-                    "startIndex": 18025,
-                    "endIndex": 18026,
-                    "textRun": {
-                      "content": "\n",
-                      "textStyle": {}
-                    }
-                  }
-                ],
-                "paragraphStyle": {
-                  "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
                   "spaceBelow": {
                     "magnitude": 12,
                     "unit": "PT"
@@ -2282,13 +2616,13 @@
               }
             },
             {
-              "startIndex": 18026,
-              "endIndex": 18037,
+              "startIndex": 30320,
+              "endIndex": 30331,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 18026,
-                    "endIndex": 18037,
+                    "startIndex": 30320,
+                    "endIndex": 30331,
                     "textRun": {
                       "content": "Governance\n",
                       "textStyle": {}
@@ -2307,13 +2641,965 @@
               }
             },
             {
-              "startIndex": 18037,
-              "endIndex": 18040,
+              "startIndex": 30331,
+              "endIndex": 31343,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 18037,
-                    "endIndex": 18040,
+                    "startIndex": 30331,
+                    "endIndex": 31343,
+                    "textRun": {
+                      "content": "Today’s internet governance apparatus handles many low-level technology standards from IP to HTML, but as our digital sphere has grown to encompass most human activities, internet governance has failed to grow with it and comes up short on two aspects. First, in scope: most digital governance needs sit well above low-level tech but they are hardly addressed at all, primarily left to tech monopolies. For advertising, this role could have been taken on by the IAB, but it is primarily focused on lobbying for the industry as well as heavily Google-dominated. Second, in enforcement: the enforcement mechanism used by internet standards is competition in the market — if you don’t implement the standard well, you will lose to competitors. Because market-backed enforcement feels automatic or even magical, the internet governance community has largely failed to think about effective enforcement or the reckon with what would happen to standards as the primary markets they operate in ceased to be contested. \n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 31343,
+              "endIndex": 31792,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 31343,
+                    "endIndex": 31732,
+                    "textRun": {
+                      "content": "As a result, there is no existing governance structure able to take on governing digital advertising infrastructure and very little in the way of models to imitate, despite it being obvious that leaving the system to its own devices has failed. This was particularly obvious during the slow-motion wreckage of the Privacy Sandbox proposal. We need institutions that are able to govern the ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 31732,
+                    "endIndex": 31739,
+                    "textRun": {
+                      "content": "runtime",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 31739,
+                    "endIndex": 31792,
+                    "textRun": {
+                      "content": " operation of transnational digital infrastructures.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 31792,
+              "endIndex": 32303,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 31792,
+                    "endIndex": 32303,
+                    "textRun": {
+                      "content": "A useful approach to governance consists in splitting the problem into smaller ones that can be governed by simpler, more manageable entities. This is done by separating out responsibilities and creating protocols such that different components with different roles can interact with one another. This approach applies here, but because the marketplace that intermediates ad buyers and sellers has such central power, this document focuses primarily on outlining a governance model for that family of entities.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 32303,
+              "endIndex": 32326,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 32303,
+                    "endIndex": 32326,
+                    "textRun": {
+                      "content": "The Garuda Institution\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.16x5wod78gg1",
+                  "namedStyleType": "HEADING_2",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 32326,
+              "endIndex": 32478,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 32326,
+                    "endIndex": 32424,
+                    "textRun": {
+                      "content": "Garuda stands for “Governance of Ad Requests by a Union of Diverse Actors,” named after the deity ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 32424,
+                    "endIndex": 32430,
+                    "textRun": {
+                      "content": "Garuda",
+                      "textStyle": {
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "link": {
+                          "url": "https://en.wikipedia.org/wiki/Garuda"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 32430,
+                    "endIndex": 32478,
+                    "textRun": {
+                      "content": ". The institution has several responsibilities:\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 32478,
+              "endIndex": 33137,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 32478,
+                    "endIndex": 32568,
+                    "textRun": {
+                      "content": "Shepherding the technical standards that define the marketplace and related infrastructure",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 32568,
+                    "endIndex": 33137,
+                    "textRun": {
+                      "content": ". Garuda convenes technical discussion around marketplace standards as well as related ones such as attribution. It also manages the integration of the advertising ecosystem into wider technical communities that operate with similar infrastructure (e.g. the Beckn Protocol). It carries out the work in writing standards, finding consensus, and developing test suites, to ensure that the marketplace is interoperable, royalty-free, and production-grade. It also manages the core principles that drive the work and serve as a constitutional foundation to the governance.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 33137,
+              "endIndex": 33650,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 33137,
+                    "endIndex": 33211,
+                    "textRun": {
+                      "content": "Managing the open source implementation and maintenance of the marketplace",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 33211,
+                    "endIndex": 33650,
+                    "textRun": {
+                      "content": ". The marketplace software will be developed in an open source manner, but changes made to the code will need to be aligned with the objectives of the institution, which will need to be reflected in the change review process. Further, there is no expectation that software development will be entirely carried out by the community; rather the institution should provision sufficient resources to underwrite the marketplace's development. \n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 33650,
+              "endIndex": 34214,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 33650,
+                    "endIndex": 33698,
+                    "textRun": {
+                      "content": "Organising the worldwide network of marketplaces",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 33698,
+                    "endIndex": 34214,
+                    "textRun": {
+                      "content": ". The institution will operate a network of marketplaces with high-performance SLAs and an arrangement that enables easy auditing. This will entail delegating to local operators while ensuring that the network as a whole remains trustworthy. The institution will seek a balance between locally-devolved power so that advertising can operate the way that local jurisdictions expect it to and global interoperability so that the planetary network operates seamlessly and is able to uphold a number of core principles.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 34214,
+              "endIndex": 34500,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 34214,
+                    "endIndex": 34270,
+                    "textRun": {
+                      "content": "Ensuring the general health of the advertising ecosystem",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 34270,
+                    "endIndex": 34500,
+                    "textRun": {
+                      "content": ". By providing a common space where stakeholders must reach some form of consensus in order for the system to operate, the institution is taking on some responsibility for the health of the broader digital advertising ecosystem. \n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 34500,
+              "endIndex": 34519,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 34500,
+                    "endIndex": 34519,
+                    "textRun": {
+                      "content": "Governance Outline\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.swmt2nj7jqar",
+                  "namedStyleType": "HEADING_2",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 34519,
+              "endIndex": 34646,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 34519,
+                    "endIndex": 34646,
+                    "textRun": {
+                      "content": "This section provides only an outline of the governance model for the Garuda institution so as to give a general sense for it.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 34646,
+              "endIndex": 34748,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 34646,
+                    "endIndex": 34748,
+                    "textRun": {
+                      "content": "The Garuda institution is comprised of two primary bodies: the Governance Board and the Legal Entity.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 34748,
+              "endIndex": 35005,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 34748,
+                    "endIndex": 35005,
+                    "textRun": {
+                      "content": "The Governance Board is tasked with the oversight of the institution and the slow-moving aspects of governance. All Board deliberations are public with rare, motivated exceptions. Board terms are limited. It concerns itself primarily with the fundamentals:\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 35005,
+              "endIndex": 35049,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 35005,
+                    "endIndex": 35049,
+                    "textRun": {
+                      "content": "Oversight of the Executive Director’s work.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spacingMode": "COLLAPSE_LISTS",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  }
+                },
+                "bullet": {
+                  "listId": "kix.lvuvy3z7no1h",
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 35049,
+              "endIndex": 35086,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 35049,
+                    "endIndex": 35086,
+                    "textRun": {
+                      "content": "Standard and implementation process.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spacingMode": "COLLAPSE_LISTS",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  }
+                },
+                "bullet": {
+                  "listId": "kix.lvuvy3z7no1h",
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 35086,
+              "endIndex": 35122,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 35086,
+                    "endIndex": 35122,
+                    "textRun": {
+                      "content": "Core principles of the institution.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spacingMode": "COLLAPSE_LISTS",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  }
+                },
+                "bullet": {
+                  "listId": "kix.lvuvy3z7no1h",
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 35122,
+              "endIndex": 35227,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 35122,
+                    "endIndex": 35227,
+                    "textRun": {
+                      "content": "What can be decided by local operators (subsidiarity) versus what must be upheld at the planetary level.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spacingMode": "COLLAPSE_LISTS",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  }
+                },
+                "bullet": {
+                  "listId": "kix.lvuvy3z7no1h",
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 35227,
+              "endIndex": 35853,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 35227,
+                    "endIndex": 35853,
+                    "textRun": {
+                      "content": "The Legal Entity takes care of day-to-day operations. It is responsible for maintaining, deploying, and operating the network and marketplace at requisite Service Level Agreements (SLAs) and at reasonable cost, as well as of research into future technology that Garuda could use, with organising the various groups that will bring stakeholders together to help evolve Garuda over time, and with the elaboration of policy positions which Garuda will cooperate with regulators on. It is run by the Executive Director. The Board selects (by consensus) an Executive Director every three years or whenever the post becomes vacant.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 35853,
+              "endIndex": 36547,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 35853,
+                    "endIndex": 36547,
+                    "textRun": {
+                      "content": "There are three primary constituencies: user agents (e.g. browsers, operating systems, generally systems that control the conditions of ad rendering), sellers (often known as publishers), and buyers. For each of them, there are inclusion criteria designed to prevent gaming the system by spawning multiple entities. Votes are not necessarily prorated by volume, or if they are then a discount must be applied to avoid skewing too heavily in favour of larger actors. Governance Board seats are apportioned to constituencies. (The Board may then extend itself by inviting additional members.) No company can have more than one representative, even if it participates in different constituencies.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 36547,
+              "endIndex": 36863,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 36547,
+                    "endIndex": 36863,
+                    "textRun": {
+                      "content": "The institution is financed through a very small tax on advertising. Multiple models are possible: a flat fee per bid, a percentage of effective CPM transacted, or a flat fee per unit time that one is buying or selling on the marketplace are all possible. The amount and type of the tax is determined by the Board. \n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 36863,
+              "endIndex": 37377,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 36863,
+                    "endIndex": 37377,
+                    "textRun": {
+                      "content": "Part of the tax should further be set aside to provide financial support to stakeholders who cannot afford to pay someone to spend time in Board discussions, so as to ensure that participants from companies of all sizes, and from all backgrounds the world around can participate with equity. Another fund can be set up to support user agents that agree to abide by a given covenant (e.g. for privacy) so as to support the implementation of high-quality client software that is aligned with the needs of its users.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 37377,
+              "endIndex": 37390,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 37377,
+                    "endIndex": 37390,
+                    "textRun": {
+                      "content": "Subsidiarity\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.p30bkxnksnko",
+                  "namedStyleType": "HEADING_2",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 37390,
+              "endIndex": 37722,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 37390,
+                    "endIndex": 37722,
+                    "textRun": {
+                      "content": "One challenge which this document only addresses briefly is that of the interplay between a planetary system — that must be interoperable and that should adhere to a minimal set of principles so as to be predictable in its operation — and the need for locally-anchored governance, reflective of local preferences and jurisdictions.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 37722,
+              "endIndex": 38030,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 37722,
+                    "endIndex": 38030,
+                    "textRun": {
+                      "content": "It is important to support both and not just global interoperability because the latter, operating alone, eliminates the agency that people are afforded through their local governance arrangements. We can only have democratic technology if it is designed and governed to be responsive to local jurisdiction.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 38030,
+              "endIndex": 38708,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 38030,
+                    "endIndex": 38708,
+                    "textRun": {
+                      "content": "There is a corollary to that choice: it also means that wherever the local regime is undemocratic we must accept that, for the most part, the local deployment of the digital infrastructure will also be undemocratic. This is because when globally interoperably digital infrastructure has the power to impose certain values, then it has the power to impose unethical, dangerous, or detrimental values. With subsidiarity — the arrangement according to which decisions that can be made locally are — we may lose democratic governance in some places but we gain democratic potential everywhere. We have to accept that liberation must be locally-led and not imposed from the outside.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 38708,
+              "endIndex": 39343,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 38708,
+                    "endIndex": 39343,
+                    "textRun": {
+                      "content": "A globally interoperable network that delegates infrastructural operations to entities in local jurisdictions has strong benefits in decreasing the cost of compliance and increasing the ease of regulatory enforcement. If, for instance, you know that your advertising infrastructure is GDPR-compliant then you can limit yourself to worrying only about your own data processing. Simultaneously, regulators have a partner with which to develop viable, sustainable enforcement. This means that that you liberate more energies for innovation while having credible regulation at the same time — an eat-your-cake-and-have-it-too arrangement.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 39343,
+              "endIndex": 39357,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 39343,
+                    "endIndex": 39357,
+                    "textRun": {
+                      "content": "Public Policy\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.ntyucmqosibd",
+                  "namedStyleType": "HEADING_1",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 39357,
+              "endIndex": 39666,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 39357,
+                    "endIndex": 39666,
+                    "textRun": {
+                      "content": "The RHEA system is not built on particularly-recent innovations in technology or governance, and even when a given component hasn’t existed for a long time it wouldn’t have prevented the emergence of this arrangement earlier. So, if this system has so many promising properties, why doesn’t it exist already?\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 39666,
+              "endIndex": 39721,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 39666,
+                    "endIndex": 39721,
+                    "textRun": {
+                      "content": "Several aspects have conspired to make it challenging:\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 39721,
+              "endIndex": 39856,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 39721,
+                    "endIndex": 39730,
+                    "textRun": {
+                      "content": "Convening",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 39730,
+                    "endIndex": 39856,
+                    "textRun": {
+                      "content": ". Making this system works requires convening support from a range of actors who have no convenor in which they can all meet.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spacingMode": "COLLAPSE_LISTS",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  }
+                },
+                "bullet": {
+                  "listId": "kix.vkxxvy4or3kw",
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 39856,
+              "endIndex": 40053,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 39856,
+                    "endIndex": 39866,
+                    "textRun": {
+                      "content": "Monopolies",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 39866,
+                    "endIndex": 40053,
+                    "textRun": {
+                      "content": ". States have largely abandoned the governance of the digital space to tech monopolies, and they have no interest in making it work in ways that align with democracy and public interest.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spacingMode": "COLLAPSE_LISTS",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  }
+                },
+                "bullet": {
+                  "listId": "kix.vkxxvy4or3kw",
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 40053,
+              "endIndex": 40240,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 40053,
+                    "endIndex": 40058,
+                    "textRun": {
+                      "content": "Scale",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 40058,
+                    "endIndex": 40240,
+                    "textRun": {
+                      "content": ". Advertising systems live or die on scale. Deploying an entirely new advertising system needs access to significant scale on both the buy and sell sides in order to stand a chance.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spacingMode": "COLLAPSE_LISTS",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  }
+                },
+                "bullet": {
+                  "listId": "kix.vkxxvy4or3kw",
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 40240,
+              "endIndex": 40398,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 40240,
+                    "endIndex": 40262,
+                    "textRun": {
+                      "content": "Regulatory environment",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 40262,
+                    "endIndex": 40398,
+                    "textRun": {
+                      "content": ". The regulatory environment, including in Europe, does nothing to improve digital advertising and in many cases worsens the situation.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spacingMode": "COLLAPSE_LISTS",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  }
+                },
+                "bullet": {
+                  "listId": "kix.vkxxvy4or3kw",
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 40398,
+              "endIndex": 40399,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 40398,
+                    "endIndex": 40399,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 40399,
+              "endIndex": 40573,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 40399,
+                    "endIndex": 40573,
+                    "textRun": {
+                      "content": "Many of these advantages materialise when this infrastructure is the only or the dominant infrastructure. How do we get there? Or at least how are we honest about the steps?\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 40573,
+              "endIndex": 40576,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 40573,
+                    "endIndex": 40576,
                     "textRun": {
                       "content": "tk\n",
                       "textStyle": {}
@@ -2327,15 +3613,15 @@
               }
             },
             {
-              "startIndex": 18040,
-              "endIndex": 18063,
+              "startIndex": 40576,
+              "endIndex": 40701,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 18040,
-                    "endIndex": 18063,
+                    "startIndex": 40576,
+                    "endIndex": 40701,
                     "textRun": {
-                      "content": "Bring back some GARUDA\n",
+                      "content": "the benefits that we offer must become a floor for enforcement, we’re the tide lifting all boats and drowning all bad actors\n",
                       "textStyle": {}
                     }
                   }
@@ -2344,10 +3630,6 @@
                   "namedStyleType": "NORMAL_TEXT",
                   "direction": "LEFT_TO_RIGHT",
                   "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
                   "indentFirstLine": {
                     "magnitude": 18,
                     "unit": "PT"
@@ -2358,21 +3640,23 @@
                   }
                 },
                 "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
+                  "listId": "kix.imxjm048872r",
+                  "textStyle": {
+                    "underline": false
+                  }
                 }
               }
             },
             {
-              "startIndex": 18063,
-              "endIndex": 18108,
+              "startIndex": 40701,
+              "endIndex": 40728,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 18063,
-                    "endIndex": 18108,
+                    "startIndex": 40701,
+                    "endIndex": 40728,
                     "textRun": {
-                      "content": "I don't think that we want browsers involved\n",
+                      "content": "break: break up incumbents\n",
                       "textStyle": {}
                     }
                   }
@@ -2381,10 +3665,6 @@
                   "namedStyleType": "NORMAL_TEXT",
                   "direction": "LEFT_TO_RIGHT",
                   "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
                   "indentFirstLine": {
                     "magnitude": 18,
                     "unit": "PT"
@@ -2395,21 +3675,23 @@
                   }
                 },
                 "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
+                  "listId": "kix.imxjm048872r",
+                  "textStyle": {
+                    "underline": false
+                  }
                 }
               }
             },
             {
-              "startIndex": 18108,
-              "endIndex": 18224,
+              "startIndex": 40728,
+              "endIndex": 40856,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 18108,
-                    "endIndex": 18224,
+                    "startIndex": 40728,
+                    "endIndex": 40856,
                     "textRun": {
-                      "content": "Split the components of the architecture so that we can have different governance for different elements — AT-style\n",
+                      "content": "enforce: once the alternative is available, signal intent to crack down on RTB really hard as well as on cross-context bullshit\n",
                       "textStyle": {}
                     }
                   }
@@ -2418,10 +3700,6 @@
                   "namedStyleType": "NORMAL_TEXT",
                   "direction": "LEFT_TO_RIGHT",
                   "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
                   "indentFirstLine": {
                     "magnitude": 18,
                     "unit": "PT"
@@ -2432,8 +3710,285 @@
                   }
                 },
                 "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
+                  "listId": "kix.imxjm048872r",
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 40856,
+              "endIndex": 40924,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 40856,
+                    "endIndex": 40924,
+                    "textRun": {
+                      "content": "don’t reopen the GDPR — we can fix a lot of it within the framework\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spacingMode": "COLLAPSE_LISTS",
+                  "indentFirstLine": {
+                    "magnitude": 54,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 72,
+                    "unit": "PT"
+                  }
+                },
+                "bullet": {
+                  "listId": "kix.imxjm048872r",
+                  "nestingLevel": 1,
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 40924,
+              "endIndex": 40972,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 40924,
+                    "endIndex": 40972,
+                    "textRun": {
+                      "content": "DFA: fiduciary agents for much stronger privacy\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spacingMode": "COLLAPSE_LISTS",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  }
+                },
+                "bullet": {
+                  "listId": "kix.imxjm048872r",
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 40972,
+              "endIndex": 41005,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 40972,
+                    "endIndex": 41005,
+                    "textRun": {
+                      "content": "DMA: use to structure compliance\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spacingMode": "COLLAPSE_LISTS",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  }
+                },
+                "bullet": {
+                  "listId": "kix.imxjm048872r",
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 41005,
+              "endIndex": 41022,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 41005,
+                    "endIndex": 41022,
+                    "textRun": {
+                      "content": "Acknowledgements\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.7rjhv7ikgl6r",
+                  "namedStyleType": "HEADING_1",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 41022,
+              "endIndex": 41516,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 41022,
+                    "endIndex": 41394,
+                    "textRun": {
+                      "content": "In earlier iterations, Aram Zucker-Scharff, Max Gendler, Mihir Kshirsagar, and Reuben Binns provided much invaluable feedback. Many thanks to Juan Ortiz Freuler for organising a discussion session around Garuda at the Berkman Klein Center for Internet & Society before it was even public, as well as to Levin Kim, Crystal Lee, Sahar Massachi, Tom Zick as convenors of the ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 41394,
+                    "endIndex": 41406,
+                    "textRun": {
+                      "content": "Ethical Tech",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 41406,
+                    "endIndex": 41411,
+                    "textRun": {
+                      "content": " and ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 41411,
+                    "endIndex": 41430,
+                    "textRun": {
+                      "content": "Big Tech Governance",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 41430,
+                    "endIndex": 41516,
+                    "textRun": {
+                      "content": " groups, and the attendees of the session for a spirited and constructive discussion.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 41516,
+              "endIndex": 41758,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 41516,
+                    "endIndex": 41544,
+                    "textRun": {
+                      "content": "Heartfelt thanks as well to ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 41544,
+                    "endIndex": 41562,
+                    "textRun": {
+                      "content": "The New York Times",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 41562,
+                    "endIndex": 41691,
+                    "textRun": {
+                      "content": " for supporting earlier versions of this work. While there, Allison Murphy, Sasha Heroy, Jackie Lee, and Danielle Racioppi very, ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 41691,
+                    "endIndex": 41695,
+                    "textRun": {
+                      "content": "very",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 41695,
+                    "endIndex": 41758,
+                    "textRun": {
+                      "content": " patiently explained to me how advertising and marketing work.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 41758,
+              "endIndex": 41883,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 41758,
+                    "endIndex": 41883,
+                    "textRun": {
+                      "content": "Finally, my deep thanks to Vera Franz and Cori Crider for long discussion and convening the group that this document is for.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  }
                 }
               }
             }
@@ -2828,7 +4383,643 @@
           ]
         },
         "lists": {
+          "kix.51pnwj7wqy69": {
+            "listProperties": {
+              "nestingLevels": [
+                {
+                  "bulletAlignment": "START",
+                  "glyphType": "DECIMAL",
+                  "glyphFormat": "%0.",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphType": "ALPHA",
+                  "glyphFormat": "%1.",
+                  "indentFirstLine": {
+                    "magnitude": 54,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 72,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "END",
+                  "glyphType": "ROMAN",
+                  "glyphFormat": "%2.",
+                  "indentFirstLine": {
+                    "magnitude": 90,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 108,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphType": "DECIMAL",
+                  "glyphFormat": "%3.",
+                  "indentFirstLine": {
+                    "magnitude": 126,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 144,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphType": "ALPHA",
+                  "glyphFormat": "%4.",
+                  "indentFirstLine": {
+                    "magnitude": 162,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 180,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "END",
+                  "glyphType": "ROMAN",
+                  "glyphFormat": "%5.",
+                  "indentFirstLine": {
+                    "magnitude": 198,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 216,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphType": "DECIMAL",
+                  "glyphFormat": "%6.",
+                  "indentFirstLine": {
+                    "magnitude": 234,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 252,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphType": "ALPHA",
+                  "glyphFormat": "%7.",
+                  "indentFirstLine": {
+                    "magnitude": 270,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 288,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "END",
+                  "glyphType": "ROMAN",
+                  "glyphFormat": "%8.",
+                  "indentFirstLine": {
+                    "magnitude": 306,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 324,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                }
+              ]
+            }
+          },
+          "kix.8duri9bjmrjv": {
+            "listProperties": {
+              "nestingLevels": [
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "●",
+                  "glyphFormat": "%0",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "○",
+                  "glyphFormat": "%1",
+                  "indentFirstLine": {
+                    "magnitude": 54,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 72,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "■",
+                  "glyphFormat": "%2",
+                  "indentFirstLine": {
+                    "magnitude": 90,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 108,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "●",
+                  "glyphFormat": "%3",
+                  "indentFirstLine": {
+                    "magnitude": 126,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 144,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "○",
+                  "glyphFormat": "%4",
+                  "indentFirstLine": {
+                    "magnitude": 162,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 180,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "■",
+                  "glyphFormat": "%5",
+                  "indentFirstLine": {
+                    "magnitude": 198,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 216,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "●",
+                  "glyphFormat": "%6",
+                  "indentFirstLine": {
+                    "magnitude": 234,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 252,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "○",
+                  "glyphFormat": "%7",
+                  "indentFirstLine": {
+                    "magnitude": 270,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 288,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "■",
+                  "glyphFormat": "%8",
+                  "indentFirstLine": {
+                    "magnitude": 306,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 324,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                }
+              ]
+            }
+          },
+          "kix.imxjm048872r": {
+            "listProperties": {
+              "nestingLevels": [
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%0",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%1",
+                  "indentFirstLine": {
+                    "magnitude": 54,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 72,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%2",
+                  "indentFirstLine": {
+                    "magnitude": 90,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 108,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%3",
+                  "indentFirstLine": {
+                    "magnitude": 126,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 144,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%4",
+                  "indentFirstLine": {
+                    "magnitude": 162,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 180,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%5",
+                  "indentFirstLine": {
+                    "magnitude": 198,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 216,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%6",
+                  "indentFirstLine": {
+                    "magnitude": 234,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 252,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%7",
+                  "indentFirstLine": {
+                    "magnitude": 270,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 288,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%8",
+                  "indentFirstLine": {
+                    "magnitude": 306,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 324,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                }
+              ]
+            }
+          },
           "kix.klhx7ic4put3": {
+            "listProperties": {
+              "nestingLevels": [
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%0",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%1",
+                  "indentFirstLine": {
+                    "magnitude": 54,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 72,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%2",
+                  "indentFirstLine": {
+                    "magnitude": 90,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 108,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%3",
+                  "indentFirstLine": {
+                    "magnitude": 126,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 144,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%4",
+                  "indentFirstLine": {
+                    "magnitude": 162,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 180,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%5",
+                  "indentFirstLine": {
+                    "magnitude": 198,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 216,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%6",
+                  "indentFirstLine": {
+                    "magnitude": 234,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 252,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%7",
+                  "indentFirstLine": {
+                    "magnitude": 270,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 288,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%8",
+                  "indentFirstLine": {
+                    "magnitude": 306,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 324,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                }
+              ]
+            }
+          },
+          "kix.lvuvy3z7no1h": {
             "listProperties": {
               "nestingLevels": [
                 {
@@ -3279,6 +5470,324 @@
                 {
                   "bulletAlignment": "START",
                   "glyphSymbol": "■",
+                  "glyphFormat": "%8",
+                  "indentFirstLine": {
+                    "magnitude": 306,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 324,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                }
+              ]
+            }
+          },
+          "kix.v789x6z1n0av": {
+            "listProperties": {
+              "nestingLevels": [
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%0",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%1",
+                  "indentFirstLine": {
+                    "magnitude": 54,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 72,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%2",
+                  "indentFirstLine": {
+                    "magnitude": 90,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 108,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%3",
+                  "indentFirstLine": {
+                    "magnitude": 126,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 144,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%4",
+                  "indentFirstLine": {
+                    "magnitude": 162,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 180,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%5",
+                  "indentFirstLine": {
+                    "magnitude": 198,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 216,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%6",
+                  "indentFirstLine": {
+                    "magnitude": 234,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 252,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%7",
+                  "indentFirstLine": {
+                    "magnitude": 270,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 288,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%8",
+                  "indentFirstLine": {
+                    "magnitude": 306,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 324,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                }
+              ]
+            }
+          },
+          "kix.vkxxvy4or3kw": {
+            "listProperties": {
+              "nestingLevels": [
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%0",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%1",
+                  "indentFirstLine": {
+                    "magnitude": 54,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 72,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%2",
+                  "indentFirstLine": {
+                    "magnitude": 90,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 108,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%3",
+                  "indentFirstLine": {
+                    "magnitude": 126,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 144,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%4",
+                  "indentFirstLine": {
+                    "magnitude": 162,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 180,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%5",
+                  "indentFirstLine": {
+                    "magnitude": 198,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 216,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%6",
+                  "indentFirstLine": {
+                    "magnitude": 234,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 252,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%7",
+                  "indentFirstLine": {
+                    "magnitude": 270,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 288,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
                   "glyphFormat": "%8",
                   "indentFirstLine": {
                     "magnitude": 306,
