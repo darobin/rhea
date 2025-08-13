@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width">
     <title>Requirements for a Healthy Ecosystem in Advertising (RHEA)</title>
     <meta name="document-id" content="1H1hIbhaAKlgoA9dHbjXOmEddW07eAlCGZbxmWQZSZDQ">
-    <meta name="revision-id" content="ALBJ4Ls7Cd3R3JsynDbQ2BCztA2V_c_KzcdTxMSDepKM1f1axB39hLz5GUWfx-Z8QKgr-8hKejZNYE0gD8cZ9g">
+    <meta name="revision-id" content="ALBJ4Lu_fl88xieEjP3el5U-UJmXaFV8h2nDAvV7txVpGkP4LG-Bj4ApfvY0N9PQwjO4jYdjVG8r3IUrSvEkew">
     <link rel="stylesheet" href=".nemik/css/supramundane.css">
     <style>
         @page :first {
@@ -205,26 +205,67 @@
         <section>
             <h1 id="h.19rek041524t">Marketplace
             </h1>
-            <p>tk
+            <p>Digital advertising has many components, but by far the most influential is the marketplaces that match buyers with sellers. By focusing our energy on fixing that component, we obtain leverage from which to fix other issues.
             </p>
-            <ul>
-                <li><input type="checkbox"> Beckn specialised for this
-                </li>
-                <li><input type="checkbox"> SDAs — why this makes them <em>actually</em> possible
-                </li>
-                <li><input type="checkbox"> Some geo
-                </li>
-                <li><input type="checkbox"> PPA
-                </li>
-                <li><input type="checkbox"> Fraud prevention
-                </li>
-                <li><input type="checkbox"> KYC requirements
-                </li>
-                <li><input type="checkbox"> Money: can this use a digital currency and protocol that supports splitting well?
-                </li>
-                <li><input type="checkbox"> Signed origin delivery (the server attests that a given impression was on its own server)
-                </li>
-            </ul>
+            <p>One aspect of advertising marketplaces to understand is that they are infrastructure. Marketplaces are, by their nature, two-sided markets and this in turn makes them challenging to displace. A deployed two-sided market is just as immovable as the sunk capital in a dam or port. Infrastructural systems are in a position to set rules that govern their users and this is no exception. Digital advertising is in a bad place in large part due to the structure of today’s advertising marketplaces. But there is a silver lining: because it is a point of governance and rule-making, by gaining control over it we gain power to make much of the system operate much better.
+            </p>
+            <section>
+                <h2 id="h.katk55bz138">Programmatic Problems
+                </h2>
+                <p>Today, most digital advertising is transacted by what are known as “programmatic” channels. With the exception of direct-sold advertising in which a deal is concluded directly between people working for the buyer and seller, which is a minority of cases primarily towards the high end, advertising is bought and sold through automated means. What this document proposes is to change the dynamics of that automation.
+                </p>
+                <p>The most well-known issue with today’s programmatic advertising is that is <em>assumes</em> that you must broadcast personal data in order to work. With every bid requests, a person’s identifier is sent to hundreds of bidders along with information that can retrace their behaviour. Advertising intermediaries also synchronise identifiers with one another and construct elaborate identity graphs so as to better identify people as they move from context to context. In addition to the surveillance and espionage concerns that this massive, constant, unchecked data leak raise, the system also disincentivises publishers from innovating and understanding their audiences better because any information that they share with the bidding system gets shared with all the participants in the bidding system, who can then simply reuse that information to target people elsewhere.
+                </p>
+                <p>The structural assumptions of the programmatic system produce a structural redistribution of revenue, taking from quality publishers and supporting slop makers. The TCF, which was proposed to afford some control over data broadcasting is at best a fig leaf: it shares the personal data along with a little flag that says “you’re not allowed to use this.” (Technologists call this approach a “bozo bit” because only a bozo would be deterred by it.)
+                </p>
+                <p>This broadcasting of personal data happens because, if you want to perform <em>real-time</em> bidding then you need to be providing potential bidders with information, in real time, about what they are expect to bid on.
+                </p>
+                <p>But the truth is that real-time processing is unnecessary. Buy-side systems don’t typically determine in real time what to buy or not, or only in a limited fashion. Segments, targeting parameters, etc. are typically processed in batches.
+                </p>
+                <p>Not only does real-time processing assume poor data protection practices but it also makes it hard for publishers to audit the quality of creatives that they serve and it grants the market operator a lot of power by playing even on some very minor (and hard to measure) differences in access to data or timing ([<cite><a class="bibref" href="#bib-why-google-dominates-ads">why-google-dominates-ads</a></cite>]).
+                </p>
+                <p>What is valuable about programmatic is the automation. What we seek is therefore automation that may be fast (e.g. purchasing small batches of impressions) but doesn’t require real-time, sell-side pull-based processing.
+                </p>
+            </section>
+            <section>
+                <h2 id="h.fudq94ve15n2">A Marketplace Standard
+                </h2>
+                <p>The <a href="https://becknprotocol.io/">Beckn Protocol</a> is an OTN (Open Transaction Network) that is emerging as a standard marketplace interactions. It abstracts all the steps required in listing inventory, matching buyers and sellers, making deals, delegating payment, and various attestations and certifications that can be relevant for a given type of market.
+                </p>
+                <p>Beckn is deployed by specialising that protocol for specific commercial areas (which has been done for <a href="http://ondc.org/">retail</a> or<a href="https://nammayatri.in/">ride hailing</a>, and is ion the process of being applied to <a href="https://energy.becknprotocol.io/">energy markets</a> for instance) and then operating a network backed by server infrastructure to implement the marketplace itself. Client tools on both the seller and buyers sides then connect to that marketplace and transact there.
+                </p>
+                <p>Specialising Beckn for advertising, sellers would make inventory available on the marketplace based on impressions that they expect to have in the relatively-near future. (Just how near and what timing-related rules apply is an operational question, but the flexibility is important.) Impressions are made available with whatever targeting information the seller has available, notably SDAs and geofencing.
+                </p>
+                <p>Buyers bid on impressions or impression bundles based on what they wish to purchase, how soon they want the mini-campaign (if an impression bundle) they want to run, with what pacing, on which contexts they wish to appear, etc. Note that we can operate multiple mechanisms here: buyers can bid directly to publishers, or we can use match-making algorithms to optimally pair supply and demand. Creatives (detailed below) are part of bids so that sellers can factor that into pricing, reject what they deem unsafe or out of policy, etc.
+                </p>
+                <p>Once a deal is concluded between a buyer and a seller, the mini-campaign is installed in the seller’s ad server. The seller has a pre-defined window inside of which to produce the impression, after which the deal is nullified. Funds are held in escrow in the mean time.
+                </p>
+                <p>Note that because impressions are bought without sharing data, sellers are incentivised to develop Seller-Defined Audiences (SDAs), which encourages them having a better understanding of their audience and the kind of trust relationship that makes consented profiling possible — all things that are impossible under today’s arrangement. A constant risk with SDAs (that isn’t specific to this arrangement) is that sellers are incentivised to lie about the segments they have. In order to avoid that, the marketplace could maintain a reputational index based on conversions per segment.
+                </p>
+                <p>Because the protocol is standardised, people can build high-quality tools to access it (both for buyers and sellers) and compete on tool quality, without having to deal with capricious changes or risking being excluded. It means that buyers and sellers can build their own smart automation, pace their campaigns, have more effective yield management, and generally develop fully transparent knowledge of what works for them. Accountable, evidenced-based decisions become possible for marketing and advertising executives, as well as for the finance teams that oversee them.
+                </p>
+                <p>Standards are not, however, magical and just using an open standard for a marketplace doesn’t give that marketplace good stakeholder-centric governance. This section describes the high-level technical arrangement, the governance of the network(s) is necessary as well and covered in a later section.
+                </p>
+                <p>This foundation can provide a solid basis atop which to gradually develop solid advertising features (as outlined in the next subsection) but more generally to provide a more transparent ecosystem that can be more readily reasoned about. Everything from KYC requirements to evidence that an ad was actually served by the right entity (e.g. in part with signed origin delivery such that the server attests that a given impression was on its own server) can be put in place to govern ad markets with the same rigor that is expected from other electronic markets.
+                </p>
+            </section>
+            <section>
+                <h2 id="h.nkb49c5vs9ih">The Whole Set
+                </h2>
+                <p>Digital advertising requires more than just matchmaking between buyers and sellers, it also features a number of additional mechanisms to make the market operate more smoothly, and notably to make running a campaign more efficient. These include the likes of attribution, fraud prevention, frequency or recency capping, or retargeting.
+                </p>
+                <p>This report does not go into detail about how all of those features can be supported. The goal here is to establish that another foundation for digital advertising is possible — on that foundation we can then layer the additional functionality. This can happen in multiple ways:
+                </p>
+                <ul>
+                    <li>Initially, we can support at least some of these features using the mechanisms that they rely on today. This won’t provide the ideal data protection (including audience protection) properties that are called for, but continuity in transition is important.
+                    </li>
+                    <li>As an intermediate step, we can proxy or support some of these features based on infrastructure operated by the Garuda institution (see below). This is imperfect, but provides a trusted intermediary and improves on the current situation.
+                    </li>
+                    <li>The more recent privacy-preserving alternatives can be rolled out, such as <a href="https://w3c.github.io/attribution/">Attribution</a>.
+                    </li>
+                </ul>
+                <p>Crucially, as we transition advertising to RHEA, not everything has to land on day one —&nbsp;only enough that it’s useful at least for initial users. We can plan and prepare a gradual switch, including one that initially supports programmatic access so that publishers can drop it into their site without much work.</p>
+            </section>
         </section>
         <section>
             <h1 id="h.cx0wr1w8oqbx">Creatives
@@ -357,7 +398,7 @@
         <section class="special-section appendix">
             <h1 id="h.7rjhv7ikgl6r">Acknowledgements
             </h1>
-            <p>In earlier iterations, Aram Zucker-Scharff, Max Gendler, Mihir Kshirsagar, and Reuben Binns provided much invaluable feedback. Many thanks to Juan Ortiz Freuler for organising a discussion session around Garuda at the Berkman Klein Center for Internet &amp; Society before it was even public, as well as to Levin Kim, Crystal Lee, Sahar Massachi, Tom Zick as convenors of the <em>Ethical Tech</em> and <em>Big Tech Governance</em> groups, and the attendees of the session for a spirited and constructive discussion.
+            <p>In earlier iterations, Aram Zucker-Scharff, Max Gendler, Mihir Kshirsagar, and Reuben Binns provided much invaluable feedback. Many thanks to Juan Ortiz Freuler for organising a discussion session around Garuda at the Berkman Klein Center for Internet &amp; Society before it was even public, as well as to Levin Kim, Crystal Lee, Sahar Massachi, Tom Zick as convenors of the <em>Ethical Tech</em> and <em>Big Tech Governance</em> groups, and the attendees of the session for a spirited and constructive discussion. Erik Bugge is always there to prove that contextual works better than everyone expects, and to suggest the simplest, no-nonsense solution.
             </p>
             <p>Heartfelt thanks as well to <em>The New York Times</em> for supporting earlier versions of this work. While there, Allison Murphy, Sasha Heroy, Jackie Lee, and Danielle Racioppi very, <em>very</em> patiently explained to me how advertising and marketing work.
             </p>

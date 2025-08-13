@@ -1,6 +1,6 @@
 {
   "title": "Requirements for a Healthy Ecosystem in Advertising (RHEA)",
-  "revisionId": "ALBJ4Ls7Cd3R3JsynDbQ2BCztA2V_c_KzcdTxMSDepKM1f1axB39hLz5GUWfx-Z8QKgr-8hKejZNYE0gD8cZ9g",
+  "revisionId": "ALBJ4Lu_fl88xieEjP3el5U-UJmXaFV8h2nDAvV7txVpGkP4LG-Bj4ApfvY0N9PQwjO4jYdjVG8r3IUrSvEkew",
   "suggestionsViewMode": "SUGGESTIONS_INLINE",
   "documentId": "1H1hIbhaAKlgoA9dHbjXOmEddW07eAlCGZbxmWQZSZDQ",
   "tabs": [
@@ -2004,14 +2004,14 @@
             },
             {
               "startIndex": 25881,
-              "endIndex": 25884,
+              "endIndex": 26106,
               "paragraph": {
                 "elements": [
                   {
                     "startIndex": 25881,
-                    "endIndex": 25884,
+                    "endIndex": 26106,
                     "textRun": {
-                      "content": "tk\n",
+                      "content": "Digital advertising has many components, but by far the most influential is the marketplaces that match buyers with sellers. By focusing our energy on fixing that component, we obtain leverage from which to fix other issues.\n",
                       "textStyle": {}
                     }
                   }
@@ -2023,292 +2023,662 @@
               }
             },
             {
-              "startIndex": 25884,
-              "endIndex": 25911,
+              "startIndex": 26106,
+              "endIndex": 26772,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 25884,
-                    "endIndex": 25911,
+                    "startIndex": 26106,
+                    "endIndex": 26772,
                     "textRun": {
-                      "content": "Beckn specialised for this\n",
+                      "content": "One aspect of advertising marketplaces to understand is that they are infrastructure. Marketplaces are, by their nature, two-sided markets and this in turn makes them challenging to displace. A deployed two-sided market is just as immovable as the sunk capital in a dam or port. Infrastructural systems are in a position to set rules that govern their users and this is no exception. Digital advertising is in a bad place in large part due to the structure of today’s advertising marketplaces. But there is a silver lining: because it is a point of governance and rule-making, by gaining control over it we gain power to make much of the system operate much better.\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 25911,
-              "endIndex": 25956,
+              "startIndex": 26772,
+              "endIndex": 26794,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 25911,
-                    "endIndex": 25938,
+                    "startIndex": 26772,
+                    "endIndex": 26794,
                     "textRun": {
-                      "content": "SDAs — why this makes them ",
+                      "content": "Programmatic Problems\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.katk55bz138",
+                  "namedStyleType": "HEADING_2",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 26794,
+              "endIndex": 27210,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 26794,
+                    "endIndex": 27210,
+                    "textRun": {
+                      "content": "Today, most digital advertising is transacted by what are known as “programmatic” channels. With the exception of direct-sold advertising in which a deal is concluded directly between people working for the buyer and seller, which is a minority of cases primarily towards the high end, advertising is bought and sold through automated means. What this document proposes is to change the dynamics of that automation.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 27210,
+              "endIndex": 28074,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 27210,
+                    "endIndex": 27285,
+                    "textRun": {
+                      "content": "The most well-known issue with today’s programmatic advertising is that is ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 25938,
-                    "endIndex": 25946,
+                    "startIndex": 27285,
+                    "endIndex": 27292,
                     "textRun": {
-                      "content": "actually",
+                      "content": "assumes",
                       "textStyle": {
                         "italic": true
                       }
                     }
                   },
                   {
-                    "startIndex": 25946,
-                    "endIndex": 25956,
+                    "startIndex": 27292,
+                    "endIndex": 28074,
                     "textRun": {
-                      "content": " possible\n",
+                      "content": " that you must broadcast personal data in order to work. With every bid requests, a person’s identifier is sent to hundreds of bidders along with information that can retrace their behaviour. Advertising intermediaries also synchronise identifiers with one another and construct elaborate identity graphs so as to better identify people as they move from context to context. In addition to the surveillance and espionage concerns that this massive, constant, unchecked data leak raise, the system also disincentivises publishers from innovating and understanding their audiences better because any information that they share with the bidding system gets shared with all the participants in the bidding system, who can then simply reuse that information to target people elsewhere.\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 25956,
-              "endIndex": 25965,
+              "startIndex": 28074,
+              "endIndex": 28522,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 25956,
-                    "endIndex": 25965,
+                    "startIndex": 28074,
+                    "endIndex": 28522,
                     "textRun": {
-                      "content": "Some geo\n",
+                      "content": "The structural assumptions of the programmatic system produce a structural redistribution of revenue, taking from quality publishers and supporting slop makers. The TCF, which was proposed to afford some control over data broadcasting is at best a fig leaf: it shares the personal data along with a little flag that says “you’re not allowed to use this.” (Technologists call this approach a “bozo bit” because only a bozo would be deterred by it.)\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 25965,
-              "endIndex": 25969,
+              "startIndex": 28522,
+              "endIndex": 28733,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 25965,
-                    "endIndex": 25969,
+                    "startIndex": 28522,
+                    "endIndex": 28597,
                     "textRun": {
-                      "content": "PPA\n",
+                      "content": "This broadcasting of personal data happens because, if you want to perform ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 28597,
+                    "endIndex": 28606,
+                    "textRun": {
+                      "content": "real-time",
+                      "textStyle": {
+                        "italic": true
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 28606,
+                    "endIndex": 28733,
+                    "textRun": {
+                      "content": " bidding then you need to be providing potential bidders with information, in real time, about what they are expect to bid on.\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 25969,
-              "endIndex": 25986,
+              "startIndex": 28733,
+              "endIndex": 28971,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 25969,
-                    "endIndex": 25986,
+                    "startIndex": 28733,
+                    "endIndex": 28971,
                     "textRun": {
-                      "content": "Fraud prevention\n",
+                      "content": "But the truth is that real-time processing is unnecessary. Buy-side systems don’t typically determine in real time what to buy or not, or only in a limited fashion. Segments, targeting parameters, etc. are typically processed in batches.\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 25986,
-              "endIndex": 26003,
+              "startIndex": 28971,
+              "endIndex": 29313,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 25986,
-                    "endIndex": 26003,
+                    "startIndex": 28971,
+                    "endIndex": 29313,
                     "textRun": {
-                      "content": "KYC requirements\n",
+                      "content": "Not only does real-time processing assume poor data protection practices but it also makes it hard for publishers to audit the quality of creatives that they serve and it grants the market operator a lot of power by playing even on some very minor (and hard to measure) differences in access to data or timing ([[why-google-dominates-ads]]).\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 26003,
-              "endIndex": 26085,
+              "startIndex": 29313,
+              "endIndex": 29533,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 26003,
-                    "endIndex": 26085,
+                    "startIndex": 29313,
+                    "endIndex": 29533,
                     "textRun": {
-                      "content": "Money: can this use a digital currency and protocol that supports splitting well?\n",
+                      "content": "What is valuable about programmatic is the automation. What we seek is therefore automation that may be fast (e.g. purchasing small batches of impressions) but doesn’t require real-time, sell-side pull-based processing.\n",
                       "textStyle": {}
                     }
                   }
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
-                  "indentFirstLine": {
-                    "magnitude": 18,
-                    "unit": "PT"
-                  },
-                  "indentStart": {
-                    "magnitude": 36,
-                    "unit": "PT"
-                  }
-                },
-                "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
-                  "textStyle": {}
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 26085,
-              "endIndex": 26175,
+              "startIndex": 29533,
+              "endIndex": 29556,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 26085,
-                    "endIndex": 26175,
+                    "startIndex": 29533,
+                    "endIndex": 29556,
                     "textRun": {
-                      "content": "Signed origin delivery (the server attests that a given impression was on its own server)\n",
+                      "content": "A Marketplace Standard\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.fudq94ve15n2",
+                  "namedStyleType": "HEADING_2",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 29556,
+              "endIndex": 29883,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 29556,
+                    "endIndex": 29560,
+                    "textRun": {
+                      "content": "The ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 29560,
+                    "endIndex": 29574,
+                    "textRun": {
+                      "content": "Beckn Protocol",
+                      "textStyle": {
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "link": {
+                          "url": "https://becknprotocol.io/"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 29574,
+                    "endIndex": 29883,
+                    "textRun": {
+                      "content": " is an OTN (Open Transaction Network) that is emerging as a standard marketplace interactions. It abstracts all the steps required in listing inventory, matching buyers and sellers, making deals, delegating payment, and various attestations and certifications that can be relevant for a given type of market.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 29883,
+              "endIndex": 30282,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 29883,
+                    "endIndex": 29986,
+                    "textRun": {
+                      "content": "Beckn is deployed by specialising that protocol for specific commercial areas (which has been done for ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 29986,
+                    "endIndex": 29992,
+                    "textRun": {
+                      "content": "retail",
+                      "textStyle": {
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "link": {
+                          "url": "http://ondc.org/"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 29992,
+                    "endIndex": 29995,
+                    "textRun": {
+                      "content": " or",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 29995,
+                    "endIndex": 29996,
+                    "textRun": {
+                      "content": " ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 29996,
+                    "endIndex": 30008,
+                    "textRun": {
+                      "content": "ride hailing",
+                      "textStyle": {
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "link": {
+                          "url": "https://nammayatri.in/"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 30008,
+                    "endIndex": 30053,
+                    "textRun": {
+                      "content": ", and is ion the process of being applied to ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 30053,
+                    "endIndex": 30067,
+                    "textRun": {
+                      "content": "energy markets",
+                      "textStyle": {
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "link": {
+                          "url": "https://energy.becknprotocol.io/"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 30067,
+                    "endIndex": 30282,
+                    "textRun": {
+                      "content": " for instance) and then operating a network backed by server infrastructure to implement the marketplace itself. Client tools on both the seller and buyers sides then connect to that marketplace and transact there.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 30282,
+              "endIndex": 30689,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 30282,
+                    "endIndex": 30689,
+                    "textRun": {
+                      "content": "Specialising Beckn for advertising, sellers would make inventory available on the marketplace based on impressions that they expect to have in the relatively-near future. (Just how near and what timing-related rules apply is an operational question, but the flexibility is important.) Impressions are made available with whatever targeting information the seller has available, notably SDAs and geofencing.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 30689,
+              "endIndex": 31224,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 30689,
+                    "endIndex": 31224,
+                    "textRun": {
+                      "content": "Buyers bid on impressions or impression bundles based on what they wish to purchase, how soon they want the mini-campaign (if an impression bundle) they want to run, with what pacing, on which contexts they wish to appear, etc. Note that we can operate multiple mechanisms here: buyers can bid directly to publishers, or we can use match-making algorithms to optimally pair supply and demand. Creatives (detailed below) are part of bids so that sellers can factor that into pricing, reject what they deem unsafe or out of policy, etc.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 31224,
+              "endIndex": 31494,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 31224,
+                    "endIndex": 31494,
+                    "textRun": {
+                      "content": "Once a deal is concluded between a buyer and a seller, the mini-campaign is installed in the seller’s ad server. The seller has a pre-defined window inside of which to produce the impression, after which the deal is nullified. Funds are held in escrow in the mean time.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 31494,
+              "endIndex": 32079,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 31494,
+                    "endIndex": 32079,
+                    "textRun": {
+                      "content": "Note that because impressions are bought without sharing data, sellers are incentivised to develop Seller-Defined Audiences (SDAs), which encourages them having a better understanding of their audience and the kind of trust relationship that makes consented profiling possible — all things that are impossible under today’s arrangement. A constant risk with SDAs (that isn’t specific to this arrangement) is that sellers are incentivised to lie about the segments they have. In order to avoid that, the marketplace could maintain a reputational index based on conversions per segment.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 32079,
+              "endIndex": 32653,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 32079,
+                    "endIndex": 32653,
+                    "textRun": {
+                      "content": "Because the protocol is standardised, people can build high-quality tools to access it (both for buyers and sellers) and compete on tool quality, without having to deal with capricious changes or risking being excluded. It means that buyers and sellers can build their own smart automation, pace their campaigns, have more effective yield management, and generally develop fully transparent knowledge of what works for them. Accountable, evidenced-based decisions become possible for marketing and advertising executives, as well as for the finance teams that oversee them.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 32653,
+              "endIndex": 32953,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 32653,
+                    "endIndex": 32953,
+                    "textRun": {
+                      "content": "Standards are not, however, magical and just using an open standard for a marketplace doesn’t give that marketplace good stakeholder-centric governance. This section describes the high-level technical arrangement, the governance of the network(s) is necessary as well and covered in a later section.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 32953,
+              "endIndex": 33514,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 32953,
+                    "endIndex": 33514,
+                    "textRun": {
+                      "content": "This foundation can provide a solid basis atop which to gradually develop solid advertising features (as outlined in the next subsection) but more generally to provide a more transparent ecosystem that can be more readily reasoned about. Everything from KYC requirements to evidence that an ad was actually served by the right entity (e.g. in part with signed origin delivery such that the server attests that a given impression was on its own server) can be put in place to govern ad markets with the same rigor that is expected from other electronic markets.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 33514,
+              "endIndex": 33528,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 33514,
+                    "endIndex": 33528,
+                    "textRun": {
+                      "content": "The Whole Set\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.nkb49c5vs9ih",
+                  "namedStyleType": "HEADING_2",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 33528,
+              "endIndex": 33864,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 33528,
+                    "endIndex": 33864,
+                    "textRun": {
+                      "content": "Digital advertising requires more than just matchmaking between buyers and sellers, it also features a number of additional mechanisms to make the market operate more smoothly, and notably to make running a campaign more efficient. These include the likes of attribution, fraud prevention, frequency or recency capping, or retargeting.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 33864,
+              "endIndex": 34143,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 33864,
+                    "endIndex": 34143,
+                    "textRun": {
+                      "content": "This report does not go into detail about how all of those features can be supported. The goal here is to establish that another foundation for digital advertising is possible — on that foundation we can then layer the additional functionality. This can happen in multiple ways:\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 34143,
+              "endIndex": 34399,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 34143,
+                    "endIndex": 34399,
+                    "textRun": {
+                      "content": "Initially, we can support at least some of these features using the mechanisms that they rely on today. This won’t provide the ideal data protection (including audience protection) properties that are called for, but continuity in transition is important.\n",
                       "textStyle": {}
                     }
                   }
@@ -2317,10 +2687,6 @@
                   "namedStyleType": "NORMAL_TEXT",
                   "direction": "LEFT_TO_RIGHT",
                   "spacingMode": "COLLAPSE_LISTS",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  },
                   "indentFirstLine": {
                     "magnitude": 18,
                     "unit": "PT"
@@ -2331,7 +2697,7 @@
                   }
                 },
                 "bullet": {
-                  "listId": "kix.oma3nnnjrxfj",
+                  "listId": "kix.u2gltjj5gqvu",
                   "textStyle": {
                     "underline": false
                   }
@@ -2339,13 +2705,121 @@
               }
             },
             {
-              "startIndex": 26175,
-              "endIndex": 26176,
+              "startIndex": 34399,
+              "endIndex": 34637,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 26175,
-                    "endIndex": 26176,
+                    "startIndex": 34399,
+                    "endIndex": 34637,
+                    "textRun": {
+                      "content": "As an intermediate step, we can proxy or support some of these features based on infrastructure operated by the Garuda institution (see below). This is imperfect, but provides a trusted intermediary and improves on the current situation.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spacingMode": "COLLAPSE_LISTS",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  }
+                },
+                "bullet": {
+                  "listId": "kix.u2gltjj5gqvu",
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 34637,
+              "endIndex": 34725,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 34637,
+                    "endIndex": 34712,
+                    "textRun": {
+                      "content": "The more recent privacy-preserving alternatives can be rolled out, such as ",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 34712,
+                    "endIndex": 34723,
+                    "textRun": {
+                      "content": "Attribution",
+                      "textStyle": {
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "link": {
+                          "url": "https://w3c.github.io/attribution/"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 34723,
+                    "endIndex": 34725,
+                    "textRun": {
+                      "content": ".\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spacingMode": "COLLAPSE_LISTS",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  }
+                },
+                "bullet": {
+                  "listId": "kix.u2gltjj5gqvu",
+                  "textStyle": {
+                    "underline": false
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 34725,
+              "endIndex": 35037,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 34725,
+                    "endIndex": 35036,
+                    "textRun": {
+                      "content": "Crucially, as we transition advertising to RHEA, not everything has to land on day one — only enough that it’s useful at least for initial users. We can plan and prepare a gradual switch, including one that initially supports programmatic access so that publishers can drop it into their site without much work.",
+                      "textStyle": {}
+                    }
+                  },
+                  {
+                    "startIndex": 35036,
+                    "endIndex": 35037,
                     "textRun": {
                       "content": "\n",
                       "textStyle": {
@@ -2360,22 +2834,18 @@
                 ],
                 "paragraphStyle": {
                   "namedStyleType": "NORMAL_TEXT",
-                  "direction": "LEFT_TO_RIGHT",
-                  "spaceBelow": {
-                    "magnitude": 12,
-                    "unit": "PT"
-                  }
+                  "direction": "LEFT_TO_RIGHT"
                 }
               }
             },
             {
-              "startIndex": 26176,
-              "endIndex": 26186,
+              "startIndex": 35037,
+              "endIndex": 35047,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 26176,
-                    "endIndex": 26186,
+                    "startIndex": 35037,
+                    "endIndex": 35047,
                     "textRun": {
                       "content": "Creatives\n",
                       "textStyle": {}
@@ -2394,13 +2864,13 @@
               }
             },
             {
-              "startIndex": 26186,
-              "endIndex": 26923,
+              "startIndex": 35047,
+              "endIndex": 35784,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 26186,
-                    "endIndex": 26923,
+                    "startIndex": 35047,
+                    "endIndex": 35784,
                     "textRun": {
                       "content": "An underappreciated problem in digital advertising is the role of creatives, the trade name for those bundles of markup, code, and images that render as ads. Because of how open-ended creatives are and of how insecure their implementation is — they primarily work by injecting code from arbitrary sources that can change at will or upon compromise — they render auditing near-impossible, are a major malware vector, are a privacy free-for-all, and obfuscate attempts at tracing the origin of given attacks. Because there is very little in the way of incentives to build them efficiently, they also tend to be highly wasteful in bytes and code execution, which hurts both user experience and publisher revenue, and is wasteful of energy.\n",
                       "textStyle": {}
@@ -2414,13 +2884,13 @@
               }
             },
             {
-              "startIndex": 26923,
-              "endIndex": 27033,
+              "startIndex": 35784,
+              "endIndex": 35894,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 26923,
-                    "endIndex": 27033,
+                    "startIndex": 35784,
+                    "endIndex": 35894,
                     "textRun": {
                       "content": "Under RHEA creatives use a different system that is compatible with existing web technologies but much safer.\n",
                       "textStyle": {}
@@ -2434,21 +2904,21 @@
               }
             },
             {
-              "startIndex": 27033,
-              "endIndex": 27373,
+              "startIndex": 35894,
+              "endIndex": 36234,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 27033,
-                    "endIndex": 27126,
+                    "startIndex": 35894,
+                    "endIndex": 35987,
                     "textRun": {
                       "content": "First, creatives are locked down in terms of what they can access from the network. They can ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 27126,
-                    "endIndex": 27130,
+                    "startIndex": 35987,
+                    "endIndex": 35991,
                     "textRun": {
                       "content": "only",
                       "textStyle": {
@@ -2457,8 +2927,8 @@
                     }
                   },
                   {
-                    "startIndex": 27130,
-                    "endIndex": 27373,
+                    "startIndex": 35991,
+                    "endIndex": 36234,
                     "textRun": {
                       "content": " load resources from their origin ad server (which must comply with a number of privacy and security requirements). This means that they cannot load unexpected code or exfiltrate data other than through pre-determined and controlled channels.\n",
                       "textStyle": {}
@@ -2472,13 +2942,13 @@
               }
             },
             {
-              "startIndex": 27373,
-              "endIndex": 28365,
+              "startIndex": 36234,
+              "endIndex": 37226,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 27373,
-                    "endIndex": 28365,
+                    "startIndex": 36234,
+                    "endIndex": 37226,
                     "textRun": {
                       "content": "Second, all of their dependencies are loaded in a content-addressed manner (which is to say that they are located by a cryptographic hash of their content) and the root manifest that lists these dependencies is itself transmitted with a hash. This has multiple benefits. One is that the user agent (e.g. browser) is able to verify when loading an ad that it is getting untampered content. This makes it impossible to modify a dependency while a campaign is in flight in order to replace it with malicious code. Another is that during post-mortem auditing, it is possible to know with certainty all the content that was involved in rendering an impression. This also makes it easier to scan content prior to setting up an ad campaign to ensure that it is safe and adheres to policy. (Note that content-addressed loading can lead to some privacy attacks but 1) that is still a substantial gain over what exists today and 2) there isn’t much to do with that data since it can’t be exfiltrated.)\n",
                       "textStyle": {}
@@ -2492,13 +2962,13 @@
               }
             },
             {
-              "startIndex": 28365,
-              "endIndex": 28704,
+              "startIndex": 37226,
+              "endIndex": 37565,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 28365,
-                    "endIndex": 28704,
+                    "startIndex": 37226,
+                    "endIndex": 37565,
                     "textRun": {
                       "content": "Creatives as a content-addressable tree also renders the work of accountability by third parties easier. It is possible for researchers or journalists to recognise the same creative loading in multiple places and to be able to reproducibly analyse its behaviour. This can help, for instance, with ad driven foreign interference campaigns.\n",
                       "textStyle": {}
@@ -2512,13 +2982,13 @@
               }
             },
             {
-              "startIndex": 28704,
-              "endIndex": 29085,
+              "startIndex": 37565,
+              "endIndex": 37946,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 28704,
-                    "endIndex": 29085,
+                    "startIndex": 37565,
+                    "endIndex": 37946,
                     "textRun": {
                       "content": "Third, creatives are attested, which is to say that the content is cryptographically signed by the buyer. This makes it possible to trace them to their originator. This information can be used to ensure that only legitimate political actors buy political ads (which can be surfaced and reported for instance in the browser) or to support the auditing of better-business practices.\n",
                       "textStyle": {}
@@ -2532,13 +3002,13 @@
               }
             },
             {
-              "startIndex": 29085,
-              "endIndex": 29506,
+              "startIndex": 37946,
+              "endIndex": 38367,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 29085,
-                    "endIndex": 29506,
+                    "startIndex": 37946,
+                    "endIndex": 38367,
                     "textRun": {
                       "content": "Fourth, the content-addressed manifest offers a convenient place to capture metadata about the creative. This can be used for instance for regulatory purposes such as requiring that all political ads be flagged or that ads indicate their age appropriateness. Ads for sensitive topics such as gambling or alcohol could be required to be flagged as such in their metadata so that the user agent is able to filter them out.\n",
                       "textStyle": {}
@@ -2552,13 +3022,13 @@
               }
             },
             {
-              "startIndex": 29506,
-              "endIndex": 29776,
+              "startIndex": 38367,
+              "endIndex": 38637,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 29506,
-                    "endIndex": 29776,
+                    "startIndex": 38367,
+                    "endIndex": 38637,
                     "textRun": {
                       "content": "Finally, because the full dependency tree that produces a creative must be provided at the time that the purchase is executed, this makes it possible to enforce policies about creative size, either to reject them or to charge more for more resource-intensive creatives.\n",
                       "textStyle": {}
@@ -2572,13 +3042,13 @@
               }
             },
             {
-              "startIndex": 29776,
-              "endIndex": 30017,
+              "startIndex": 38637,
+              "endIndex": 38878,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 29776,
-                    "endIndex": 30017,
+                    "startIndex": 38637,
+                    "endIndex": 38878,
                     "textRun": {
                       "content": "Buyers often want to adapt campaigns in flight (e.g. to respond to better lift from a variant). We support this by encouraging buying in small batches such that campaigns can be updated over time as more impressions are gradually purchased.\n",
                       "textStyle": {}
@@ -2592,13 +3062,13 @@
               }
             },
             {
-              "startIndex": 30017,
-              "endIndex": 30320,
+              "startIndex": 38878,
+              "endIndex": 39181,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 30017,
-                    "endIndex": 30320,
+                    "startIndex": 38878,
+                    "endIndex": 39181,
                     "textRun": {
                       "content": "All of these changes can be implemented using existing web technologies but in some cases they would benefit from more direct support from user agents. This provides a path forward: we can implement this system immediately and gradually make it more efficient by moving support for it into user agents.\n",
                       "textStyle": {}
@@ -2616,13 +3086,13 @@
               }
             },
             {
-              "startIndex": 30320,
-              "endIndex": 30331,
+              "startIndex": 39181,
+              "endIndex": 39192,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 30320,
-                    "endIndex": 30331,
+                    "startIndex": 39181,
+                    "endIndex": 39192,
                     "textRun": {
                       "content": "Governance\n",
                       "textStyle": {}
@@ -2641,13 +3111,13 @@
               }
             },
             {
-              "startIndex": 30331,
-              "endIndex": 31343,
+              "startIndex": 39192,
+              "endIndex": 40204,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 30331,
-                    "endIndex": 31343,
+                    "startIndex": 39192,
+                    "endIndex": 40204,
                     "textRun": {
                       "content": "Today’s internet governance apparatus handles many low-level technology standards from IP to HTML, but as our digital sphere has grown to encompass most human activities, internet governance has failed to grow with it and comes up short on two aspects. First, in scope: most digital governance needs sit well above low-level tech but they are hardly addressed at all, primarily left to tech monopolies. For advertising, this role could have been taken on by the IAB, but it is primarily focused on lobbying for the industry as well as heavily Google-dominated. Second, in enforcement: the enforcement mechanism used by internet standards is competition in the market — if you don’t implement the standard well, you will lose to competitors. Because market-backed enforcement feels automatic or even magical, the internet governance community has largely failed to think about effective enforcement or the reckon with what would happen to standards as the primary markets they operate in ceased to be contested. \n",
                       "textStyle": {}
@@ -2661,21 +3131,21 @@
               }
             },
             {
-              "startIndex": 31343,
-              "endIndex": 31792,
+              "startIndex": 40204,
+              "endIndex": 40653,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 31343,
-                    "endIndex": 31732,
+                    "startIndex": 40204,
+                    "endIndex": 40593,
                     "textRun": {
                       "content": "As a result, there is no existing governance structure able to take on governing digital advertising infrastructure and very little in the way of models to imitate, despite it being obvious that leaving the system to its own devices has failed. This was particularly obvious during the slow-motion wreckage of the Privacy Sandbox proposal. We need institutions that are able to govern the ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 31732,
-                    "endIndex": 31739,
+                    "startIndex": 40593,
+                    "endIndex": 40600,
                     "textRun": {
                       "content": "runtime",
                       "textStyle": {
@@ -2684,8 +3154,8 @@
                     }
                   },
                   {
-                    "startIndex": 31739,
-                    "endIndex": 31792,
+                    "startIndex": 40600,
+                    "endIndex": 40653,
                     "textRun": {
                       "content": " operation of transnational digital infrastructures.\n",
                       "textStyle": {}
@@ -2699,13 +3169,13 @@
               }
             },
             {
-              "startIndex": 31792,
-              "endIndex": 32303,
+              "startIndex": 40653,
+              "endIndex": 41164,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 31792,
-                    "endIndex": 32303,
+                    "startIndex": 40653,
+                    "endIndex": 41164,
                     "textRun": {
                       "content": "A useful approach to governance consists in splitting the problem into smaller ones that can be governed by simpler, more manageable entities. This is done by separating out responsibilities and creating protocols such that different components with different roles can interact with one another. This approach applies here, but because the marketplace that intermediates ad buyers and sellers has such central power, this document focuses primarily on outlining a governance model for that family of entities.\n",
                       "textStyle": {}
@@ -2719,13 +3189,13 @@
               }
             },
             {
-              "startIndex": 32303,
-              "endIndex": 32326,
+              "startIndex": 41164,
+              "endIndex": 41187,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 32303,
-                    "endIndex": 32326,
+                    "startIndex": 41164,
+                    "endIndex": 41187,
                     "textRun": {
                       "content": "The Garuda Institution\n",
                       "textStyle": {}
@@ -2740,21 +3210,21 @@
               }
             },
             {
-              "startIndex": 32326,
-              "endIndex": 32478,
+              "startIndex": 41187,
+              "endIndex": 41339,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 32326,
-                    "endIndex": 32424,
+                    "startIndex": 41187,
+                    "endIndex": 41285,
                     "textRun": {
                       "content": "Garuda stands for “Governance of Ad Requests by a Union of Diverse Actors,” named after the deity ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 32424,
-                    "endIndex": 32430,
+                    "startIndex": 41285,
+                    "endIndex": 41291,
                     "textRun": {
                       "content": "Garuda",
                       "textStyle": {
@@ -2775,8 +3245,8 @@
                     }
                   },
                   {
-                    "startIndex": 32430,
-                    "endIndex": 32478,
+                    "startIndex": 41291,
+                    "endIndex": 41339,
                     "textRun": {
                       "content": ". The institution has several responsibilities:\n",
                       "textStyle": {}
@@ -2790,13 +3260,13 @@
               }
             },
             {
-              "startIndex": 32478,
-              "endIndex": 33137,
+              "startIndex": 41339,
+              "endIndex": 41998,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 32478,
-                    "endIndex": 32568,
+                    "startIndex": 41339,
+                    "endIndex": 41429,
                     "textRun": {
                       "content": "Shepherding the technical standards that define the marketplace and related infrastructure",
                       "textStyle": {
@@ -2805,8 +3275,8 @@
                     }
                   },
                   {
-                    "startIndex": 32568,
-                    "endIndex": 33137,
+                    "startIndex": 41429,
+                    "endIndex": 41998,
                     "textRun": {
                       "content": ". Garuda convenes technical discussion around marketplace standards as well as related ones such as attribution. It also manages the integration of the advertising ecosystem into wider technical communities that operate with similar infrastructure (e.g. the Beckn Protocol). It carries out the work in writing standards, finding consensus, and developing test suites, to ensure that the marketplace is interoperable, royalty-free, and production-grade. It also manages the core principles that drive the work and serve as a constitutional foundation to the governance.\n",
                       "textStyle": {}
@@ -2820,13 +3290,13 @@
               }
             },
             {
-              "startIndex": 33137,
-              "endIndex": 33650,
+              "startIndex": 41998,
+              "endIndex": 42511,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 33137,
-                    "endIndex": 33211,
+                    "startIndex": 41998,
+                    "endIndex": 42072,
                     "textRun": {
                       "content": "Managing the open source implementation and maintenance of the marketplace",
                       "textStyle": {
@@ -2835,8 +3305,8 @@
                     }
                   },
                   {
-                    "startIndex": 33211,
-                    "endIndex": 33650,
+                    "startIndex": 42072,
+                    "endIndex": 42511,
                     "textRun": {
                       "content": ". The marketplace software will be developed in an open source manner, but changes made to the code will need to be aligned with the objectives of the institution, which will need to be reflected in the change review process. Further, there is no expectation that software development will be entirely carried out by the community; rather the institution should provision sufficient resources to underwrite the marketplace's development. \n",
                       "textStyle": {}
@@ -2850,13 +3320,13 @@
               }
             },
             {
-              "startIndex": 33650,
-              "endIndex": 34214,
+              "startIndex": 42511,
+              "endIndex": 43075,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 33650,
-                    "endIndex": 33698,
+                    "startIndex": 42511,
+                    "endIndex": 42559,
                     "textRun": {
                       "content": "Organising the worldwide network of marketplaces",
                       "textStyle": {
@@ -2865,8 +3335,8 @@
                     }
                   },
                   {
-                    "startIndex": 33698,
-                    "endIndex": 34214,
+                    "startIndex": 42559,
+                    "endIndex": 43075,
                     "textRun": {
                       "content": ". The institution will operate a network of marketplaces with high-performance SLAs and an arrangement that enables easy auditing. This will entail delegating to local operators while ensuring that the network as a whole remains trustworthy. The institution will seek a balance between locally-devolved power so that advertising can operate the way that local jurisdictions expect it to and global interoperability so that the planetary network operates seamlessly and is able to uphold a number of core principles.\n",
                       "textStyle": {}
@@ -2880,13 +3350,13 @@
               }
             },
             {
-              "startIndex": 34214,
-              "endIndex": 34500,
+              "startIndex": 43075,
+              "endIndex": 43361,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 34214,
-                    "endIndex": 34270,
+                    "startIndex": 43075,
+                    "endIndex": 43131,
                     "textRun": {
                       "content": "Ensuring the general health of the advertising ecosystem",
                       "textStyle": {
@@ -2895,8 +3365,8 @@
                     }
                   },
                   {
-                    "startIndex": 34270,
-                    "endIndex": 34500,
+                    "startIndex": 43131,
+                    "endIndex": 43361,
                     "textRun": {
                       "content": ". By providing a common space where stakeholders must reach some form of consensus in order for the system to operate, the institution is taking on some responsibility for the health of the broader digital advertising ecosystem. \n",
                       "textStyle": {}
@@ -2910,13 +3380,13 @@
               }
             },
             {
-              "startIndex": 34500,
-              "endIndex": 34519,
+              "startIndex": 43361,
+              "endIndex": 43380,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 34500,
-                    "endIndex": 34519,
+                    "startIndex": 43361,
+                    "endIndex": 43380,
                     "textRun": {
                       "content": "Governance Outline\n",
                       "textStyle": {}
@@ -2931,13 +3401,13 @@
               }
             },
             {
-              "startIndex": 34519,
-              "endIndex": 34646,
+              "startIndex": 43380,
+              "endIndex": 43507,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 34519,
-                    "endIndex": 34646,
+                    "startIndex": 43380,
+                    "endIndex": 43507,
                     "textRun": {
                       "content": "This section provides only an outline of the governance model for the Garuda institution so as to give a general sense for it.\n",
                       "textStyle": {}
@@ -2951,13 +3421,13 @@
               }
             },
             {
-              "startIndex": 34646,
-              "endIndex": 34748,
+              "startIndex": 43507,
+              "endIndex": 43609,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 34646,
-                    "endIndex": 34748,
+                    "startIndex": 43507,
+                    "endIndex": 43609,
                     "textRun": {
                       "content": "The Garuda institution is comprised of two primary bodies: the Governance Board and the Legal Entity.\n",
                       "textStyle": {}
@@ -2971,13 +3441,13 @@
               }
             },
             {
-              "startIndex": 34748,
-              "endIndex": 35005,
+              "startIndex": 43609,
+              "endIndex": 43866,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 34748,
-                    "endIndex": 35005,
+                    "startIndex": 43609,
+                    "endIndex": 43866,
                     "textRun": {
                       "content": "The Governance Board is tasked with the oversight of the institution and the slow-moving aspects of governance. All Board deliberations are public with rare, motivated exceptions. Board terms are limited. It concerns itself primarily with the fundamentals:\n",
                       "textStyle": {}
@@ -2991,13 +3461,13 @@
               }
             },
             {
-              "startIndex": 35005,
-              "endIndex": 35049,
+              "startIndex": 43866,
+              "endIndex": 43910,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 35005,
-                    "endIndex": 35049,
+                    "startIndex": 43866,
+                    "endIndex": 43910,
                     "textRun": {
                       "content": "Oversight of the Executive Director’s work.\n",
                       "textStyle": {}
@@ -3026,13 +3496,13 @@
               }
             },
             {
-              "startIndex": 35049,
-              "endIndex": 35086,
+              "startIndex": 43910,
+              "endIndex": 43947,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 35049,
-                    "endIndex": 35086,
+                    "startIndex": 43910,
+                    "endIndex": 43947,
                     "textRun": {
                       "content": "Standard and implementation process.\n",
                       "textStyle": {}
@@ -3061,13 +3531,13 @@
               }
             },
             {
-              "startIndex": 35086,
-              "endIndex": 35122,
+              "startIndex": 43947,
+              "endIndex": 43983,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 35086,
-                    "endIndex": 35122,
+                    "startIndex": 43947,
+                    "endIndex": 43983,
                     "textRun": {
                       "content": "Core principles of the institution.\n",
                       "textStyle": {}
@@ -3096,13 +3566,13 @@
               }
             },
             {
-              "startIndex": 35122,
-              "endIndex": 35227,
+              "startIndex": 43983,
+              "endIndex": 44088,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 35122,
-                    "endIndex": 35227,
+                    "startIndex": 43983,
+                    "endIndex": 44088,
                     "textRun": {
                       "content": "What can be decided by local operators (subsidiarity) versus what must be upheld at the planetary level.\n",
                       "textStyle": {}
@@ -3131,13 +3601,13 @@
               }
             },
             {
-              "startIndex": 35227,
-              "endIndex": 35853,
+              "startIndex": 44088,
+              "endIndex": 44714,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 35227,
-                    "endIndex": 35853,
+                    "startIndex": 44088,
+                    "endIndex": 44714,
                     "textRun": {
                       "content": "The Legal Entity takes care of day-to-day operations. It is responsible for maintaining, deploying, and operating the network and marketplace at requisite Service Level Agreements (SLAs) and at reasonable cost, as well as of research into future technology that Garuda could use, with organising the various groups that will bring stakeholders together to help evolve Garuda over time, and with the elaboration of policy positions which Garuda will cooperate with regulators on. It is run by the Executive Director. The Board selects (by consensus) an Executive Director every three years or whenever the post becomes vacant.\n",
                       "textStyle": {}
@@ -3151,13 +3621,13 @@
               }
             },
             {
-              "startIndex": 35853,
-              "endIndex": 36547,
+              "startIndex": 44714,
+              "endIndex": 45408,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 35853,
-                    "endIndex": 36547,
+                    "startIndex": 44714,
+                    "endIndex": 45408,
                     "textRun": {
                       "content": "There are three primary constituencies: user agents (e.g. browsers, operating systems, generally systems that control the conditions of ad rendering), sellers (often known as publishers), and buyers. For each of them, there are inclusion criteria designed to prevent gaming the system by spawning multiple entities. Votes are not necessarily prorated by volume, or if they are then a discount must be applied to avoid skewing too heavily in favour of larger actors. Governance Board seats are apportioned to constituencies. (The Board may then extend itself by inviting additional members.) No company can have more than one representative, even if it participates in different constituencies.\n",
                       "textStyle": {}
@@ -3171,13 +3641,13 @@
               }
             },
             {
-              "startIndex": 36547,
-              "endIndex": 36863,
+              "startIndex": 45408,
+              "endIndex": 45724,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 36547,
-                    "endIndex": 36863,
+                    "startIndex": 45408,
+                    "endIndex": 45724,
                     "textRun": {
                       "content": "The institution is financed through a very small tax on advertising. Multiple models are possible: a flat fee per bid, a percentage of effective CPM transacted, or a flat fee per unit time that one is buying or selling on the marketplace are all possible. The amount and type of the tax is determined by the Board. \n",
                       "textStyle": {}
@@ -3191,13 +3661,13 @@
               }
             },
             {
-              "startIndex": 36863,
-              "endIndex": 37377,
+              "startIndex": 45724,
+              "endIndex": 46238,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 36863,
-                    "endIndex": 37377,
+                    "startIndex": 45724,
+                    "endIndex": 46238,
                     "textRun": {
                       "content": "Part of the tax should further be set aside to provide financial support to stakeholders who cannot afford to pay someone to spend time in Board discussions, so as to ensure that participants from companies of all sizes, and from all backgrounds the world around can participate with equity. Another fund can be set up to support user agents that agree to abide by a given covenant (e.g. for privacy) so as to support the implementation of high-quality client software that is aligned with the needs of its users.\n",
                       "textStyle": {}
@@ -3211,13 +3681,13 @@
               }
             },
             {
-              "startIndex": 37377,
-              "endIndex": 37390,
+              "startIndex": 46238,
+              "endIndex": 46251,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 37377,
-                    "endIndex": 37390,
+                    "startIndex": 46238,
+                    "endIndex": 46251,
                     "textRun": {
                       "content": "Subsidiarity\n",
                       "textStyle": {}
@@ -3232,13 +3702,13 @@
               }
             },
             {
-              "startIndex": 37390,
-              "endIndex": 37722,
+              "startIndex": 46251,
+              "endIndex": 46583,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 37390,
-                    "endIndex": 37722,
+                    "startIndex": 46251,
+                    "endIndex": 46583,
                     "textRun": {
                       "content": "One challenge which this document only addresses briefly is that of the interplay between a planetary system — that must be interoperable and that should adhere to a minimal set of principles so as to be predictable in its operation — and the need for locally-anchored governance, reflective of local preferences and jurisdictions.\n",
                       "textStyle": {}
@@ -3252,13 +3722,13 @@
               }
             },
             {
-              "startIndex": 37722,
-              "endIndex": 38030,
+              "startIndex": 46583,
+              "endIndex": 46891,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 37722,
-                    "endIndex": 38030,
+                    "startIndex": 46583,
+                    "endIndex": 46891,
                     "textRun": {
                       "content": "It is important to support both and not just global interoperability because the latter, operating alone, eliminates the agency that people are afforded through their local governance arrangements. We can only have democratic technology if it is designed and governed to be responsive to local jurisdiction.\n",
                       "textStyle": {}
@@ -3272,13 +3742,13 @@
               }
             },
             {
-              "startIndex": 38030,
-              "endIndex": 38708,
+              "startIndex": 46891,
+              "endIndex": 47569,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 38030,
-                    "endIndex": 38708,
+                    "startIndex": 46891,
+                    "endIndex": 47569,
                     "textRun": {
                       "content": "There is a corollary to that choice: it also means that wherever the local regime is undemocratic we must accept that, for the most part, the local deployment of the digital infrastructure will also be undemocratic. This is because when globally interoperably digital infrastructure has the power to impose certain values, then it has the power to impose unethical, dangerous, or detrimental values. With subsidiarity — the arrangement according to which decisions that can be made locally are — we may lose democratic governance in some places but we gain democratic potential everywhere. We have to accept that liberation must be locally-led and not imposed from the outside.\n",
                       "textStyle": {}
@@ -3292,13 +3762,13 @@
               }
             },
             {
-              "startIndex": 38708,
-              "endIndex": 39343,
+              "startIndex": 47569,
+              "endIndex": 48204,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 38708,
-                    "endIndex": 39343,
+                    "startIndex": 47569,
+                    "endIndex": 48204,
                     "textRun": {
                       "content": "A globally interoperable network that delegates infrastructural operations to entities in local jurisdictions has strong benefits in decreasing the cost of compliance and increasing the ease of regulatory enforcement. If, for instance, you know that your advertising infrastructure is GDPR-compliant then you can limit yourself to worrying only about your own data processing. Simultaneously, regulators have a partner with which to develop viable, sustainable enforcement. This means that that you liberate more energies for innovation while having credible regulation at the same time — an eat-your-cake-and-have-it-too arrangement.\n",
                       "textStyle": {}
@@ -3312,13 +3782,13 @@
               }
             },
             {
-              "startIndex": 39343,
-              "endIndex": 39357,
+              "startIndex": 48204,
+              "endIndex": 48218,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 39343,
-                    "endIndex": 39357,
+                    "startIndex": 48204,
+                    "endIndex": 48218,
                     "textRun": {
                       "content": "Public Policy\n",
                       "textStyle": {}
@@ -3333,13 +3803,13 @@
               }
             },
             {
-              "startIndex": 39357,
-              "endIndex": 39649,
+              "startIndex": 48218,
+              "endIndex": 48510,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 39357,
-                    "endIndex": 39649,
+                    "startIndex": 48218,
+                    "endIndex": 48510,
                     "textRun": {
                       "content": "The RHEA system is not built on recent innovations in technology or governance, and even when a given component hasn’t existed for a long time it wouldn’t have prevented the emergence of this arrangement earlier. If this system has so many promising properties, why doesn’t it exist already?\n",
                       "textStyle": {}
@@ -3353,13 +3823,13 @@
               }
             },
             {
-              "startIndex": 39649,
-              "endIndex": 39704,
+              "startIndex": 48510,
+              "endIndex": 48565,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 39649,
-                    "endIndex": 39704,
+                    "startIndex": 48510,
+                    "endIndex": 48565,
                     "textRun": {
                       "content": "Several aspects have conspired to make it challenging:\n",
                       "textStyle": {}
@@ -3373,13 +3843,13 @@
               }
             },
             {
-              "startIndex": 39704,
-              "endIndex": 39839,
+              "startIndex": 48565,
+              "endIndex": 48700,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 39704,
-                    "endIndex": 39713,
+                    "startIndex": 48565,
+                    "endIndex": 48574,
                     "textRun": {
                       "content": "Convening",
                       "textStyle": {
@@ -3388,8 +3858,8 @@
                     }
                   },
                   {
-                    "startIndex": 39713,
-                    "endIndex": 39839,
+                    "startIndex": 48574,
+                    "endIndex": 48700,
                     "textRun": {
                       "content": ". Making this system works requires convening support from a range of actors who have no convenor in which they can all meet.\n",
                       "textStyle": {}
@@ -3418,13 +3888,13 @@
               }
             },
             {
-              "startIndex": 39839,
-              "endIndex": 40036,
+              "startIndex": 48700,
+              "endIndex": 48897,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 39839,
-                    "endIndex": 39849,
+                    "startIndex": 48700,
+                    "endIndex": 48710,
                     "textRun": {
                       "content": "Monopolies",
                       "textStyle": {
@@ -3433,8 +3903,8 @@
                     }
                   },
                   {
-                    "startIndex": 39849,
-                    "endIndex": 40036,
+                    "startIndex": 48710,
+                    "endIndex": 48897,
                     "textRun": {
                       "content": ". States have largely abandoned the governance of the digital space to tech monopolies, and they have no interest in making it work in ways that align with democracy and public interest.\n",
                       "textStyle": {}
@@ -3463,13 +3933,13 @@
               }
             },
             {
-              "startIndex": 40036,
-              "endIndex": 40223,
+              "startIndex": 48897,
+              "endIndex": 49084,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 40036,
-                    "endIndex": 40041,
+                    "startIndex": 48897,
+                    "endIndex": 48902,
                     "textRun": {
                       "content": "Scale",
                       "textStyle": {
@@ -3478,8 +3948,8 @@
                     }
                   },
                   {
-                    "startIndex": 40041,
-                    "endIndex": 40223,
+                    "startIndex": 48902,
+                    "endIndex": 49084,
                     "textRun": {
                       "content": ". Advertising systems live or die on scale. Deploying an entirely new advertising system needs access to significant scale on both the buy and sell sides in order to stand a chance.\n",
                       "textStyle": {}
@@ -3508,13 +3978,13 @@
               }
             },
             {
-              "startIndex": 40223,
-              "endIndex": 40381,
+              "startIndex": 49084,
+              "endIndex": 49242,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 40223,
-                    "endIndex": 40245,
+                    "startIndex": 49084,
+                    "endIndex": 49106,
                     "textRun": {
                       "content": "Regulatory environment",
                       "textStyle": {
@@ -3523,8 +3993,8 @@
                     }
                   },
                   {
-                    "startIndex": 40245,
-                    "endIndex": 40381,
+                    "startIndex": 49106,
+                    "endIndex": 49242,
                     "textRun": {
                       "content": ". The regulatory environment, including in Europe, does nothing to improve digital advertising and in many cases worsens the situation.\n",
                       "textStyle": {}
@@ -3553,13 +4023,13 @@
               }
             },
             {
-              "startIndex": 40381,
-              "endIndex": 41108,
+              "startIndex": 49242,
+              "endIndex": 49969,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 40381,
-                    "endIndex": 41108,
+                    "startIndex": 49242,
+                    "endIndex": 49969,
                     "textRun": {
                       "content": "Most of these hurdles can be cleared using public policy (scale is harder, but investment and procurement can help sustain the system until it has grown enough). Discussions with regulators and policymakers has shown that one driver of their continued lack of intervention is that they don’t see potential alternatives to the current system and worry about harming an industry that is essential to the media at a time when media companies are already on life support. But the benefits that RHEA offers can become a floor for policy, regulation, and enforcement even before RHEA is big. It can be the tide that lifts all boats and drowns all bad actors. Several policy interventions could help transition to this better system:\n",
                       "textStyle": {}
@@ -3573,13 +4043,13 @@
               }
             },
             {
-              "startIndex": 41108,
-              "endIndex": 41594,
+              "startIndex": 49969,
+              "endIndex": 50455,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 41108,
-                    "endIndex": 41113,
+                    "startIndex": 49969,
+                    "endIndex": 49974,
                     "textRun": {
                       "content": "Break",
                       "textStyle": {
@@ -3588,8 +4058,8 @@
                     }
                   },
                   {
-                    "startIndex": 41113,
-                    "endIndex": 41594,
+                    "startIndex": 49974,
+                    "endIndex": 50455,
                     "textRun": {
                       "content": ". Google is already a convicted monopolist in advertising (twice if you count that the search conviction includes search ads) and there are additional cases, notably in Europe. Google’s rule-setting power in advertising makes improving this infrastructure highly challenging. Their influence power is also not to be discounted: much of the time they have a desk right inside major agencies, are in constant contact with larger buyers and sellers, and control most industry bodies.\n",
                       "textStyle": {}
@@ -3603,13 +4073,13 @@
               }
             },
             {
-              "startIndex": 41594,
-              "endIndex": 42122,
+              "startIndex": 50455,
+              "endIndex": 50983,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 41594,
-                    "endIndex": 42122,
+                    "startIndex": 50455,
+                    "endIndex": 50983,
                     "textRun": {
                       "content": "A break-up would make a big difference in diminishing that power. It is not a solution on its own because, barring better-built alternatives designed from the ground up to work in the interest of multiple stakeholder groups, the market will just tilt again. The power of intermediaries in n-sided markets simply cannot be contained with simple markets supported by antitrust intervention every other decade. But not being a solution on its own does not mean that it cannot create space in which a broader strategy can flourish.\n",
                       "textStyle": {}
@@ -3623,13 +4093,13 @@
               }
             },
             {
-              "startIndex": 42122,
-              "endIndex": 42670,
+              "startIndex": 50983,
+              "endIndex": 51531,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 42122,
-                    "endIndex": 42126,
+                    "startIndex": 50983,
+                    "endIndex": 50987,
                     "textRun": {
                       "content": "GDPR",
                       "textStyle": {
@@ -3638,8 +4108,8 @@
                     }
                   },
                   {
-                    "startIndex": 42126,
-                    "endIndex": 42670,
+                    "startIndex": 50987,
+                    "endIndex": 51531,
                     "textRun": {
                       "content": ". It is no secret that GDPR enforcement is a failure. Legitimate small businesses bend themselves out of shape to adhere to meaningless bureaucratic compliance while the biggest data brokers just leak data all around with impunity. There is active discussion in Brussels about “re-opening the GDPR” and thus reforming the text of the regulation itself. This is both cumbersome — not to mention risky — and unnecessary. Why go through such a painful process when many of the GDPR’s biggest issues can be fixed with lighter-weight interventions?\n",
                       "textStyle": {}
@@ -3653,13 +4123,13 @@
               }
             },
             {
-              "startIndex": 42670,
-              "endIndex": 43087,
+              "startIndex": 51531,
+              "endIndex": 51948,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 42670,
-                    "endIndex": 43087,
+                    "startIndex": 51531,
+                    "endIndex": 51948,
                     "textRun": {
                       "content": "Leaning more into standardised data processing, relying more on Articles 40/41 to establish meaningful baselines, seeking consensus about exemptions, supporting automated signals like GPC, shifting harder to decisions to collectives, improving data processing risk signalling are all examples of ways in which the GDPR, as a powerful legal framework, can be deployed in ways that make sense to people and businesses.\n",
                       "textStyle": {}
@@ -3673,13 +4143,13 @@
               }
             },
             {
-              "startIndex": 43087,
-              "endIndex": 43661,
+              "startIndex": 51948,
+              "endIndex": 52522,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 43087,
-                    "endIndex": 43661,
+                    "startIndex": 51948,
+                    "endIndex": 52522,
                     "textRun": {
                       "content": "And as part of this, the GDPR needs to be enforced against the most egregious violations. The RTB system is one, the manner in which mobile operating systems or Google Chrome track people are others. In most online contexts, there is simply no justification for having more than one controller involved at any given time. There no justification for your browser to provide your entire browsing history for further processing. It is highly challenging for good actors to emerge when the industry is organised as a race to the bottom and regulators sit by watching anxiously.\n",
                       "textStyle": {}
@@ -3693,13 +4163,13 @@
               }
             },
             {
-              "startIndex": 43661,
-              "endIndex": 43978,
+              "startIndex": 52522,
+              "endIndex": 52839,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 43661,
-                    "endIndex": 43664,
+                    "startIndex": 52522,
+                    "endIndex": 52525,
                     "textRun": {
                       "content": "DMA",
                       "textStyle": {
@@ -3708,8 +4178,8 @@
                     }
                   },
                   {
-                    "startIndex": 43664,
-                    "endIndex": 43978,
+                    "startIndex": 52525,
+                    "endIndex": 52839,
                     "textRun": {
                       "content": ". The DMA is another unused or underused powertool. It was designed to shape digital markets so that they would operate in ways that are aligned with the needs of society, but so far it has only been used to have gentle conversations with monopolies, non-binding public workshops, and a couple of parking tickets.\n",
                       "textStyle": {}
@@ -3723,13 +4193,13 @@
               }
             },
             {
-              "startIndex": 43978,
-              "endIndex": 44700,
+              "startIndex": 52839,
+              "endIndex": 53561,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 43978,
-                    "endIndex": 44700,
+                    "startIndex": 52839,
+                    "endIndex": 53561,
                     "textRun": {
                       "content": "One component of the DMA that has a meaningful impact on advertising systems is the ability for monopolies that provide more than one service to blend data from several of those services together. As explained above, this ability gives them an edge in advertising in that using data extracted from a very broad surveillance area they can detect purchase intent, show an ad for a purchase that was going to happen, and claim the conversion. The DMA should be used to enforce strict separation of those data sets and (since it unfortunately has a consent-to-monopoly exemption) impose strict requirements on consenting to cross-context data mixing. Like the rest of the DMA, this has yet to mobilised in any meaningful way.\n",
                       "textStyle": {}
@@ -3743,13 +4213,13 @@
               }
             },
             {
-              "startIndex": 44700,
-              "endIndex": 44956,
+              "startIndex": 53561,
+              "endIndex": 53817,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 44700,
-                    "endIndex": 44956,
+                    "startIndex": 53561,
+                    "endIndex": 53817,
                     "textRun": {
                       "content": "Beyond that, the DMA has a real market-structuring toolbox and market-structuring is what is needed here. It could for instance be used to impose conditionalities on for instance search engines, browsers, etc. in terms of how they allow data to circulate.\n",
                       "textStyle": {}
@@ -3763,13 +4233,13 @@
               }
             },
             {
-              "startIndex": 44956,
-              "endIndex": 45259,
+              "startIndex": 53817,
+              "endIndex": 54120,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 44956,
-                    "endIndex": 44959,
+                    "startIndex": 53817,
+                    "endIndex": 53820,
                     "textRun": {
                       "content": "DFA",
                       "textStyle": {
@@ -3778,8 +4248,8 @@
                     }
                   },
                   {
-                    "startIndex": 44959,
-                    "endIndex": 45259,
+                    "startIndex": 53820,
+                    "endIndex": 54120,
                     "textRun": {
                       "content": ". The Digital Fairness Act (DFA) is still being shaped, but it could provide a promising vehicle for advertising-related consumer protection. A good avenue of further work is therefore taking the time to understand which provisions would most help people and support establishing a RHEA-like system.\n",
                       "textStyle": {}
@@ -3793,13 +4263,13 @@
               }
             },
             {
-              "startIndex": 45259,
-              "endIndex": 45966,
+              "startIndex": 54120,
+              "endIndex": 54827,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 45259,
-                    "endIndex": 45966,
+                    "startIndex": 54120,
+                    "endIndex": 54827,
                     "textRun": {
                       "content": "Of particular interest is the idea that user agents — software that works on behalf of a person and represents them in their interactions with other software systems — should be regulated and required to operate in a trustworthy manner. It has already been suggested that the DFA include requirements for AI agents to be trustworthy, but there is no reason to make this so restrictive and fashion-specific — user agents hold huge power and that power is being used to deceive people and shape markets with or without AI. The W3C Privacy Principles already support such a notion ([[privacy-principles]]) and earlier work on the fiduciary responsibilities of agents offers further details ([[fiduciary-ua]]).\n",
                       "textStyle": {}
@@ -3813,13 +4283,13 @@
               }
             },
             {
-              "startIndex": 45966,
-              "endIndex": 45983,
+              "startIndex": 54827,
+              "endIndex": 54844,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 45966,
-                    "endIndex": 45983,
+                    "startIndex": 54827,
+                    "endIndex": 54844,
                     "textRun": {
                       "content": "Acknowledgements\n",
                       "textStyle": {}
@@ -3838,21 +4308,21 @@
               }
             },
             {
-              "startIndex": 45983,
-              "endIndex": 46477,
+              "startIndex": 54844,
+              "endIndex": 55477,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 45983,
-                    "endIndex": 46355,
+                    "startIndex": 54844,
+                    "endIndex": 55216,
                     "textRun": {
                       "content": "In earlier iterations, Aram Zucker-Scharff, Max Gendler, Mihir Kshirsagar, and Reuben Binns provided much invaluable feedback. Many thanks to Juan Ortiz Freuler for organising a discussion session around Garuda at the Berkman Klein Center for Internet & Society before it was even public, as well as to Levin Kim, Crystal Lee, Sahar Massachi, Tom Zick as convenors of the ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 46355,
-                    "endIndex": 46367,
+                    "startIndex": 55216,
+                    "endIndex": 55228,
                     "textRun": {
                       "content": "Ethical Tech",
                       "textStyle": {
@@ -3861,16 +4331,16 @@
                     }
                   },
                   {
-                    "startIndex": 46367,
-                    "endIndex": 46372,
+                    "startIndex": 55228,
+                    "endIndex": 55233,
                     "textRun": {
                       "content": " and ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 46372,
-                    "endIndex": 46391,
+                    "startIndex": 55233,
+                    "endIndex": 55252,
                     "textRun": {
                       "content": "Big Tech Governance",
                       "textStyle": {
@@ -3879,10 +4349,10 @@
                     }
                   },
                   {
-                    "startIndex": 46391,
-                    "endIndex": 46477,
+                    "startIndex": 55252,
+                    "endIndex": 55477,
                     "textRun": {
-                      "content": " groups, and the attendees of the session for a spirited and constructive discussion.\n",
+                      "content": " groups, and the attendees of the session for a spirited and constructive discussion. Erik Bugge is always there to prove that contextual works better than everyone expects, and to suggest the simplest, no-nonsense solution.\n",
                       "textStyle": {}
                     }
                   }
@@ -3898,21 +4368,21 @@
               }
             },
             {
-              "startIndex": 46477,
-              "endIndex": 46719,
+              "startIndex": 55477,
+              "endIndex": 55719,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 46477,
-                    "endIndex": 46505,
+                    "startIndex": 55477,
+                    "endIndex": 55505,
                     "textRun": {
                       "content": "Heartfelt thanks as well to ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 46505,
-                    "endIndex": 46523,
+                    "startIndex": 55505,
+                    "endIndex": 55523,
                     "textRun": {
                       "content": "The New York Times",
                       "textStyle": {
@@ -3921,16 +4391,16 @@
                     }
                   },
                   {
-                    "startIndex": 46523,
-                    "endIndex": 46652,
+                    "startIndex": 55523,
+                    "endIndex": 55652,
                     "textRun": {
                       "content": " for supporting earlier versions of this work. While there, Allison Murphy, Sasha Heroy, Jackie Lee, and Danielle Racioppi very, ",
                       "textStyle": {}
                     }
                   },
                   {
-                    "startIndex": 46652,
-                    "endIndex": 46656,
+                    "startIndex": 55652,
+                    "endIndex": 55656,
                     "textRun": {
                       "content": "very",
                       "textStyle": {
@@ -3939,8 +4409,8 @@
                     }
                   },
                   {
-                    "startIndex": 46656,
-                    "endIndex": 46719,
+                    "startIndex": 55656,
+                    "endIndex": 55719,
                     "textRun": {
                       "content": " patiently explained to me how advertising and marketing work.\n",
                       "textStyle": {}
@@ -3958,13 +4428,13 @@
               }
             },
             {
-              "startIndex": 46719,
-              "endIndex": 46844,
+              "startIndex": 55719,
+              "endIndex": 55844,
               "paragraph": {
                 "elements": [
                   {
-                    "startIndex": 46719,
-                    "endIndex": 46844,
+                    "startIndex": 55719,
+                    "endIndex": 55844,
                     "textRun": {
                       "content": "Finally, my deep thanks to Vera Franz and Cori Crider for long discussion and convening the group that this document is for.\n",
                       "textStyle": {}
@@ -5476,6 +5946,324 @@
               ]
             }
           },
+          "kix.stm6pim4xk3l": {
+            "listProperties": {
+              "nestingLevels": [
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%0",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%1",
+                  "indentFirstLine": {
+                    "magnitude": 54,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 72,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%2",
+                  "indentFirstLine": {
+                    "magnitude": 90,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 108,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%3",
+                  "indentFirstLine": {
+                    "magnitude": 126,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 144,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%4",
+                  "indentFirstLine": {
+                    "magnitude": 162,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 180,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%5",
+                  "indentFirstLine": {
+                    "magnitude": 198,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 216,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%6",
+                  "indentFirstLine": {
+                    "magnitude": 234,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 252,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%7",
+                  "indentFirstLine": {
+                    "magnitude": 270,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 288,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%8",
+                  "indentFirstLine": {
+                    "magnitude": 306,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 324,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                }
+              ]
+            }
+          },
+          "kix.u2gltjj5gqvu": {
+            "listProperties": {
+              "nestingLevels": [
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%0",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%1",
+                  "indentFirstLine": {
+                    "magnitude": 54,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 72,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%2",
+                  "indentFirstLine": {
+                    "magnitude": 90,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 108,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%3",
+                  "indentFirstLine": {
+                    "magnitude": 126,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 144,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%4",
+                  "indentFirstLine": {
+                    "magnitude": 162,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 180,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%5",
+                  "indentFirstLine": {
+                    "magnitude": 198,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 216,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%6",
+                  "indentFirstLine": {
+                    "magnitude": 234,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 252,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%7",
+                  "indentFirstLine": {
+                    "magnitude": 270,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 288,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%8",
+                  "indentFirstLine": {
+                    "magnitude": 306,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 324,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                }
+              ]
+            }
+          },
           "kix.v789x6z1n0av": {
             "listProperties": {
               "nestingLevels": [
@@ -5636,6 +6424,165 @@
             }
           },
           "kix.vkxxvy4or3kw": {
+            "listProperties": {
+              "nestingLevels": [
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%0",
+                  "indentFirstLine": {
+                    "magnitude": 18,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%1",
+                  "indentFirstLine": {
+                    "magnitude": 54,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 72,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%2",
+                  "indentFirstLine": {
+                    "magnitude": 90,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 108,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%3",
+                  "indentFirstLine": {
+                    "magnitude": 126,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 144,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%4",
+                  "indentFirstLine": {
+                    "magnitude": 162,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 180,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%5",
+                  "indentFirstLine": {
+                    "magnitude": 198,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 216,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%6",
+                  "indentFirstLine": {
+                    "magnitude": 234,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 252,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%7",
+                  "indentFirstLine": {
+                    "magnitude": 270,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 288,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                },
+                {
+                  "bulletAlignment": "START",
+                  "glyphSymbol": "-",
+                  "glyphFormat": "%8",
+                  "indentFirstLine": {
+                    "magnitude": 306,
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 324,
+                    "unit": "PT"
+                  },
+                  "textStyle": {
+                    "underline": false
+                  },
+                  "startNumber": 1
+                }
+              ]
+            }
+          },
+          "kix.wyi7nf3din6t": {
             "listProperties": {
               "nestingLevels": [
                 {
